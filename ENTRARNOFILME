@@ -6,3 +6,12 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <fanart>https://image.tmdb.org/t/p/original/2k8vryZjN3qSxzMgUkkM0MmZQo3.jpg</fanart>
 <info>Dois pais bêbados tentam esconder suas crescentes dificuldades financeiras de sua filha e círculo social através de elaborados esquemas de vizinhança.</info>
 </item>
+MODELO UNIVERSAL DE APENAS UM LINK Neste Caso Maus Um Filme
+<item>
+<title>[COLOR lime] Titulo do filme [/COLOR]</title>
+<link>blob:https://cdn.yandexcloud.ga/2dd0b3ca-7fed-4c65-a15d-ef3690bf5351</link>
+<thumbnail>Capa</thumbnail>
+<fanart>Imagem De Fundo</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
