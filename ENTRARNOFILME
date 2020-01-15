@@ -1,0 +1,39 @@
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19br5GrX-J85gy9tLb1iPP17w6ca-qFv4/view$$lsname=[COLOR orange]HD[/COLOR] - </link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>http://cdna3.canais.link/RCFServer3/ondemand/PAISMTLCS.mp4?attachment=true$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[B][COLOR lime][/COLOR][/B][B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUUDIO ORIGINAL[/B]</title>
+<link>https://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+ 
+MODELO GDRIVE DE APENAS UM LINK
+ 
+ 
+<item>
+<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUUDIO ORIGINAL[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+MODELO UNIVERSAL DE APENAS UM LINK
+ 
+<item>
+<title>[B][COLOR lime]teste [/COLOR][/B][B][COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUUDIO ORIGINAL[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
