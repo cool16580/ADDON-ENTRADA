@@ -15,3 +15,11 @@ MODELO UNIVERSAL DE APENAS UM LINK Neste Caso Maus Um Filme
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[B][COLOR lime]NOME-[/COLOR]</title>
+<link>https://drive.google.com/file/d/19br5GrX-J85gy9tLb1iPP17w6ca-qFv4/view</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
