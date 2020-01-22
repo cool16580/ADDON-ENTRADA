@@ -1,21 +1,8 @@
-<item>
-<title>[B][COLOR lime]NOME-[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F1bvO8P7IHEAxUQA-EywpJafKY_3fSu2/view?usp=drivesdk</link>
-<thumbnail>https://www.imdb.com/title/tt0083998/mediaviewer/rm526981120</thumbnail>
-<fanart>https://www.imdb.com/title/tt0083998/mediaviewer/rm526981120</fanart>
-<info>
-Giannino Stoppani, chamado Gian Burrasca, é um garoto que adora piadas de mau gosto. Uma série de ações o levará a ser detestado por todos, exceto sua mãe.</info>
-</item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-MODELO GDRIVE DE APENAS UM LINK
- 
 <item>
-<title>[B][COLOR lime]NOME-[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LaWHaR8i76JyA4VGtHYwMggt7lXAQgDm/view?usp=drivesdk</link>
-<thumbnail>https://www.imdb.com/title/tt0082904/mediaviewer/rm1238374656</thumbnail>
-<fanart>https://www.imdb.com/title/tt0082904/mediaviewer/rm1238374656</fanart>
-<info>
-Pierino é um garoto precoce, mas travesso, que costuma fazer brincadeiras e fazer piadas na escola. Seu inimigo é seu antigo professor. Um dia Pierino faz um truque sujo, fazendo-a quebrar um braço.</info>
+<title>[COLOR lime]NOME-[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nWBX7NWYH9eQ0Yu544RqB5wNt5Yi59gJ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LTEszWZnIvMWvWlJSRhsFVa03.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKZ9p1BFGsg8LH0uzPKZYIso14W.jpg</fanart>
+<info>Adaptação de um romance de Júlio Dinis, retratando a vida romântica e rústica em Portugal, por volta de 1863.</info>
 </item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
