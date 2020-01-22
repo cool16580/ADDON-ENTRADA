@@ -1,7 +1,8 @@
 <item>
-<title>[COLOR lime]1935-CINEMA PORTUGUÊS-«AS PUPILAS DO SENHOR REITOR»[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nWBX7NWYH9eQ0Yu544RqB5wNt5Yi59gJ/view$$lsname=[COLOR orange]HD[/COLOR]
+<title>[COLOR lime]NOME-[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nWBX7NWYH9eQ0Yu544RqB5wNt5Yi59gJ/view?usp=sharing?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
