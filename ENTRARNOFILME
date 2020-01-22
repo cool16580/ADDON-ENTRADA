@@ -1,65 +1,21 @@
-MODELO UNIVERSAL DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Pais Muito Loucos (Dublado)[/COLOR]</title>
-<link>http://cdna3.canais.link/RCFServer3/ondemand/PAISMTLCS.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lNbaZwY4W3Hdz3oC28c9WKB0jM.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2k8vryZjN3qSxzMgUkkM0MmZQo3.jpg</fanart>
-<info>Dois pais bêbados tentam esconder suas crescentes dificuldades financeiras de sua filha e círculo social através de elaborados esquemas de vizinhança.</info>
+<title>[B][COLOR lime]NOME-[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F1bvO8P7IHEAxUQA-EywpJafKY_3fSu2/view?usp=drivesdk</link>
+<thumbnail>https://www.imdb.com/title/tt0083998/mediaviewer/rm526981120</thumbnail>
+<fanart>https://www.imdb.com/title/tt0083998/mediaviewer/rm526981120</fanart>
+<info>
+Giannino Stoppani, chamado Gian Burrasca, é um garoto que adora piadas de mau gosto. Uma série de ações o levará a ser detestado por todos, exceto sua mãe.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Polar (Dublado) [/COLOR]</title>
-<link>http://cdn3.canais.ink/RCFServer3/ondemand/PLR.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOBEpKVLl8Q9CZScbOcRRVISezV.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/u8CP7EeWbYMlIVqEoKAt6OYsEe1.jpg</fanart>
-<info>Quando um assassino aposentado percebe que ele é o alvo de um golpe, ele volta ao jogo indo de cabeça a cabeça com uma gangue de assassinos mais jovens e cruéis.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<title>[B][COLOR lime]IO: O Último na Terra (Dublado)[/COLOR]</title>
-<link>http://cdn3.canais.ink/RCFServer3/ondemand/IOULTMNTRA.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/tirhxzSR6g1A9Iayo2lpYW4luUF.jpg</fanart>
-<info>Enquanto uma jovem cientista procura uma maneira de salvar uma Terra moribunda, ela encontra uma conexão com um homem que está correndo para pegar o último ônibus espacial do planeta.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR lime]Corredor Assombrado (Dublado)[/COLOR]</title>
-<link>http://cdn3.canais.ink/RCFServer3/ondemand/CRDRASBRDO.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wErHaJrD1QZ2FEVneH6w0GZUz2L.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/cS6S6OcvcAjx0aBzvHPy1Sm4Snj.jpg</fanart>
-<info>Kit, uma menina problemática, é enviada para o internato exclusivo de Blackwood, onde descobre que apenas quatro outras alunas foram admitidas para aprender os quatro pilares do conhecimento sob a ala sinistra da misteriosa diretora Madame Duret.</info>
-</item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+ 
 <item>
-<title>[B][COLOR lime]Malévola: Dona do Mal (Dublado)[/COLOR]</title>
-<link>http://cdn3.canais.ink/RCFServer3/ondemand/MALVLADNADML.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg</fanart>
-<info>Malévola e sua afilhada Aurora começam a questionar os complexos laços familiares que os prendem à medida que são puxados em diferentes direções por núpcias iminentes, aliados inesperados e novas forças sombrias em jogo.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR lime]Táxi 5 (Dublado)[/COLOR]</title>
-<link>http://cdn3.canais.ink/RCFServer3/ondemand/TAX5.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/4U0K4CQQe8RcH2lZlE1ULPKa0u5.jpg</fanart>
-<info>Um policial que é transferido na polícia de Marselha é designado para derrubar um grupo de ladrões italianos que dirigem os poderosos Ferrari com a sobrinha mais velha de Daniel, um péssimo motorista que pega o lendário táxi branco.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR lime]Zumbilândia: Atire Duas Vezes (Dublado)[/COLOR]</title>
-<link>http://cdn3.canais.ink/RCFServer3/ondemand/ZMBLNDATRDSVZ.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3ghImmHdp4RnC3UkL6hpLayclnb.jpg</fanart>
-<info>Columbus, Tallahassee, Wichita e Little Rock mudam-se para o coração americano enquanto enfrentam zumbis evoluídos, companheiros sobreviventes e as crescentes dores da família improvisada e irritante.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR lime]Os Assassinatos de Amityville (Dublado)[/COLOR]</title>
-<link>http://cdn3.canais.ink/RCFServer3/ondemand/OSASASNTSDAMYTVLE.mp4?attachment=true</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/czMYViYqaNrvxaRyhUR0PTPyOig.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2Uc2yCdxceR82jWNgMtvdlBvzGz.jpg</fanart>
-<info>Na noite de 13 de novembro de 1974, Ronald DeFeo Jr. pegou um rifle de alta potência e matou toda a sua família enquanto dormiam. Em seu julgamento, DeFeo afirmou que 'vozes' em casa o ordenavam que ele matasse. Esta é a história deles.</info>
+<title>[B][COLOR lime]NOME-[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LaWHaR8i76JyA4VGtHYwMggt7lXAQgDm/view?usp=drivesdk</link>
+<thumbnail>https://www.imdb.com/title/tt0082904/mediaviewer/rm1238374656</thumbnail>
+<fanart>https://www.imdb.com/title/tt0082904/mediaviewer/rm1238374656</fanart>
+<info>
+Pierino é um garoto precoce, mas travesso, que costuma fazer brincadeiras e fazer piadas na escola. Seu inimigo é seu antigo professor. Um dia Pierino faz um truque sujo, fazendo-a quebrar um braço.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
