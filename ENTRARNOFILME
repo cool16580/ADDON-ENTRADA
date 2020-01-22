@@ -1,8 +1,27 @@
+MODELO COM VÁRIOS LINKS
 <item>
-<title>[COLOR lime]NOME-[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nWBX7NWYH9eQ0Yu544RqB5wNt5Yi59gJ/view?usp=sharing?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>FILMES 2018/2019</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1CMwXMeD4dWkVC0vAfvedpm3QYp05megw$$lsname=[COLOR lime]FULLHD[/COLOR] - ANNA 2019</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VmWt_0q8SlAGn9MYXxgIdRGFsGZzIjEZ/view$$lsname=[COLOR lime]FULLHD[/COLOR] - A PRAYER BEFORE DAWN 2017</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cjOfU6vOd_9HgJkE8PaPw5RxaDVkx7sm/view$$lsname=[COLOR lime]FULLHD[/COLOR] - REVENGE 2017</link>
+<link><iframe src="https://archive.org/embed/by-ADDONBARROSOnly.Mine.2019.1080p.WEB.X264-INFLATE" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>$$lsname=[COLOR lime]FULLHD[/COLOR] - ONLY MINE 2019</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sEZnAqV6ILhz8GSDewgpOymQNPO.jpg</fanart>
+<info>Década de 1990. Anna Poliatova é uma requisitada modelo internacional que tem um segredo bem guardado: sob a sua beleza e aparente inocência esconde-se uma assassina profissional que actua sob as ordens da KGB. Vítima de violência doméstica durante anos, aceitou as regras da organização que, em troca, lhe salvou a vida. Contudo, o que hoje mais deseja é libertar-se daquele fardo e começar uma nova vida num lugar onde finalmente possa esquecer o passado. É então que é contactada por membros da CIA que lhe fazem uma proposta irrecusável.</info>
 </item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINKS
+<item>
+<title>RED SPARROW - [COLOR yellow]2018[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/119zVjO2LiCSgPRGk4GjhqOT_1qdQW2r5/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooeyCPepghIobLfd8bijHepSWgR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg</fanart>
+<info>Dominika Egorova é muitas coisas: Uma filha dedicada e determinada a proteger sua mãe a todo custo; Uma bailarina excecional cuja competitividade forçou o seu corpo e mente até ao limite; Uma especialista em sedução e combate. Quando ela sofre uma lesão que põe fim à sua carreira, Dominika e sua mãe enfrentam um futuro sombrio e incerto. Por esta razão ela acaba por ser facilmente manipulada, tornando-se a mais nova recruta duma agência dos serviços secretos que treina jovens excecionais como ela para usar seus corpos e mentes como armas. Depois de suportar todo o treino perverso e sádico, ela revela-se a mais perigosa agente que o programa já produziu. Dominika terá que conciliar a pessoa que era com o poder que agora detém, com sua própria vida e com todos aqueles com que se preocupa, incluindo um agente americano da CIA que tenta convencê-la de que ele é a única pessoa em quem pode confiar.</info>
+</item>
+MODELO UNIVERSAL DE APENAS UM LINKS
+<item>
+<title>AMERICAN HISTORY X</title>
+<linkplugin://plugin.video.gdrive?mode=streamURL&amp;url=>https://drive.google.com/file/d/19BG2kg-IRmi6yIxUD60OiJFPNxKoPt7H/view$$lsname=</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/awlLBINV2ptoHkzeG20mIanlWqh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gCkv4aNx5DxXrGvAQeTJqZpvXgE.jpg</fanart>
+<info>Derek Vinyard é o irmão mais velho, que finalmente regressa a casa após três anos preso. Todos o aguardam ansiosamente: a sua mãe, a sua namorada e, mais do que ninguém, Danny, o seu irmão mais novo, que sempre o considerou um herói. Nesse mesmo dia, Danny entrega na escola um trabalho sobre "Mein Kampf" de Hitler. O director da escola fica indignado e recusa-se a aceitá-lo. Em contrapartida, pede-lhe que conte a história de Derek – que, após a morte do pai por um grupo de negros, decidira fazer justiça pelas próprias mãos, organizando um grupo de extrema-direita. Passado pouco tempo, Derek tornara-se no carismático líder dum grupo activo de "skinheads", autor de várias acções violentas...</info>
+</item>
