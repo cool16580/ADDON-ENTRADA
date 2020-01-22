@@ -1,27 +1,208 @@
-MODELO COM VÁRIOS LINKS
 <item>
-<title>FILMES 2018/2019</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1CMwXMeD4dWkVC0vAfvedpm3QYp05megw$$lsname=[COLOR lime]FULLHD[/COLOR] - ANNA 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VmWt_0q8SlAGn9MYXxgIdRGFsGZzIjEZ/view$$lsname=[COLOR lime]FULLHD[/COLOR] - A PRAYER BEFORE DAWN 2017</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cjOfU6vOd_9HgJkE8PaPw5RxaDVkx7sm/view$$lsname=[COLOR lime]FULLHD[/COLOR] - REVENGE 2017</link>
-<link><iframe src="https://archive.org/embed/by-ADDONBARROSOnly.Mine.2019.1080p.WEB.X264-INFLATE" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>$$lsname=[COLOR lime]FULLHD[/COLOR] - ONLY MINE 2019</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sEZnAqV6ILhz8GSDewgpOymQNPO.jpg</fanart>
-<info>Década de 1990. Anna Poliatova é uma requisitada modelo internacional que tem um segredo bem guardado: sob a sua beleza e aparente inocência esconde-se uma assassina profissional que actua sob as ordens da KGB. Vítima de violência doméstica durante anos, aceitou as regras da organização que, em troca, lhe salvou a vida. Contudo, o que hoje mais deseja é libertar-se daquele fardo e começar uma nova vida num lugar onde finalmente possa esquecer o passado. É então que é contactada por membros da CIA que lhe fazem uma proposta irrecusável.</info>
+<title>[COLOR blue]Episódio 01[/COLOR] - Duplo Homicídio - Parte I</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10Q3xT6RijuecIIk0N9_2x5Djw9hLRq3g/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Quando um casal é assassinado depois de se reunir com um outro casal em um bar, Grissom e sua equipe suspeitam que é o trabalho de um par de assassinos em série. Nick compromete o caso quando ele dá um antigo amigo algumas informações sobre o caso e depois aparece no noticiário local. O primeiro episódio de duas partes. 
+</info>
 </item>
-MODELO GDRIVE DE APENAS UM LINKS
 <item>
-<title>RED SPARROW - [COLOR yellow]2018[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/119zVjO2LiCSgPRGk4GjhqOT_1qdQW2r5/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooeyCPepghIobLfd8bijHepSWgR.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg</fanart>
-<info>Dominika Egorova é muitas coisas: Uma filha dedicada e determinada a proteger sua mãe a todo custo; Uma bailarina excecional cuja competitividade forçou o seu corpo e mente até ao limite; Uma especialista em sedução e combate. Quando ela sofre uma lesão que põe fim à sua carreira, Dominika e sua mãe enfrentam um futuro sombrio e incerto. Por esta razão ela acaba por ser facilmente manipulada, tornando-se a mais nova recruta duma agência dos serviços secretos que treina jovens excecionais como ela para usar seus corpos e mentes como armas. Depois de suportar todo o treino perverso e sádico, ela revela-se a mais perigosa agente que o programa já produziu. Dominika terá que conciliar a pessoa que era com o poder que agora detém, com sua própria vida e com todos aqueles com que se preocupa, incluindo um agente americano da CIA que tenta convencê-la de que ele é a única pessoa em quem pode confiar.</info>
+<title>[COLOR blue]Episódio 02[/COLOR] - O Suspeito - Parte II</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N9l8LrM08iWBCzaVRUpdCxaNNYxJV-bf/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Quando os suspeitos no caso serial killer são assassinados, Grissom, Nick e Warrick suspeito é um trabalho interno. Entretanto, Catherine e Sara investigam a morte de um fã de futebol, que é encontrado boiando em sua banheira.
+</info>
 </item>
-MODELO UNIVERSAL DE APENAS UM LINKS
 <item>
-<title>AMERICAN HISTORY X</title>
-<linkplugin://plugin.video.gdrive?mode=streamURL&amp;url=>https://drive.google.com/file/d/19BG2kg-IRmi6yIxUD60OiJFPNxKoPt7H/view$$lsname=</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/awlLBINV2ptoHkzeG20mIanlWqh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gCkv4aNx5DxXrGvAQeTJqZpvXgE.jpg</fanart>
-<info>Derek Vinyard é o irmão mais velho, que finalmente regressa a casa após três anos preso. Todos o aguardam ansiosamente: a sua mãe, a sua namorada e, mais do que ninguém, Danny, o seu irmão mais novo, que sempre o considerou um herói. Nesse mesmo dia, Danny entrega na escola um trabalho sobre "Mein Kampf" de Hitler. O director da escola fica indignado e recusa-se a aceitá-lo. Em contrapartida, pede-lhe que conte a história de Derek – que, após a morte do pai por um grupo de negros, decidira fazer justiça pelas próprias mãos, organizando um grupo de extrema-direita. Passado pouco tempo, Derek tornara-se no carismático líder dum grupo activo de "skinheads", autor de várias acções violentas...</info>
+<title>[COLOR blue]Episódio 03[/COLOR] - Corpos que Falam</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1trKdcus1L8XKlJhAI8aKM1-uxBgbBBih/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Grissom e Warrick investigam quando os restos mumificados de uma mulher idosa são encontrados em um armário. Este caso logo acaba por ser ligado ao caso de Sara e Nick: a invasão de domicílio, que envolveu o estupro de uma adolescente. Enquanto isso, Catherine tenta se conectar a arma encontrada em um quintal de um assassinato que ocorreu do outro lado da cidade 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 04[/COLOR] - Calor Mortal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h6VruCaMQv7mEX8u_1eTU1JyKQFjZ8GG/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Durante uma onda de calor, Grissom e Catherine investigar a morte de uma criança que foi encontrada morta, trancada em um carro. Nick e Sara investigam a morte de uma mulher que foi encontrada boiando em um lago com um ferimento na cabeça. Warrick investiga o caso de um homem que morreu em sua casa de uma aparente insolação.
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 05[/COLOR] - Delírio em Las Vegas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vHisruoAyJoFLiHZjkdIf7xUarVUCdzU/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Depois que uma mulher é morta em uma colisão frontal com um caminhão, Grissom e Catherine descobrem o cadáver de um homem vestido em um traje de guaxinim do outro lado da estrada. Eles descobrem que o homem está vestido assim porque recentemente ele assistiu a uma convenção de bonecos de pelúcia, levando-os a sonda para ver quem pode ser responsável pelo assassinato do homem. Enquanto isso, Nick e Sara investigam o assassinato de um funcionário da loja de conveniências encontrado em um freezer indústrial da loja e baleado até à morte. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 06[/COLOR] - Jackpot</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kkpshDWmZXru91l_TSdN9NUFIQMWJROT/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Grissom deixa a confusão de Las Vegas e vai para uma pequena cidade conhecida como Jackpot, para investigar a descoberta, por um cachorro, de uma cabeça humana. A investigação de Grissom enfrenta o cepticismo do xerife da cidade, que o ajuda contra a sua vontade. Enquanto isso, o corrupto pai de Catherine, Sam Braun, lhe envia um cheque de US$ 250 mil, o que a leva a questionar se deve aceitar o dinheiro, que poderia garantir o futuro de sua filha.
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 07[/COLOR] - Evidência Invisível</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rf6WZa_ycINVYMnqEHhNFbHLcuVdrRYj/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Durante as investigações preliminares do estupro e homicídio de uma garota de 19 anos de idade, a evidência crucial, uma faca ensanguentada, é descartada por ter sido retirada do carro do suspeito sem um mandado. Com apenas 24 horas para que o suspeito seja liberado, a equipe de investigadores une esforços para encontrar outra evidência que o coloque definitivamente atrás das grades. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 08[/COLOR] - Beleza Mortal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WqD_lnPUZSivFuZ3zrUjGOucDqft2wYO/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+O centro das atenções da imprensa de Las Vegas é uma modelo desaparecida que almejava se tornar dançarina. Quando uma misteriosa chamada de emergência é realizada, Catherine tem certeza que encontrou o culpado e toma para o caso si. Isto frustra as intenções de Sara e Nick, que esperavam com ele obter uma promoção. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 09[/COLOR] - Ataque Terrorista</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DHiqw9aQgk5CavImwxsQeOwhUFksEOHq/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Ao testemunhar a explosão de um veículo que mata um agente, o novo xerife pressiona Grissom para encontrar o culpado. Vestígios da bomba levam Grissom, Catherine e Nick a uma feira de ciências estudantil. Enquanto isso, Warrick e Sara desvendam a morte da esposa de um popular cantor. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 10[/COLOR] - Ato de Fúria</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mS1uFnuntOQyvXSa2GMl3W_-dTo0ud24/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Grissom, Sara e Warrick investigam um caso de um garoto de 15 anos de idade encontrado morto com um martelo em um canteiro de obras. Enquanto isso, Nick e Catherine tentar descobrir como uma mulher foi morta por um tiro em seu jardim durante uma discussão entre seu atual e o ex-marido. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 11[/COLOR] - Sentença de Morte</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pezGNeP66M34f6RJqBVymIo9zgoJHsgC/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Quando, durante um julgamento, o único jurado a votar inocente é encontrado morto na sala de reunião do júri, a equipe de Grissom investiga os demais jurados. Enquanto isso, Nick reabre um caso de quatro anos quando a irmã de uma pessoa desparecida aparece com uma nova evidência. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 12[/COLOR] - A Decisão</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dAR2TclS7v16qHM970qs6HcjzOruGfDg/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Uma enfermeira muito parecida com Sara Sidle é encontrada morta em sua casa por sua amiga, que também é enfermeira. A vítima morreu em seu espaçoso banheiro, com a cabeça virada para a porta. Segundo a amiga, ela foi jantar com seu novo namorado, Dr. Michael Clark, que trabalha no mesmo hospital. O processamento da cena do crime revela muito pouco porque o assassino exaustivamente limpou o local usando produtos para desnaturar qualquer DNA. Dr. Clark, inicialmente o primeiro suspeito, é encontrado mais tarde, em pedaços, em uma lata de lixo atrás da casa. A precisão dos vários cortes sugere que um médico é o assassino. E, tudo isso leva Grissom à se declarar à Sara, mas em ela ela saber. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 13[/COLOR] - Sugadores de Sangue</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S3KyrONkT28lLjtrkmLVM3WIZK1xRO-q/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Grissom, Sara e Nick tem que lidar com um caso bizarro quando uma inestimável espadaSamurai do século 17 Japão é roubada de uma exposição em um cassino. Enquanto isso, Catherine e Warrick tem que olhar para o mundo dos vampiros, quando uma jovem é encontrada morta com todo o seu sangue drenado de seu corpo. 
+</info>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 14[/COLOR] - Fogo Cruzado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tpRT4oJTXxxvBzcbh3eXra6OhEmrjhRj/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Toda a equipe investiga quando um assalto a um supermercado se transforma em um tiroteio, deixando cinco pessoas mortas, uma delas é um policial. A evidência leva Grissom a duvidar da história do outro policial no local. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 15[/COLOR] - Crimes Sexuais</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tuL7dQaw2b8qnqbv--dUtZiWu0I35bzv/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Toda a equipe investiga o assassinato em estilo de um marido e sua esposa estrela pornô em um condomínio fechado. Catherine se envolve com um dos suspeitos, mesmo depois de Grissom questionar sua ética quando ela aceita um cheque de Sam Braun. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 16[/COLOR] - Sem pistas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TuPbxuIDSqnHQpSjjVN9RrrcTVAKZOCT/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Grissom, Warrick e Nick investigam quando um funcionário de uma casa de recuperação é apunhalado até a morte em um bairro frequentado por travestis. Enquanto isso,Catherine e Sara investigam a morte de um palhaço morto e abandonado semi-despido dentro de um pneu. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 17[/COLOR] - XX</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OHCYFtxrJ7Ccr19MwwgkE6Fiy4eKsAdj/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Catherine, Sara e Nick investigam quando o corpo de uma mulher presidiária ocupante é encontrada amarrada na parte de baixo de um ônibus. A primeira suspeita é a de uma fuga que deu errado,mas então descobre-se que a mulher já estava morta quando foi amarrada ao ônibus. Enquanto isso, Grissom e Warrick investigam a morte de um homem apunhalado até morrer em seu próprio apartamento. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 18[/COLOR] - Mal até os Ossos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TtADbIU0ktHazaFykIaG55hfNcyel-zy/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Os CSIs investigam quando um homem bate em outro homem até a morte em um estacionamento de um cassino. Eles logo descobrem que o temperamento excessivamente mal-humorado de seu suspeito pode ter sido responsável por outro assassinato. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 19[/COLOR] - Palavras Mortais</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17oMnzHDLXDWoUalV_b_mCM2IIb1imhZU/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Quando uma adolescente é morta em uma casa em chamas, Catherine, Nick e Warrick suspeitam de um incendiário em série. Entre os suspeitos estão a avó da menina,uma mulher piromaníaca e o time de beisebol da escola. Enquanto isso,Grissom e Sara investigam a morte de um campeão mundial de um famoso jogo, que é encontrado morto com várias peças de um jogo na garganta e estômago. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 20[/COLOR] - Jogo da Morte</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yGmoIYIenWd4MRJWN03EqJ5APC2UNm5R/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Os CSIs precisam desistir da anual maratona de corrida de revesamento de Baker até Las Vegas quando Grissom encontra um concorrente morto perto da pista. Enquanto isso, Warrick e Sara investigam o que parece ser um homicídio-suicídio quando um homem e uma mulher policial são encontrados mortos num quarto de hotel. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 21[/COLOR] - Parque dos Horrores</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bl84gqC8R8rVCi0oHLcSRKIGjft6Egkp/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Grissom, Sara e Nick investigam quando uma montanha russa descarrilha em um parque de diversões, matando seis pessoas. Quando descobrem que havia apenas 5 pessoas na montanha-russa, eles suspeitam de jogo sujo. Catherine e Warrick investigam o assassinato de uma garota de 13 anos. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 22[/COLOR] - Apostas Encerradas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DcaS0ZVUI_5niuovRVXcJLFJRfUrGmMl/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Os CSIs investigam quando dois jovens jogadores são encontrados mortos brevemente após vários golpes severos no cassino de Sam Braun. Grissom é forçado a tirar Catherine do caso, pois seu pai é suspeito no assassinato. 
+</info>
+</item>
+<item>
+<title>[COLOR blue]Episódio 23[/COLOR] - Irmãos Sangue</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K8Ycu-KZuidMeSjDfnV96UbXXwaEoEgZ/view</link>
+<thumbnail>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</thumbnail>
+<fanart>https://media.fstatic.com/um4tj2xmpR3u8gKsnJtlDbAvyRY=/fit-in/290x478/smart/media/movies/covers/2012/07/5ebcab52ca963882de5d5f5887fbf2ef.jpg</fanart>
+<info>
+Os CSIs investigam quando uma funcionária de um cassino é espancada e estuprada a caminho do trabalho. A vítima identifica o criminoso, mas a evidência de DNA sugere que ele não é a pessoa responsável. Depois, Grissom tem que ajudar um colega de trabalho que acaba do outro lado da lei. 
+</info>
 </item>
