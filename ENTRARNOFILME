@@ -1,8 +1,7 @@
-MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]1935-CINEMA PORTUGUÊS-«AS PUPILAS DO SENHOR REITOR»[/COLOR]</title>
-<link><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nWBX7NWYH9eQ0Yu544RqB5wNt5Yi59gJ/view</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title> TITULO </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nWBX7NWYH9eQ0Yu544RqB5wNt5Yi59gJ/view?usp=drivesdk</link>
+<thumbnail> ICONE </thumbnail>
+<fanart> IMAGENS DE FUNDO </fanart>
+<info> SINOPE </info>
 </item>
