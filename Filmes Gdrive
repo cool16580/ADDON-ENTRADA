@@ -366,20 +366,23 @@ Conhece Maria, rapariga com passado triste, julgando inocentemente ter arranjado
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]A Turma dos Malandros[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XtQQcot6-1U-T9sJAUoYFfPZnnm_9RX8/view?usp=drivesdk</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDdlZDdkNTctZjIyMS00NWM5LThjZWItMjIyMDRmYjY2N2E5XkEyXkFqcGdeQXVyNjA4MDAyNTQ@._V1_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BMDdlZDdkNTctZjIyMS00NWM5LThjZWItMjIyMDRmYjY2N2E5XkEyXkFqcGdeQXVyNjA4MDAyNTQ@._V1_.jpg</fanart>
-<info>Pierino é um garoto precoce, mas travesso, que costuma fazer brincadeiras e fazer piadas na escola. Seu inimigo é seu antigo professor. Um dia Pierino faz um truque sujo, fazendo-a quebrar um braço.</info>
-<data>1981</data>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
 <title>[COLOR lime]Sorte Nula[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14rXfvsl5nIaOSkbN2yd1jKKuGBAfnFEC/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxg4CtnnjrY8Z5MgCORFKjl6ENU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bJYVO80aWbkbgqnzJLniTb9BXFa.jpg</fanart>
 <info>Alberto está planejando a melhor fuga romântica, mas antes que ele possa pegar o avião, ele enfrentará o dia mais assustador de sua vida.</info>
 <data>2004</data>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR lime]Balas e Bolinhos Trilogia.2001-2012[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZtLv-UiYJsMU6hWuXnxu1CPUmzTt1S8O/view$$lsname=[COLOR orange]Balas e Bolinhos[/ COLOR ]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Vl0VuqKpG4O8wwdLrbPTovXxY2SfebpU/view$$lsname=[COLOR orange]Balas e Bolinhos 2[/ COLOR ]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange] HD [/ COLOR ] -Eu moro sozinhoEO310</link>
+<link>URL AQUI$$lsname=[COR laranja] HD [/ COLOR] Titulo </link>
+<thumbnail>http://i.imgur.com/9cxvpCk.png</thumbnail>
+<fanart>http://i.imgur.com/9cxvpCk.png</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
