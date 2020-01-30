@@ -1,8 +1,401 @@
+MODELO PARA YOUTUBE
 <item>
-<title>[COLOR lime]Titulo do filme[/COLOR]</title>
+<title>[COLOR lime]A Menina da Rádio (1944)[/COLOR]</title>
+<utube>kVbWP3WTM3Q</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHVclLk0RA3fCCCZCWovl7yVyAI.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/iQeYiK4sU7QQxPzOS5drExkF4tx.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Madragôa (1952)[/ COLOR] </title>
+<utube>lJIG6Eycc_Q</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovDgwSzQDbT4DDNwkhiASNnhKYC.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovDgwSzQDbT4DDNwkhiASNnhKYC.jpg/fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Fado, História de uma Cantadeira (1948)[/ COLOR] </title>
+<utube>FSR8DIgiWmg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1R1ffV1mux8PZcq9qqUaVZUIDA.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/bkiIterUlTj3I1LGC8CS88iMDOZ.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Passarinho da Ribeira (1959)[/ COLOR] </title>
 <utube>Bm3nRJbPNII</utube>
-<thumbnail>Capa</utube>
-<fanart>Imagem De Fundo</fanart>
-<info>testes</info>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Aniki Bóbó (1942)[/ COLOR] </title>
+<utube>IhJw8fMKLE0</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Wc7fh2klh8wAj27GJqG8t11KRe.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/ei66sPyD52zI1GSYOYLePwiAPtN.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Grande Elias (1950)[/ COLOR] </title>
+<utube>PFuRBT_jAuI</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgvJeznXiNayrR9643CO51OF0Qy.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/3VciMIjDSgZfyPkZzvIvULAPONk.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Costa do Castelo (1943)[/ COLOR] </title>
+<utube>x5eGRhya0kQ</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBhF4bo1x69m9Q3V9wiP3kCpx7X.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBhF4bo1x69m9Q3V9wiP3kCpx7X.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Os Vizinhos do Rés do Chão (1947)[/ COLOR] </title>
+<utube>w2y7R4Jzw1M</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Canção de Lisboa (1933)[/ COLOR] </title>
+<utube>VTAbGFUGeUY</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH0d4sfbwG1wofS6MdM3CxIq31I.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/bhLXumC25LiTYxrxyTp5wKJMKUX.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Patio das Cantigas (1942)[/ COLOR] </title>
+<utube>KqzCaY7yGeQ</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNJASdxrBdA5cnJmv5DlEbkmZM1.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/sxEsxzAXrtjFYYhyzouXuYowg52.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Maria Papoila (1937)[/ COLOR] </title>
+<utube>PLku93LsKe0AiIikTZ2OEOcUAn1jVMWy02</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejFFYudUxElOCvCyHW6LVcxohdx.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejFFYudUxElOCvCyHW6LVcxohdx.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]João Ratão (1940)[/ COLOR] </title>
+<utube>XEKaYMaW-Ng</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIV8pl5qau2XB9tvQR8NUrfnbLH.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIV8pl5qau2XB9tvQR8NUrfnbLH.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Miúdo da Bica (1963)[/ COLOR] </title>
+<utube>J56ykkkfP4E</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/shzrrK80HxAOS59arGoG1UJqd3s.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/shzrrK80HxAOS59arGoG1UJqd3s.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Aldeia da Roupa Branca (1939)[/ COLOR] </title>
+<utube>ZUewYF8KD8E</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pC62Fo3u9hjANf31aV7k5QAALw8.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/fquRgdkIK97hKddd3QNMeYdIdsN.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Encontro Com a Vida (1960)[/ COLOR] </title>
+<utube>krq9ikbFmaM</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]A Rosa do Adro (1938)[/ COLOR] </title>
+<utube>o3-xqX-9TBc</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1hAdeuWTWwxr5tFgRWKfqn1P05.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s14peaSbshqA0AMdZ8AL3QAqTqE.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Pai Tirano (1941)[/ COLOR] </title>
+<utube>6LdRrjaPU10</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkFWO6q4FdVu7DfeL2EondpkSy3.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/23LfeItwBPAsgd9D17S1rUIujBy.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Dois Dias no Paraíso (1957)[/ COLOR] </title>
+<utube>XuTTG7SfmHw</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Milionário (1962)[/ COLOR] </title>
+<utube>PqPi5bazmsU</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Perdeu-se Um Marido (1956)[/ COLOR] </title>
+<utube>xnZOrUUrShE</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Duas Causas (1952)[/ COLOR] </title>
+<utube>V8bHGuW-GJ4</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC675wLsFy2gviRpdEiSAZRJfxt.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC675wLsFy2gviRpdEiSAZRJfxt.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]A Severa (1931)[/ COLOR] </title>
+<utube>3rLgwx7tZ-c</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hwxncVVi3ZT2hl9EuVEg3YRs0r.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/fu63wEc24FQeUUxWTgjCo3KvZcu.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]As pupilas do Senhor Reitor (1935)[/ COLOR] </title>
+<utube>ED9J4qOO8J0</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LTEszWZnIvMWvWlJSRhsFVa03.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LTEszWZnIvMWvWlJSRhsFVa03.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]A Vizinha do Lado (1945)[/ COLOR] </title>
+<utube>e2700kYUJuQ</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo3JynEJCyVdEMORQX6ad9nBBTw.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/xi6PNGcPsPpnx4GQUh80mJoCX4m.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Um Homem às Direitas (1944)[/ COLOR] </title>
+<utube>7U82toOn1EU</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAG4jRfB9MXYrfHcO7eV3BAtMb.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAG4jRfB9MXYrfHcO7eV3BAtMb.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Capas Negras (1947)[/ COLOR] </title>
+<utube>sOuorPfX8zg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivywZvvpvCn8JfQZrlR3R9UJn9e.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/eNz4Rc5J7eMDB0hHM8QNjN17nAn.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]A Costureirinha da Sé (1958)[/ COLOR] </title>
+<utube>AeUGcXmMWm8</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Leão da Estrela (1947)[/ COLOR] </title>
+<utube>6gv-r8V3WnA</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvwGvvfxDgcE3DTpGlTH2P27IZr.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/wCwZ3Fso9KAf2xo3N05ubr49lWH.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Três Espelhos (1947)[/ COLOR] </title>
+<utube>Zw38d4uE-f0</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBQfWyW6kdxPDLBSMAQ8wDeRGr6.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBQfWyW6kdxPDLBSMAQ8wDeRGr6.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]A Morgadinha dos Canavias (1949)[/ COLOR] </title>
+<utube>BsdyT_Mv7qs</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Cantiga da Rua (1949)[/ COLOR] </title>
+<utube>qfiFL_1ntJk</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBT2tUBHmocIpgfldUJaMYJcjnY.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBT2tUBHmocIpgfldUJaMYJcjnY.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Sonhar e facil (1951)[/ COLOR] </title>
+<utube>LNB38qA_VwA</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh4hLyR6WnU4GUUDE16WlUmNBPH.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh4hLyR6WnU4GUUDE16WlUmNBPH.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Saltimbancos (1951)[/ COLOR] </title>
+<utube>mCxqZ7Wj2UU</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Z5Yi56okCKziGOjp1rvrnnUqEm.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/mjOBTNxO9dXleUM7pIBXVcw6Gah.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Os Três da Vida Airada (1952)[/ COLOR] </title>
+<utube>oevHiYNZSnM</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CsO6bZ5X1AkBLr74PeO9A2Nh1u.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/mevqHgmLbLxmmUoHsce4CsrXMm3.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Rosa de Alfama (1953)[/ COLOR] </title>
+<utube>CH13k99UFEQ</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/djKuAIMRP27bYCz0eITy49C4P6o.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/djKuAIMRP27bYCz0eITy49C4P6o.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Dinheiro dos Pobres (1955)[/ COLOR] </title>
+<utube>3Yz-bnYJsPU</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info> testículos </info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Costa de África (1954)[/ COLOR] </title>
+<utube>Mumbitase48</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Primo Basílio (1959)[/ COLOR] </title>
+<utube>7Gw0Jtamhhg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OeqtP9giwNU2qXwpwr3mPsvb6w.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OeqtP9giwNU2qXwpwr3mPsvb6w.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Tarzan do 5º Esquerdo (1958)[/ COLOR] </title>
+<utube>BK4akJAAJAo</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFKmWRKkfsTY8ocVI0kyA5Papt.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFKmWRKkfsTY8ocVI0kyA5Papt.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Dom Roberto (1962)[/ COLOR] </title>
+<utube>Lv8N3AsnbFg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHfPdGk8Ad7VPQW8kjDTyqXX3TB.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHfPdGk8Ad7VPQW8kjDTyqXX3TB.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Milionário (1962)[/ COLOR] </title>
+<utube>PqPi5bazmsU</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Aqui Há Fantasmas (1963)[/ COLOR] </title>
+<utube>e1MyM4EGcV0</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy0M6LtaCS9r14bXZ8qEqrQ0MZs.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy0M6LtaCS9r14bXZ8qEqrQ0MZs.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Pão,Amor e Totobola (1963)[/ COLOR] </title>
+<utube>GrUVL1ei8wo</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]A Vizinha do Lado (1945)[/ COLOR] </title>
+<utube>6eaQ4eRcgig</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo3JynEJCyVdEMORQX6ad9nBBTw.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/xi6PNGcPsPpnx4GQUh80mJoCX4m.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]O Diabo Desceu à Vila (1979)[/ COLOR] </title>
+<utube>pEE3PnCgF-c</utube>
+<thumbnail> Capa </utube>
+<fanart></fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]"Desenhos"Um Conto De Natal 1997 Filme Raro (1997)[/ COLOR] </title>
+<utube>PL2NB3ORl6PFoTvx6XxKBWE95_8XjCtOA_</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WFQ3qyNicAY6VzP9We1R51UbQf.jpg</utube>
+<fanart>https://image.tmdb.org/t/p/original/qxXf52gpKArIP8yp87H266KytyH.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Os Andrades -T1E01- Fim de Semana em Torremolinos[/ COLOR] </title>
+<utube>005fd_CqOUE</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Os Andrades - T1E02 - Um Gato no Presépio[/ COLOR] </title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime]Os Andrades - T1E03 - Sozinhas em Casa[/ COLOR] </title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title> [COLOR lime][/ COLOR] </title>
+<utube></utube>
+<thumbnail> Capa </utube>
+<fanart> Imagem De Fundo </fanart>
+<info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
