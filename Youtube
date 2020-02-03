@@ -1,8 +1,24 @@
 MODELO PARA YOUTUBE
 <item>
-<title>[COLOR lime]Peça De Teatro Aqui Há Fantasmas (1985)[/COLOR]</title>
+<title>[COLOR plum]"Peça De Teatro" O Leitinho do Nene  (198?)[/COLOR]</title>
+<utube>yUQ8cw4xrJU</utube>
+<thumbnail> Capa </thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]"Peça De Teatro" Vamos Contar Mentiras (1985)[/COLOR]</title>
+<utube>VgyjtybPRQI</utube>
+<thumbnail> Capa </thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]"Peça De Teatro" Aqui Há Fantasmas (1985)[/COLOR]</title>
 <utube>_aXL4SNcp_k</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://www.imdb.com/title/tt0056834/mediaviewer/rm1012553472</thumbnail>
 <fanart>https://2.bp.blogspot.com/-AWCbzWNrjOU/WKJCyL7ph6I/AAAAAAAAdVc/uVKUWT1SZOQrMYWpcD9UCaqLlFqlmfsPwCLcB/s1600/fantasmaas.jpg</fanart>
 <info></info>
 </item>
@@ -34,7 +50,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Passarinho da Ribeira (1959)[/COLOR]</title>
 <utube>Bm3nRJbPNII</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzQwNDIzNmItMmNhNi00N2E3LWJiNjUtMTI5NjFjNmI1ZTFmXkEyXkFqcGdeQXVyOTQyMjgyMw@@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
@@ -50,7 +66,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Grande Elias (1950)[/COLOR]</title>
 <utube>PFuRBT_jAuI</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgvJeznXiNayrR9643CO51OF0Qy.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgvJeznXiNayrR9643CO51OF0Qy.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3VciMIjDSgZfyPkZzvIvULAPONk.jpg</fanart>
 <info></info>
 </item>
@@ -58,7 +74,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Costa do Castelo (1943)[/COLOR]</title>
 <utube>x5eGRhya0kQ</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBhF4bo1x69m9Q3V9wiP3kCpx7X.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBhF4bo1x69m9Q3V9wiP3kCpx7X.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBhF4bo1x69m9Q3V9wiP3kCpx7X.jpg</fanart>
 <info></info>
 </item>
@@ -66,7 +82,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Os Vizinhos do Rés do Chão (1947)[/COLOR]</title>
 <utube>w2y7R4Jzw1M</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzg0N2MyZDEtODUzZS00YTI5LWEwZmUtMWRiNDUzYTUwY2IwXkEyXkFqcGdeQXVyNTkyMzkxODQ@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
@@ -74,7 +90,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Canção de Lisboa (1933)[/COLOR]</title>
 <utube>VTAbGFUGeUY</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH0d4sfbwG1wofS6MdM3CxIq31I.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH0d4sfbwG1wofS6MdM3CxIq31I.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bhLXumC25LiTYxrxyTp5wKJMKUX.jpg</fanart>
 <info></info>
 </item>
@@ -82,7 +98,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Patio das Cantigas (1942)[/COLOR]</title>
 <utube>KqzCaY7yGeQ</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNJASdxrBdA5cnJmv5DlEbkmZM1.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNJASdxrBdA5cnJmv5DlEbkmZM1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sxEsxzAXrtjFYYhyzouXuYowg52.jpg</fanart>
 <info></info>
 </item>
@@ -90,7 +106,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Maria Papoila (1937)[/COLOR]</title>
 <utube>PLku93LsKe0AiIikTZ2OEOcUAn1jVMWy02</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejFFYudUxElOCvCyHW6LVcxohdx.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejFFYudUxElOCvCyHW6LVcxohdx.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejFFYudUxElOCvCyHW6LVcxohdx.jpg</fanart>
 <info></info>
 </item>
@@ -98,7 +114,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]João Ratão (1940)[/COLOR]</title>
 <utube>XEKaYMaW-Ng</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIV8pl5qau2XB9tvQR8NUrfnbLH.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIV8pl5qau2XB9tvQR8NUrfnbLH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIV8pl5qau2XB9tvQR8NUrfnbLH.jpg</fanart>
 <info></info>
 </item>
@@ -106,7 +122,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Miúdo da Bica (1963)[/COLOR]</title>
 <utube>J56ykkkfP4E</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/shzrrK80HxAOS59arGoG1UJqd3s.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/shzrrK80HxAOS59arGoG1UJqd3s.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/shzrrK80HxAOS59arGoG1UJqd3s.jpg</fanart>
 <info></info>
 </item>
@@ -114,7 +130,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Aldeia da Roupa Branca (1939)[/COLOR]</title>
 <utube>ZUewYF8KD8E</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pC62Fo3u9hjANf31aV7k5QAALw8.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pC62Fo3u9hjANf31aV7k5QAALw8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fquRgdkIK97hKddd3QNMeYdIdsN.jpg</fanart>
 <info></info>
 </item>
@@ -122,7 +138,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Encontro Com a Vida (1960)[/COLOR]</title>
 <utube>krq9ikbFmaM</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2JjMWVlMTItMzY4MC00NDQxLWI4ZjYtMzJhNTUyN2QxMmJjXkEyXkFqcGdeQXVyOTQyMjgyMw@@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
@@ -130,7 +146,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]A Rosa do Adro (1938)[/COLOR]</title>
 <utube>o3-xqX-9TBc</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1hAdeuWTWwxr5tFgRWKfqn1P05.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1hAdeuWTWwxr5tFgRWKfqn1P05.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s14peaSbshqA0AMdZ8AL3QAqTqE.jpg</fanart>
 <info></info>
 </item>
@@ -138,7 +154,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Pai Tirano (1941)[/COLOR]</title>
 <utube>6LdRrjaPU10</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkFWO6q4FdVu7DfeL2EondpkSy3.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkFWO6q4FdVu7DfeL2EondpkSy3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/23LfeItwBPAsgd9D17S1rUIujBy.jpg</fanart>
 <info></info>
 </item>
@@ -146,23 +162,15 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Dois Dias no Paraíso (1957)[/ COLOR]</title>
 <utube>XuTTG7SfmHw</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE3Y2UzZDktYzNkNi00NzA5LWE2MWQtMDgwZDU5MTg1ZDAzXkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime][/COLOR]</title>
-<utube></utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</utube>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]Perdeu-se Um Marido (1956)[/COLOR]</title>
 <utube>xnZOrUUrShE</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://iv1.lisimg.com/image/5631357/324full-perdeu--se-um-marido-.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
@@ -170,7 +178,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Duas Causas (1952)[/COLOR]</title>
 <utube>V8bHGuW-GJ4</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC675wLsFy2gviRpdEiSAZRJfxt.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC675wLsFy2gviRpdEiSAZRJfxt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC675wLsFy2gviRpdEiSAZRJfxt.jpg</fanart>
 <info></info>
 </item>
@@ -178,7 +186,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]A Severa (1931)[/ COLOR]</title>
 <utube>3rLgwx7tZ-c</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hwxncVVi3ZT2hl9EuVEg3YRs0r.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hwxncVVi3ZT2hl9EuVEg3YRs0r.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fu63wEc24FQeUUxWTgjCo3KvZcu.jpg</fanart>
 <info></info>
 </item>
@@ -186,7 +194,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]As pupilas do Senhor Reitor (1935)[/COLOR]</title>
 <utube>ED9J4qOO8J0</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LTEszWZnIvMWvWlJSRhsFVa03.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LTEszWZnIvMWvWlJSRhsFVa03.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LTEszWZnIvMWvWlJSRhsFVa03.jpg</fanart>
 <info></info>
 </item>
@@ -194,7 +202,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]A Vizinha do Lado (1945)[/COLOR]</title>
 <utube>e2700kYUJuQ</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo3JynEJCyVdEMORQX6ad9nBBTw.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo3JynEJCyVdEMORQX6ad9nBBTw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xi6PNGcPsPpnx4GQUh80mJoCX4m.jpg</fanart>
 <info></info>
 </item>
@@ -202,7 +210,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Um Homem às Direitas (1944)[/COLOR]</title>
 <utube>7U82toOn1EU</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAG4jRfB9MXYrfHcO7eV3BAtMb.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAG4jRfB9MXYrfHcO7eV3BAtMb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAG4jRfB9MXYrfHcO7eV3BAtMb.jpg</fanart>
 <info></info>
 </item>
@@ -210,7 +218,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Capas Negras (1947)[/COLOR]</title>
 <utube>sOuorPfX8zg</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivywZvvpvCn8JfQZrlR3R9UJn9e.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivywZvvpvCn8JfQZrlR3R9UJn9e.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/eNz4Rc5J7eMDB0hHM8QNjN17nAn.jpg</fanart>
 <info></info>
 </item>
@@ -218,7 +226,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]A Costureirinha da Sé (1958)[/COLOR]</title>
 <utube>AeUGcXmMWm8</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2M2Yjg4ZmEtY2YwYS00NTk4LTkzMWUtZGVjZTk5YjM0MDZmXkEyXkFqcGdeQXVyMjc5NTYzMDU@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
@@ -226,7 +234,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Leão da Estrela (1947)[/COLOR]</title>
 <utube>6gv-r8V3WnA</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvwGvvfxDgcE3DTpGlTH2P27IZr.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvwGvvfxDgcE3DTpGlTH2P27IZr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wCwZ3Fso9KAf2xo3N05ubr49lWH.jpg</fanart>
 <info></info>
 </item>
@@ -234,7 +242,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Três Espelhos (1947)[/COLOR]</title>
 <utube>Zw38d4uE-f0</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBQfWyW6kdxPDLBSMAQ8wDeRGr6.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBQfWyW6kdxPDLBSMAQ8wDeRGr6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBQfWyW6kdxPDLBSMAQ8wDeRGr6.jpg</fanart>
 <info></info>
 </item>
@@ -242,7 +250,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]A Morgadinha dos Canavias (1949)[/COLOR]</title>
 <utube>BsdyT_Mv7qs</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGU3MzgyZjAtNGRiZS00ZGZkLWI0MTQtNDQ5ZmFjMmI2MDk4XkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
@@ -250,7 +258,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Cantiga da Rua (1949)[/COLOR]</title>
 <utube>qfiFL_1ntJk</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBT2tUBHmocIpgfldUJaMYJcjnY.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBT2tUBHmocIpgfldUJaMYJcjnY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBT2tUBHmocIpgfldUJaMYJcjnY.jpg</fanart>
 <info></info>
 </item>
@@ -258,7 +266,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Sonhar e facil (1951)[/COLOR]</title>
 <utube>LNB38qA_VwA</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh4hLyR6WnU4GUUDE16WlUmNBPH.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh4hLyR6WnU4GUUDE16WlUmNBPH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh4hLyR6WnU4GUUDE16WlUmNBPH.jpg</fanart>
 <info></info>
 </item>
@@ -266,7 +274,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Saltimbancos (1951)[/COLOR]</title>
 <utube>mCxqZ7Wj2UU</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Z5Yi56okCKziGOjp1rvrnnUqEm.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Z5Yi56okCKziGOjp1rvrnnUqEm.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mjOBTNxO9dXleUM7pIBXVcw6Gah.jpg</fanart>
 <info></info>
 </item>
@@ -274,7 +282,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Os Três da Vida Airada (1952)[/COLOR]</title>
 <utube>oevHiYNZSnM</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CsO6bZ5X1AkBLr74PeO9A2Nh1u.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CsO6bZ5X1AkBLr74PeO9A2Nh1u.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mevqHgmLbLxmmUoHsce4CsrXMm3.jpg</fanart>
 <info></info>
 </item>
@@ -282,7 +290,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Rosa de Alfama (1953)[/COLOR]</title>
 <utube>CH13k99UFEQ</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/djKuAIMRP27bYCz0eITy49C4P6o.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/djKuAIMRP27bYCz0eITy49C4P6o.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/djKuAIMRP27bYCz0eITy49C4P6o.jpg</fanart>
 <info></info>
 </item>
@@ -290,7 +298,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Dinheiro dos Pobres (1955)[/COLOR]</title>
 <utube>3Yz-bnYJsPU</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIyYTRjNmYtZmM4Ny00NjIxLWExNzYtOGYwMDE3YmVkYjI0XkEyXkFqcGdeQXVyNjQ5MjkyMDk@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info> testículos </info>
 </item>
@@ -298,7 +306,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Costa de África (1954)[/COLOR]</title>
 <utube>Mumbitase48</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2U2NTFmZmMtMWU0NC00Y2M1LTgxMjktYmVkYTA2N2JlMzU4XkEyXkFqcGdeQXVyMjUyMTE3MTc@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
@@ -306,7 +314,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Primo Basílio (1959)[/COLOR]</title>
 <utube>7Gw0Jtamhhg</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OeqtP9giwNU2qXwpwr3mPsvb6w.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OeqtP9giwNU2qXwpwr3mPsvb6w.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OeqtP9giwNU2qXwpwr3mPsvb6w.jpg</fanart>
 <info></info>
 </item>
@@ -314,7 +322,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Tarzan do 5º Esquerdo (1958)[/COLOR]</title>
 <utube>BK4akJAAJAo</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFKmWRKkfsTY8ocVI0kyA5Papt.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFKmWRKkfsTY8ocVI0kyA5Papt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFKmWRKkfsTY8ocVI0kyA5Papt.jpg</fanart>
 <info></info>
 </item>
@@ -322,7 +330,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Dom Roberto (1962)[/COLOR]</title>
 <utube>Lv8N3AsnbFg</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHfPdGk8Ad7VPQW8kjDTyqXX3TB.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHfPdGk8Ad7VPQW8kjDTyqXX3TB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHfPdGk8Ad7VPQW8kjDTyqXX3TB.jpg</fanart>
 <info></info>
 </item>
@@ -330,7 +338,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Milionário (1962)[/COLOR]</title>
 <utube>PqPi5bazmsU</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/38SHwnMgUAox8hu5BJtx54ej338.jpg</fanart>
 <info></info>
 </item>
@@ -338,7 +346,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Aqui Há Fantasmas (1963)[/COLOR]</title>
 <utube>e1MyM4EGcV0</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy0M6LtaCS9r14bXZ8qEqrQ0MZs.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy0M6LtaCS9r14bXZ8qEqrQ0MZs.jpg</thumbnail>
 <fanart>https://www.leme.pt/magazine/efemerides/0131/estreia-filme-portugues-aqui-ha-fantasmas.html</fanart>
 <info></info>
 </item>
@@ -346,7 +354,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]Pão,Amor e Totobola (1963)[/COLOR]</title>
 <utube>GrUVL1ei8wo</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDAyNzU2NjctMWNjMy00OTc3LTkxYjAtYWY1MTZiM2QzMjgwXkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_.jpg</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
@@ -354,7 +362,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]A Vizinha do Lado (1945)[/COLOR]</title>
 <utube>6eaQ4eRcgig</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo3JynEJCyVdEMORQX6ad9nBBTw.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo3JynEJCyVdEMORQX6ad9nBBTw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xi6PNGcPsPpnx4GQUh80mJoCX4m.jpg</fanart>
 <info></info>
 </item>
@@ -362,7 +370,7 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]O Diabo Desceu à Vila (1979)[/COLOR]</title>
 <utube>pEE3PnCgF-c</utube>
-<thumbnail> Capa </utube>
+<thumbnail> Capa </thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -370,423 +378,479 @@ MODELO PARA YOUTUBE
 <item>
 <title>[COLOR lime]"Desenhos"Um Conto De Natal 1997 Filme Raro (1997)[/COLOR]</title>
 <utube>PL2NB3ORl6PFoTvx6XxKBWE95_8XjCtOA_</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WFQ3qyNicAY6VzP9We1R51UbQf.jpg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WFQ3qyNicAY6VzP9We1R51UbQf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qxXf52gpKArIP8yp87H266KytyH.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E01- Fim de Semana em Torremolinos[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E01- Fim de Semana em Torremolinos[/COLOR]</title>
 <utube>005fd_CqOUE</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E02 - Um Gato no Presépio[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E02 - Um Gato no Presépio[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E03 - Sozinhas em Casa[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E03 - Sozinhas em Casa[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E4 - Falta de Comparência[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E4 - Falta de Comparência[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E05 - A Cómoda[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E05 - A Cómoda[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E06 - Um Dia muito Especial[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E06 - Um Dia muito Especial[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E07 - Quem Não Sai Aos Seus[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E07 - Quem Não Sai Aos Seus[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E08 - Ninguém Gosta de Mim[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E08 - Ninguém Gosta de Mim[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E09 - Quem Vê Caras[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E09 - Quem Vê Caras[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E10 - Pela Hora da Morte[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E10 - Pela Hora da Morte[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E11 - A 100 à hora[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E11 - A 100 à hora[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E12 - Crise, disse ela[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E12 - Crise, disse ela[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E13 - Greve Geral[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E13 - Greve Geral[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</utube>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E14 - Um Homem de Visão[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E14 - Um Homem de Visão[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]Os Andrades - T1E15 - Opus 127[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E16 - Linha Quente[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E17 - 93 60 93[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail> Capa </thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E16 - Linha Quente[/COLOR]</title>
+<title>[COLOR azure]Os Andrades - T1E18 - Música no Coração[/COLOR]</title>
 <utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E19 - Ponte a Pé[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E20 - Adivinha Quem Vem ao São João[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E21 - Vai Chamar Filho a Outro[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E22 - O Bota de Ouro[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E23 - As Sete Colinas de Roma[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E24 - O Dia do Pecado[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E25 - Avó, há só ... duas[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T1E26 - Ladrão que rouba a ladrão[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E01 - O Grande Susto[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E02 - A Banca é do Povo[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E03 - Rosários é o que há mais[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E04 - Pesadelo em Aroso Street[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E05 - Cartas de Amor[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E06 - Os Doentes da Bola Anónimos[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E07 - Sol de Inverno[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E08 - A Presença - Parte 1[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E09 - A Presença - Parte 2[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E10 - Ninguém Diga Que Está Bem![/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E11 - Fora o Árbitro[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E12 - Um dia no campo[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E13 - Sonho de uma noite de Inverno[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E14 - A Cozinheira Ideal[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E15 - Dá Deus Nozes[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E16 - O Capachinho Vermelho[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E17 - O Amor, às vezes, Vence Sempre![/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E18 - Das Tripas Coração[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E19 - Quando o Galo Toca[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E20 - Cobranças Difíceis[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E21 - Ninguém[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E22 - Um Dia para esquecer[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E23 - Amor de Mãe[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E24 - Um Domingo Em Família[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E25 - Lar, Doce Lar[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR azure]Os Andrades - T2E26 - O Dono da Bola[/COLOR]</title>
+<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOTQyNzUxM2MtZmQ2ZS00NTEyLWEyNDQtZDY3Y2Y3YjE2ZDI2XkEyXkFqcGdeQXVyMjY2Nzk5ODY@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR peru]Marina... Marina - Agente Precisa-se[/COLOR]</title>
+<utube>KDjhxdk3NOg</utube>
+<thumbnail> Capa </thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E17 - 93 60 93[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
+<title>[COLOR peru]Marina... Marina - A arca frigorífica[/COLOR]</title>
+<utube>m44qNAz2xik</utube>
+<thumbnail> Capa </thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E18 - Música no Coração[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
+<title>[COLOR peru]Marina... Marina - Marina escreve uma Peça[/COLOR]</title>
+<utube>vuLS9fCGcIk</utube>
+<thumbnail> Capa </thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E19 - Ponte a Pé[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
+<title>[COLOR peru]Marina... Marina - Juju, D Juan[/COLOR]</title>
+<utube>bAUsuYhimzs</utube>
+<thumbnail> Capa </thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E20 - Adivinha Quem Vem ao São João[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
+<title>[COLOR peru]Marina... Marina - As Minas de Ouro[/COLOR]</title>
+<utube>B8el3U_Z5-4</utube>
+<thumbnail> Capa </thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E21 - Vai Chamar Filho a Outro[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
+<title>[COLOR peru]Marina Marina - O Aniversário da Beta[/COLOR]</title>
+<utube>4U0rEr7Ec-A</utube>
+<thumbnail> Capa </thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Os Andrades - T1E22 - O Bota de Ouro[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T1E23 - As Sete Colinas de Roma[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T1E24 - O Dia do Pecado[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T1E25 - Avó, há só ... duas[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T1E26 - Ladrão que rouba a ladrão[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E01 - O Grande Susto[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E02 - A Banca é do Povo[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E03 - Rosários é o que há mais[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E04 - Pesadelo em Aroso Street[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E05 - Cartas de Amor[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E06 - Os Doentes da Bola Anónimos[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E07 - Sol de Inverno[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E08 - A Presença - Parte 1[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E09 - A Presença - Parte 2[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E10 - Ninguém Diga Que Está Bem![/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E11 - Fora o Árbitro[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E12 - Um dia no campo[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E13 - Sonho de uma noite de Inverno[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E14 - A Cozinheira Ideal[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E15 - Dá Deus Nozes[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E16 - O Capachinho Vermelho[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E17 - O Amor, às vezes, Vence Sempre![/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E18 - Das Tripas Coração[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E19 - Quando o Galo Toca[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E20 - Cobranças Difíceis[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E21 - Ninguém[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E22 - Um Dia para esquecer[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E23 - Amor de Mãe[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E24 - Um Domingo Em Família[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E25 - Lar, Doce Lar[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
-<fanart> Imagem De Fundo </fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Os Andrades - T2E26 - O Dono da Bola[/COLOR]</title>
-<utube>PLPiAXQDq0jyAlQamU75Efq6D-NGRA5LVQ</utube>
-<thumbnail> Capa </utube>
+<title>[COLOR peru]Marina Marina" - Fragmento do Programa[/COLOR]</title>
+<utube>PahJKW_7sLI</utube>
+<thumbnail> Capa</thumbnail>
 <fanart> Imagem De Fundo </fanart>
 <info></info>
 </item>
