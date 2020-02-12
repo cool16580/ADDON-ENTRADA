@@ -23,6 +23,25 @@ MODELO PARA YOUTUBE
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR lime]Balas e Bolinhos Trilogia[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PAhFWBURpkDTACaH-yhlP05uPfYSmv0X/view$$lsname=Balas e Bolinhos</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B5Zxo9_yAdGEHIk6UCYGmNb-0qMZVfE5/view$$lsname=Balas e Bolinhos 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1usE1W3HOs2RNEK8l8jvK-GTrmnVvdZST/view$$lsname=Balas e Bolinhos 3</link>
+<thumbnail>http://i.imgur.com/9cxvpCk.png</thumbnail>
+<fanart>http://i.imgur.com/9cxvpCk.png</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR tan]Sorte Nula[/COLOR]</title>
+<utube>rQWfub_7vzc</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxg4CtnnjrY8Z5MgCORFKjl6ENU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bJYVO80aWbkbgqnzJLniTb9BXFa.jpg</fanart>
+<info>Alberto está planejando a melhor fuga romântica, mas antes que ele possa pegar o avião, ele enfrentará o dia mais assustador de sua vida.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]Lobos da Serra (1942)[/COLOR]</title>
 <utube>7s-W6_mt05w</utube>
