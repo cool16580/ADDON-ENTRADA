@@ -1,11 +1,14 @@
 MODELO COM VARIOS LINKS
-MODELO UNIVERSAL DE APENAS UM LINK
+MODELO COM VARIOS LINKS
+
 <item>
-<title>Homem correndo</title>
-<link>https://mega.nz/embed#!VE9GAKJB!lozqXgvSEwFM5FL3vrPy4uihLky-1ENl7e6ZKwHoEhc</link>
+<title> TITULO </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]Titulo de Filme [/COLOR ]Sem Cor é Aqui o Titulo</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]Titulo de Filme[/COLOR ]Sem Cor é Aqui o Titulo</link>
+<link>https://mega.nz/embed#!VE9GAKJB!lozqXgvSEwFM5FL3vrPy4uihLky-1ENl7e6ZKwHoEhc$$lsname=[COR laranja]Titulo de Filme[/COLOR]Sem Cor é Aqui o Titulo</link>
 <thumbnail>Capa</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
-<info>SINOPE</info>
+<info> SINOPE </info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
