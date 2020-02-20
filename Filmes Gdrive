@@ -1,24 +1,21 @@
 MODELO COM VARIOS LINKS
-MODELO COM VARIOS LINKS
-
 <item>
-<title> TITULO </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]Titulo de Filme [/COLOR ]Sem Cor é Aqui o Titulo</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]Titulo de Filme[/COLOR ]Sem Cor é Aqui o Titulo</link>
-<link>https://mega.nz/embed#!VE9GAKJB!lozqXgvSEwFM5FL3vrPy4uihLky-1ENl7e6ZKwHoEhc$$lsname=[COR laranja]Titulo de Filme[/COLOR]Sem Cor é Aqui o Titulo</link>
-<thumbnail>Capa</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
-<info> SINOPE </info>
+<title>Casa da Mãe Joana 2 em 1</title>
+<link> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1czygf8IyAzEpmzRSXuU1OLtTtcPbKIE7/view$$lsname=[COLOR orange]Casa da Mãe Joana[/COLOR]</link>
+<link> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xvwSqEUnqx_tThFtcivtNJ70pjqgNyAe/view$$lsname=[COLOR orange]Casa da Mãe Joana 2[/COLOR]</link>
+<thumbnail>http://3.bp.blogspot.com/-uBEKc6KoifQ/U9ujS-B8aRI/AAAAAAAACZc/JDdbwSZxZXI/s1600/CAPA+DA+COLE%C3%87%C3%83O+CASA+DA+M%C3%83E+JOANA+2+EM+1+-+JUNIOR+DVDS+DESIGNER.JPEG</thumbnail>
+<fanart></fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO COM VARIOS LINKS
 <item>
-<title>[COLOR lime]Balas e Bolinhos Trilogia.2001-2012[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PAhFWBURpkDTACaH-yhlP05uPfYSmv0X/view$$lsname=Balas e Bolinhos</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B5Zxo9_yAdGEHIk6UCYGmNb-0qMZVfE5/view$$lsname=Balas e Bolinhos 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1usE1W3HOs2RNEK8l8jvK-GTrmnVvdZST/view$$lsname=Balas e Bolinhos 3</link>
-<link>URL AQUI$$lsname=[COR laranja]HD[/COLOR]Titulo</link>
-<thumbnail>http://i.imgur.com/9cxvpCk.png</thumbnail>
-<fanart>http://i.imgur.com/9cxvpCk.png</fanart>
+<title>Cubo Trilogia</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ulu7O5Zy7eItKF3pF9HyW2CQ-Uh6dIxj/view$$lsname=[COLOR orange]Cubo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pSgMAYRKXnMmCSK-ieO06XqSxaqtMMed/view$$lsname=[COLOR orange]Cubo² Hypercubo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fpMN7uzTDxTSo4GQc1TyqfN4As9YjMDd/view$$lsname=[COLOR orange]Cubo Zero[/COLOR]</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71JjLGPC2HL._SL1024_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/81pHc5JXRJL._SL1500_.jpg</fanart>
 <info>Aqui Dentro Tens Os 3 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -48,27 +45,11 @@ MODELO GDRIVE DE APENAS UM LINK
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Senhor Das Moscas[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xt_kXwJ23Ejr1KUxzln4n0VRhdxXAuHI/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhxWsFgBYyDfRWfOhM1OrV88QDJ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ySi4JM04OqPTnHE4vIucBn6onRB.jpg</fanart>
-<info>Encalhado em uma ilha, um grupo de estudantes degenerou em selvageria.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
 <title>[COLOR lime]Todas As Mulheres Fazem[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Lt7sejSzrVjxXiE9mIitPJutk8zFkfOw/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5xsSUCkXCd0696K5A9hkmgaERE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uLLcFSd7fpea7wtSppUClq6cmpe.jpg</fanart>
 <info>Diana é uma esposa romana, felizmente casada com Paolo, mas gosta de jogar jogos de sedução benignos com outros homens, enquanto resiste aos avanços do proprietário de uma loja de lingerie chique, Silvio. Ela narra suas aventuras para Paolo, a fim de estimular sua vida sexual monótona. No entanto, sob a influência de sua amiga lésbica Antonietta e sua irmã atrevida Nadia, Diana começa a avançar ainda mais, enquanto Paolo ainda é propenso a acreditar que os eventos narrados por ela são meramente fantasias.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Cubo[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ulu7O5Zy7eItKF3pF9HyW2CQ-Uh6dIxj/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u50r6chJGO2iqxVAvtQ07obiCkB.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/nBBxroYG0DR9mddC7R5NB0XAvA6.jpg</fanart>
-<info>Um grupo de estranhos se vê preso em uma prisão semelhante a um labirinto. Logo fica claro que cada um deles possui as habilidades peculiares necessárias para escapar, se não acabar morto primeiro.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -109,5 +90,118 @@ MODELO GDRIVE DE APENAS UM LINK
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2c9utC3RGiw5NrqB72YIbp00uiF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jvztlSjvPLQRLzgl0hMoEYpZiqV.jpg</fanart>
 <info>Depois de exorcizar os demônios de seu ex-, Malcolm começa novamente com sua nova namorada e seus dois filhos. Depois de se mudar para a casa dos seus sonhos, Malcolm é mais uma vez atormentado por eventos paranormais bizarros.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>Entre Idas e Vindas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I1b7YB-ldq8PLvr-_cb8dS0Hwg8OwKPL/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJhO7qkasC3xBAS6fhLPWpUjGZb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/z6eYd9z7xukZK2MxWpA12Wv9tLX.jpg</fanart>
+<info>Com a intenção de ver o rio Cahulawassee antes de se transformar em um imenso lago, o fanático ao ar livre Lewis Medlock leva seus amigos em uma viagem de rafting que nunca esquecerão no perigoso país americano.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>Libertação</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hObIIdNi8LGTRygmA8BPIuaBoEYIVqhg/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJhO7qkasC3xBAS6fhLPWpUjGZb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9wjQokjcl4u8Z91s4LZ13L8LS1R.jpg</fanart>
+<info>Com a intenção de ver o rio Cahulawassee antes de se transformar em um imenso lago, o fanático ao ar livre Lewis Medlock leva seus amigos em uma viagem de rafting que nunca esquecerão no perigoso país americano.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>Uma Loucura de Mulher</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PDIZlpscNSqv7qGLIKmUatoj0inV4mP6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/UvzCvT6dfRTSz7vwCxmo5A62QY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oWNWaRM1l3yVyKGfBH4ccZIcBFR.jpg</fanart>
+<info>Uma mulher deixa sua carreira na dança para dedicar sua vida ao marido, um político famoso. Quinze anos depois, ela deixa sua vida luxuosa para retomar o que deixou para trás anos atrás.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>Vem Comigo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZgDO3OsPy-z9bm6QbfY5DKWwPnZkNcBs/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBHoL4nUPYLxx3NaGf70NqP4JkN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oWNWaRM1l3yVyKGfBH4ccZIcBFR.jpg</fanart>
+<info>Felizmente desapegada, a voraz Leila sexualmente satisfaz seus desejos com uma série de parceiros de cama em rápida mudança, sem se preocupar com as consequências emocionais. Mas tudo isso muda quando ela conhece um artista em busca de um compromisso mais profundo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>Jovem e bela</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ibR5Os_ZZp4cOW3FlUoijasyBVAT4IR/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBHoL4nUPYLxx3NaGf70NqP4JkN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kbjJdG9v2vuBiXdj4wuE4RRQbZO.jpg</fanart>
+<info>Isabelle, uma estudante de 17 anos, perde a virgindade durante um rápido romance de férias. Quando ela volta para casa, ela começa uma vida secreta como prostituta por um ano.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>Salvando o soldado Ryan</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13DRvwbncBw2u-5prJP2o70SejskRYHx0/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gc7IN6bWNaWXv4vI6cxSmeB7PeO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h7TpINCBCvkdoWNXXuZQdSl9qM4.jpg</fanart>
+<info>Enquanto tropas americanas invadem as praias da Normandia, três irmãos estão mortos no campo de batalha, com um quarto preso atrás das linhas inimigas. O capitão da guarda florestal John Miller e sete homens têm a tarefa de penetrar em território controlado pelos alemães e levar o menino para casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>A Tênue Linha Vermelha</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p7CXyFN5cIsrzM9C8OR3_5IZPDopHdb4/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4ApW90svay7veAPgxU8OsNMEOB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/A0SdX7JM2Irj9oB4EmNWAX1BDX.jpg</fanart>
+<info>Baseado no romance gráfico de James Jones, The Thin Red Line conta a história de um grupo de homens, uma empresa de espingardas do exército chamada C-for-Charlie, que muda, sofre e acaba descobrindo coisas essenciais durante a feroz Guerra Mundial II batalha de Guadalcanal. Ele segue sua jornada, da surpresa de um pouso sem oposição, passando pelas sangrentas e exaustivas batalhas que se seguem, até a partida definitiva daqueles que sobreviveram. Um poderoso elenco da linha de frente - incluindo Sean Penn, Nick Nolte, Woody Harrelson e George Clooney - explode em ação nesta visão assustadoramente realista do caos militar e moral no Pacífico durante a Segunda Guerra Mundial.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO UNIVERSAL DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Assalto Ao Banco Central[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12VBBHzklnh-PnT1Poj95uESyooS4Zn9_/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxg4CtnnjrY8Z5MgCORFKjl6ENU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bJYVO80aWbkbgqnzJLniTb9BXFa.jpg</fanart>
+<info>Alberto está planejando a melhor fuga romântica, mas antes que ele possa pegar o avião, ele enfrentará o dia mais assustador de sua vida.</info>
+<data>2004</data>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Gênios do Crime[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mkZ05_ZmSO5KEgECKmubfEYJZXKzmQ2x/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPUO9Fvvt0mkxrr5vfuHB8dU3p7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fVltpTyYAfI3tPgle4lX7u80MQV.jpg</fanart>
+<info>Um guarda noturno de uma empresa de carros blindados no sul dos EUA organiza um dos maiores assaltos a bancos da história americana.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Entrando Numa Roubada[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10z3aQKlJ8syRynVCD5w23vDyV4LkX7-x/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOcBjfLgLRKuBG9pcYWjQhd5sp9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/e6ObaEw64QCcQhNUlrsAzoxo7fh.jpg</fanart>
+<info>Um diretor de cinema, Walter, conhece sua antiga equipe para fazer um "filme de estrada". Sem dinheiro, eles terão inventado golpes para tornar possível a produção e, ao mesmo tempo, planejando vingança.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Hereditário[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M3v2BpMFBLfvv5lEdN-IWEcMoGouPVQX/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ihYsYfAZ41ZaOWVY4DqddLOg46u.jpg</fanart>
+<info>Quando Ellen, a matriarca da família Graham, morre, a família de sua filha começa a desvendar segredos enigmáticos e cada vez mais aterrorizantes sobre seus ancestrais.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O homem que desafiou o diabo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cgSlxriPFeUOhZBj5B8Ind4mho3Jb147/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXIlXNqqSTusKiJqPbdn4LHqFJ0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o1n8wnW3JGNeGoLJB2JjSN0iw7b.jpg</fanart>
+<info>Depois de ser forçado a se casar e suportar uma rotina de trabalho humilhante nas mãos de seu sogro, Zé Araújo se torna o mítico Ojuara, um herói não convencional dedicado à devassidão.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Um Suburbano Sortudo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BPYezMZZs6hTU9AklMw9A3I3Y9GU87AP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7avILhHYTH8Ce7x1k2Gemy8ZY5v.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rHld0BrFH7oyK8mhY7jZHMNEGAT.jpg</fanart>
+<info>Não temos uma visão geral traduzida em inglês. Ajude-nos a expandir nosso banco de dados adicionando um.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
