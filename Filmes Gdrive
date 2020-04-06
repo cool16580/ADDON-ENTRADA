@@ -1,15 +1,5 @@
 MODELO COM VARIOS LINKS
 <item>
-<title>Casa da Mãe Joana 2 em 1</title>
-<link> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1czygf8IyAzEpmzRSXuU1OLtTtcPbKIE7/view$$lsname=[COLOR orange]Casa da Mãe Joana[/COLOR]</link>
-<link> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xvwSqEUnqx_tThFtcivtNJ70pjqgNyAe/view$$lsname=[COLOR orange]Casa da Mãe Joana 2[/COLOR]</link>
-<thumbnail>http://3.bp.blogspot.com/-uBEKc6KoifQ/U9ujS-B8aRI/AAAAAAAACZc/JDdbwSZxZXI/s1600/CAPA+DA+COLE%C3%87%C3%83O+CASA+DA+M%C3%83E+JOANA+2+EM+1+-+JUNIOR+DVDS+DESIGNER.JPEG</thumbnail>
-<fanart></fanart>
-<info>Aqui Dentro Tens Os 2 Filmes</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
-<item>
 <title>Cubo Trilogia</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ulu7O5Zy7eItKF3pF9HyW2CQ-Uh6dIxj/view$$lsname=[COLOR orange]Cubo[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pSgMAYRKXnMmCSK-ieO06XqSxaqtMMed/view$$lsname=[COLOR orange]Cubo² Hypercubo[/COLOR]</link>
@@ -53,14 +43,6 @@ MODELO GDRIVE DE APENAS UM LINK
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Crimes Calculados[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Jo5TIi1j4uNwcrGaMf1tuWfTQYP0NrpX/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zL2aUMe2haBikOZSxmndSDD4qi.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lcYEctb1Llygf048dXNqKnDYjNw.jpg</fanart>
-<info>A detetive tenaz Cassie Mayweather e seu parceiro ainda verde estão trabalhando em um caso de assassinato, tentando identificar dois jovens malévolos e brilhantes: assassinos frios e calculistas cujos segredos obscuros podem explicar seus crimes.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
 <title>[COLOR lime]Limite[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OxAnTv9XRPewG59td2fxPloOpNPFv2oE/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfITNjW2sunPiB7BNotJJsCxhdA.jpg</thumbnail>
@@ -94,11 +76,11 @@ MODELO GDRIVE DE APENAS UM LINK
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>Entre Idas e Vindas</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I1b7YB-ldq8PLvr-_cb8dS0Hwg8OwKPL/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJhO7qkasC3xBAS6fhLPWpUjGZb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/z6eYd9z7xukZK2MxWpA12Wv9tLX.jpg</fanart>
-<info>Com a intenção de ver o rio Cahulawassee antes de se transformar em um imenso lago, o fanático ao ar livre Lewis Medlock leva seus amigos em uma viagem de rafting que nunca esquecerão no perigoso país americano.</info>
+<title>Titulo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail>Capa</thumbnail>
+<fanart>Imagem De Fundo</fanart>
+<info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
@@ -108,15 +90,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJhO7qkasC3xBAS6fhLPWpUjGZb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9wjQokjcl4u8Z91s4LZ13L8LS1R.jpg</fanart>
 <info>Com a intenção de ver o rio Cahulawassee antes de se transformar em um imenso lago, o fanático ao ar livre Lewis Medlock leva seus amigos em uma viagem de rafting que nunca esquecerão no perigoso país americano.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
-<item>
-<title>Uma Loucura de Mulher</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PDIZlpscNSqv7qGLIKmUatoj0inV4mP6/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/UvzCvT6dfRTSz7vwCxmo5A62QY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/oWNWaRM1l3yVyKGfBH4ccZIcBFR.jpg</fanart>
-<info>Uma mulher deixa sua carreira na dança para dedicar sua vida ao marido, um político famoso. Quinze anos depois, ela deixa sua vida luxuosa para retomar o que deixou para trás anos atrás.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
@@ -171,30 +144,6 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPUO9Fvvt0mkxrr5vfuHB8dU3p7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fVltpTyYAfI3tPgle4lX7u80MQV.jpg</fanart>
 <info>Um guarda noturno de uma empresa de carros blindados no sul dos EUA organiza um dos maiores assaltos a bancos da história americana.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Entrando Numa Roubada[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10z3aQKlJ8syRynVCD5w23vDyV4LkX7-x/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOcBjfLgLRKuBG9pcYWjQhd5sp9.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/e6ObaEw64QCcQhNUlrsAzoxo7fh.jpg</fanart>
-<info>Um diretor de cinema, Walter, conhece sua antiga equipe para fazer um "filme de estrada". Sem dinheiro, eles terão inventado golpes para tornar possível a produção e, ao mesmo tempo, planejando vingança.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]Hereditário[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M3v2BpMFBLfvv5lEdN-IWEcMoGouPVQX/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ihYsYfAZ41ZaOWVY4DqddLOg46u.jpg</fanart>
-<info>Quando Ellen, a matriarca da família Graham, morre, a família de sua filha começa a desvendar segredos enigmáticos e cada vez mais aterrorizantes sobre seus ancestrais.</info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]O homem que desafiou o diabo[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cgSlxriPFeUOhZBj5B8Ind4mho3Jb147/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXIlXNqqSTusKiJqPbdn4LHqFJ0.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/o1n8wnW3JGNeGoLJB2JjSN0iw7b.jpg</fanart>
-<info>Depois de ser forçado a se casar e suportar uma rotina de trabalho humilhante nas mãos de seu sogro, Zé Araújo se torna o mítico Ojuara, um herói não convencional dedicado à devassidão.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
