@@ -74,14 +74,14 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Depois de exorcizar os demônios de seu ex-, Malcolm começa novamente com sua nova namorada e seus dois filhos. Depois de se mudar para a casa dos seus sonhos, Malcolm é mais uma vez atormentado por eventos paranormais bizarros.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>Titulo</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
-<thumbnail>Capa</thumbnail>
-<fanart>Imagem De Fundo</fanart>
-<info></info>
+<title>Milagre na Cela 7</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1groAI7dWUhiXxzq7Fl5LWbj1rwKUBm6e/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gckwdQtg6EEy24DL9ukxKu5g8nD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4YbHir4Ka4kG7WOdh0anXv1iT8s.jpg</fanart>
+<info>Separado da filha, um pai com deficiência intelectual deve provar sua inocência quando é preso pela morte do filho de um comandante.</info>
 </item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
 <item>
@@ -152,5 +152,13 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7avILhHYTH8Ce7x1k2Gemy8ZY5v.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rHld0BrFH7oyK8mhY7jZHMNEGAT.jpg</fanart>
 <info>Não temos uma visão geral traduzida em inglês. Ajude-nos a expandir nosso banco de dados adicionando um.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Náufrago[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13-Fed1ID74DSX_w1LNELIyFX_iAxEkj5/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVhBMllvJWgNtBoCxAL0FxuYoo1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/frbW3kQXhVZPhceuQa1EqwZPXQr.jpg</fanart>
+<info>Chuck, um dos principais gerentes internacionais da FedEx, e Kelly, um Ph.D. estudante, estão apaixonados e caminhando para o casamento. Então o avião de Chuck para a Malásia afunda no mar durante uma tempestade terrível. Ele é o único sobrevivente e lava uma pequena ilha com nada além de um pouco de flotsam e jetsam da carga da aeronave.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
