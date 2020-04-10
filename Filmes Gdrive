@@ -162,13 +162,10 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <info>Chuck, um dos principais gerentes internacionais da FedEx, e Kelly, um Ph.D. estudante, estão apaixonados e caminhando para o casamento. Então o avião de Chuck para a Malásia afunda no mar durante uma tempestade terrível. Ele é o único sobrevivente e lava uma pequena ilha com nada além de um pouco de flotsam e jetsam da carga da aeronave.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO UNIVERSAL DE APENAS UM LINK
-
 <item>
-<title>[COLOR lime]teste[/COLOR]</title>
-<link>https://home.mycloud.com/public/e0acccfb-db1a-489b-b46b-61f246439297/file</link>
-<thumbnail> Capa </thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
-<info>SINOPE</info>
+<title> TITULO </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://home.mycloud.com/public/e0acccfb-db1a-489b-b46b-61f246439297/file?usp=drivesdk</link>
+<thumbnail> ICONE </thumbnail>
+<fanart> IMAGENS DE FUNDO </fanart>
+<info> SINOPE </info>
 </item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
