@@ -1,171 +1,485 @@
 MODELO COM VARIOS LINKS
 <item>
-<title>Cubo Trilogia</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ulu7O5Zy7eItKF3pF9HyW2CQ-Uh6dIxj/view$$lsname=[COLOR orange]Cubo[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pSgMAYRKXnMmCSK-ieO06XqSxaqtMMed/view$$lsname=[COLOR orange]Cubo² Hypercubo[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fpMN7uzTDxTSo4GQc1TyqfN4As9YjMDd/view$$lsname=[COLOR orange]Cubo Zero[/COLOR]</link>
+<title>[COLOR plum]Cubo Trilogia[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zAtja7onsWPWs0MrrgR8-n9KwA045BtT/view$$lsname=[COLOR orange]Cubo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1z1CIKsmAEV6HX799w-3oX0NHCuC6Zh87/view$$lsname=[COLOR orange]Cubo² Hypercubo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18O-oybBkMe2M3IXantJBeVoOtGfIWAKw/view$$lsname=[COLOR orange]Cubo Zero[/COLOR]</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71JjLGPC2HL._SL1024_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/81pHc5JXRJL._SL1500_.jpg</fanart>
 <info>Aqui Dentro Tens Os 3 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR plum]Deadpool 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xUqGqrgYK2gDbcJXQGqC-rckvradWRW6/view$$lsname=[COLOR orange]Deadpool 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1z44X31Mc7DaYNPMtL1JVRt4bSCPZLoZJ/view$$lsname=[COLOR orange]Deadpool 2[/COLOR]</link>
+<link>URL AQUI$$lsname=[COR laranja]Titulo de Filme[/COLOR]Sem Cor é Aqui o Titulo</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/iSMUo3G248S8rwbTMkZXVKSPbY5.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR plum]Inatividade Paranormal 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xUqGqrgYK2gDbcJXQGqC-rckvradWRW6/view$$lsname=[COLOR orange]Inatividade Paranormal 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EpkBTgv5FKWtS2LhvigjYy-ctDa5YyLQ/view$$lsname=[COLOR orange]Inatividade Paranormal 2[/COLOR]</link>
+<link>URL AQUI$$lsname=[COR laranja]Titulo de Filme[/COLOR]Sem Cor é Aqui o Titulo</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTM1ODgyOTI0NF5BMl5BanBnXkFtZTcwODgyMDY3OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1CzUuIdalmARzfYyEX3vGmBy6dn.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR plum]Coletânea A Ressaca[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x77CMBgZiZRxhPmMezYGetiAmOU-08zx/view$$lsname=[COLOR orange]A Ressaca[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13xELC9Gu_jf9wjfK6zi4RcNRQWIIoCvq/view$$lsname=[COLOR orange]A Ressaca 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PvQRPKmh8PksbfZd3j1IrKUAUrRqIKoX/view$$lsname=[COLOR orange]A Ressaca 3[/COLOR]</link>
+<link>URL AQUI$$lsname=[COR laranja]Titulo de Filme[/COLOR]Sem Cor é Aqui o Titulo</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uluhlXubGu1VxU63X9VHCLWDAYP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg</fanart>
+<info>Todos Os Filmes A Ressaca 1-2-3</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR plum]Coletânea Do Velocidade Furiosa[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10-eIj2B3jpDYZxYitg7nx62tdcsHvqOi/view$$lsname=[COLOR orange]Velocidade Furiosa 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nCZnX_PUAyTx2iaIun62zzVdwVi1Uk2g/view$$lsname=[COLOR orange]Velocidade Furiosa 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SHCEmUUJQuq_0IZrRAkO1Not0OPO-n84/view$$lsname=[COLOR orange]Velocidade Furiosa 3[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ni4x5vo6uPyKIUQ6DX95pRHICe0Gh4GY/view$$lsname=[COLOR orange]Velocidade Furiosa 4[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l62E_3jZkVDSd3_YPZUDuCNKoFQLRgBi/view$$lsname=[COLOR orange]Velocidade Furiosa 5[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZiKFmB7ua0PniSl4lGJ1dZPHixY4I_53/view$$lsname=[COLOR orange]Velocidade Furiosa 6[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1236iZrQ2qUv6DAaJFgcWQTqNJ0ah8Ki9/view$$lsname=[COLOR orange]Velocidade Furiosa 7[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LHO5cixnlD-xsSIVqNvfCWJLG0ha-Pc4/view$$lsname=[COLOR orange]Velocidade Furiosa 8[/COLOR]</link>
+<link>URL AQUI$$lsname=[COR laranja]Titulo de Filme[/COLOR]Sem Cor é Aqui o Titulo</link>
+<thumbnail>https://www.fatosdesconhecidos.com.br/wp-content/uploads/2019/08/8-6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg</fanart>
+<info>Todos Os Filmes Do Velocidade Furiosa</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Wrecked[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kOK0ejtm9INslvSLxFqAxB0OuYqsUqUs/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlMaBNaC7FATlWq5lq9LmWijBOe.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTk0MjY3MTI1OF5BMl5BanBnXkFtZTcwMzMxNDc3NA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Um homem acorda em um acidente de carro no fundo de um penhasco íngreme. Ele não consegue se lembrar quem ele é ou como chegou lá, mas um relatório pelo rádio preenche alguns dos espaços em branco, pois descreve um violento assalto a banco e nomeia um criminoso que, por acaso, está sentado morto no banco de trás.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Mundo de Água[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KOIKyOOm__Q-TA7M74bzfOsq5hVIzM0b/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G1m0diQSta4aCrM3MOQFwa9r-mWa3MA0/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9I0z3rM8gdIyjHBTIYniFXiwFOo.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xBu4khAr8wM8uEz3YrceudPcEpw.jpg</fanart>
 <info>Em um mundo futurista onde as calotas polares derreteram e fizeram da Terra um planeta líquido, uma bela garçonete resgata um marítimo mutante de uma prisão flutuante na ilha. Eles escapam, junto com sua jovem carga, Enola, e partem a bordo de seu navio.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Os Cinco Bandoleiros[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WpW6dHSqlaSFOQefF_dbdmO57_Htssvk/view?usp=drivesdk</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BN2U0OTFkMjEtZDAxNS00YjZiLWFiMDItYjhkZTdkZDAxMGViL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SY1000_CR0,0,659,1000_AL_.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2nFLZUjewQrD9trKjZhSsOIdUpr.jpg</fanart>
-<info>Situado durante a Revolução Mexicana, um homem conhecido apenas como "O Holandês" tem um plano e reúne quatro de seus antigos conhecidos, incluindo um velho amigo do exército e um silencioso espadachim japonês, para ajudá-lo, prometendo uma recompensa de US $ 1.000. consegue. O plano acaba sendo uma missão idiota: roubar um trem que carrega US $ 500.000 em ouro, guardado por dezenas de soldados fortemente armados e passa por um fluxo constante de postos de controle militares. Naturalmente, seus amigos concordam em seguir o esquema</info>
+<title>[COLOR lime]Vingadores: A Era de Ultron[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/183vDAY7J-cxzhHygM1_Nnq22fhGZFdQh/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4zmNJNQkugbalqJLnKp0wnlp8i3.jpg</fanart>
+<info>Quando Tony Stark tenta iniciar um programa de manutenção da paz inativo, as coisas dão errado e os Heróis Mais Poderosos da Terra são testados à medida que o destino do planeta está em jogo. Enquanto o vilão Ultron surge, cabe aos Vingadores impedi-lo de executar seus terríveis planos, e logo alianças inquietas e ação inesperada pavimentam o caminho para uma aventura global épica e única.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Risco Duplo[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bmxbooMwmr5Wez1Odd4QAtw3Dp6Yf1bB/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBsCyGscZTA24JtJxMHixMoML37.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1ZPsIkMbIrktiOgVdtEILSd26pa.jpg</fanart>
-<info>Jack Hart vive com sua esposa advogada e sua filha e desfruta de uma vida maravilhosa. A antiga namorada de Jack, Lisa, chega à cidade e eles têm um caso. Lisa mata seu atual namorado em legítima defesa e Jack testemunha a coisa toda. Lisa vai a julgamento por assassinato com a esposa de Jack como advogada. À medida que o filme avança, o lado desonesto de Lisa se torna conhecido e faz uma conclusão interessante</info>
+<title>[COLOR lime]A Ponte do Rio Kwai[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TsdqDSnrw7Fs0jrqq3x8uzwbJvz9tO37/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjE5YjQ2MWUtMzYwMC00Yjk2LWFiNTItZTBiM2RlM2FlMGJhXkEyXkFqcGdeQXVyMjA5NjIxNDU@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg</fanart>
+<info>A história clássica dos prisioneiros de guerra ingleses na Birmânia forçou a construção de uma ponte para ajudar no esforço de guerra de seus captores japoneses. Oficiais de inteligência britânicos e americanos conspiram para explodir a estrutura, mas o coronel Nicholson, o comandante que supervisionou a construção da ponte, adquiriu um sentimento de orgulho por sua criação e tenta frustrar seus planos.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Todas As Mulheres Fazem[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Lt7sejSzrVjxXiE9mIitPJutk8zFkfOw/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5xsSUCkXCd0696K5A9hkmgaERE.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uLLcFSd7fpea7wtSppUClq6cmpe.jpg</fanart>
-<info>Diana é uma esposa romana, felizmente casada com Paolo, mas gosta de jogar jogos de sedução benignos com outros homens, enquanto resiste aos avanços do proprietário de uma loja de lingerie chique, Silvio. Ela narra suas aventuras para Paolo, a fim de estimular sua vida sexual monótona. No entanto, sob a influência de sua amiga lésbica Antonietta e sua irmã atrevida Nadia, Diana começa a avançar ainda mais, enquanto Paolo ainda é propenso a acreditar que os eventos narrados por ela são meramente fantasias.</info>
+<title>[COLOR lime]Matadores de Velhinha[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AhrOFRHwS5ljFUzNRo0R0Qk9k1G2OO1S/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg</fanart>
+<info>Um excêntrico, senão encantador, professor do sul e sua equipe se apresentam como uma banda para roubar um cassino, tudo sob o nariz de seu proprietário inocente - uma velha afiada.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Limite[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OxAnTv9XRPewG59td2fxPloOpNPFv2oE/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfITNjW2sunPiB7BNotJJsCxhdA.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/akgjzb4o3t7k6PbAzhNM2DBCN4e.jpg</fanart>
-<info>Corky, uma ex-mulher durona e sua amante Violet, inventa um esquema para roubar milhões de dinheiro da máfia e atribuir a culpa ao desonesto namorado de Violet, César.</info>
+<title>[COLOR lime]Flypaper[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pR-y7uOhM2hc8PQfazGV8VLUNLFbC5tg/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/npKfKjROBdoxy19JPI4ti6EukAp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/h6CdyrLJrkyB8rs7GAFnVsTcduk.jpg</fanart>
+<info>Um homem pego no meio de dois assaltos simultâneos em um banco tenta desesperadamente proteger o caixa por quem ele está secretamente apaixonado.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Apocalypse Now[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C2OJHqBQlO86MoDpr22ONOGuREpMJrim/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcvJ2xcVWU9Wh0hZAxcs103s8nN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/oh9MdyIu333sC1biBeEgPqgSpVW.jpg</fanart>
-<info>No auge da guerra do Vietnã, o capitão Benjamin Willard é enviado em uma missão perigosa que, oficialmente, "não existe, nem jamais existirá". Seu objetivo é localizar - e eliminar - um misterioso coronel Boina Verde chamado Walter Kurtz, que lidera seu exército pessoal em missões ilegais de guerrilha no território inimigo.</info>
+<title>[COLOR lime]Gladiator[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hxGfWATeH0OhCMIQqV0jnd6k3O73cHDo/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvKsQB84W2Sv6s7jpGmzQBVyQe3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sJERNdeWadQrHu9swr1uApVSiQs.jpg</fanart>
+<info>No ano de 180, a morte do imperador Marco Aurélio lança o caos no Império Romano. Maximus é um dos generais mais capazes e confiáveis ??do exército romano e um dos principais conselheiros do imperador. Como o filho desonesto de Marcus, Commodus, ascende ao trono, Maximus está pronto para ser executado. Ele escapa, mas é capturado por comerciantes de escravos. Renomeado espanhol e forçado a se tornar um gladiador, Maximus deve lutar até a morte com outros homens para se divertir com o público pagante.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Inatividade Paranormal[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kS5bMJKo6OncwRPeMNM_y8LfOTc4fzuH/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2PehlDPj2WEeEuMVJZTOyTnZZZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/31gNQQkcmQa4oFW9KT4eEJSekVg.jpg</fanart>
-<info>Uma paródia de todos os filmes de "imagens encontradas / estilo documentário" lançados nos últimos anos.</info>
+<title>[COLOR lime]Hitman[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p6R1VKmL4LSdfsh60JZ3mJU6cVCxxq2k/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IAZpkSmqk4jrXRycuuK9cKRMXH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6ZdUvPE2gQayaSDF8CBWDZl0D3O.jpg</fanart>
+<info>O videogame mais vendido, Hitman, ganha vida com os dois barris em chamas neste thriller de ação hardcore estrelado por Timothy Olyphant. Um assassino geneticamente modificado com objetivo mortal, conhecido apenas como "Agente 47", elimina alvos estratégicos para uma organização ultrassecreta. Mas quando ele é enganado, o caçador se torna a presa quando 47 se encontra em um jogo de vida ou morte de intrigas internacionais.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Inatividade Paranormal 2[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nKmHhOjVaWcNqKa2twsg3tAq6oa8ueGp/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2c9utC3RGiw5NrqB72YIbp00uiF.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jvztlSjvPLQRLzgl0hMoEYpZiqV.jpg</fanart>
-<info>Depois de exorcizar os demônios de seu ex-, Malcolm começa novamente com sua nova namorada e seus dois filhos. Depois de se mudar para a casa dos seus sonhos, Malcolm é mais uma vez atormentado por eventos paranormais bizarros.</info>
+<title>[COLOR lime]Max Payne[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LoUslib4yJ24yihhePm-I38NByAgOEqB/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtNG3FsLhshbGDf0ybTQKNbyZV7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oTsX6sdrBoF6cSgv4MNQP06qAUZ.jpg</fanart>
+<info>Um agente da DEA cuja família foi morta como parte de uma conspiração, e um assassino que vingou a morte de sua irmã, juntam forças para resolver uma série de assassinatos na cidade de Nova York.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>Milagre na Cela 7</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1groAI7dWUhiXxzq7Fl5LWbj1rwKUBm6e/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gckwdQtg6EEy24DL9ukxKu5g8nD.jpg</thumbnail>
+<title>[COLOR lime]Paulo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11meq3lLRDKnbsS7-f1l9_4p-rKRMJvkL/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/exqIDix2tu6F7fv8Mqlf9qlhlZv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gztzdt8GHyra7ta2Fjwydn6MaY.jpg</fanart>
+<info>Nos últimos 60 anos, um espertinho de viagens espaciais chamado Paul foi trancado em uma base militar ultrassecreta, aconselhando líderes mundiais sobre sua espécie. Mas quando ele se preocupa, ele perdeu sua utilidade e a mesa de dissecação está se aproximando desconfortavelmente, Paul escapa no primeiro trailer que passa por seu complexo na Área 51. Felizmente, ele contém os dois terráqueos com maior probabilidade de resgatar e abrigar um alienígena. a corrida.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Hachiko - Amigo para Sempre[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-udZ3Qt_iLrGMC_cb3JzpAVsMi3cnQPY/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gqxbhJT8THJX68ECwIhz4zyBUH5.jpg</fanart>
+<info>Um drama baseado na história real do vínculo de um professor universitário com o cachorro abandonado que ele leva para sua casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]A Vida de Pi[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17Q3txv4PLIYb2aUmC_9mFpDZZcVz2Q5J/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7H01zprUY67n7bdcFg6VMvrkNjs.jpg</fanart>
+<info>A história de um menino indiano chamado Pi, filho de um tratador que se encontra na companhia de uma hiena, zebra, orangotango e um tigre de Bengala depois que um naufrágio os coloca à deriva no Oceano Pacífico.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Milagre na Cela 7[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/108E9ZtWEMQkCxTsrYKFP5hXC0c12ruNK/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOth4QmNyEkalwahfPCfiXjNh1r.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4YbHir4Ka4kG7WOdh0anXv1iT8s.jpg</fanart>
 <info>Separado da filha, um pai com deficiência intelectual deve provar sua inocência quando é preso pela morte do filho de um comandante.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>Libertação</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hObIIdNi8LGTRygmA8BPIuaBoEYIVqhg/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJhO7qkasC3xBAS6fhLPWpUjGZb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/9wjQokjcl4u8Z91s4LZ13L8LS1R.jpg</fanart>
-<info>Com a intenção de ver o rio Cahulawassee antes de se transformar em um imenso lago, o fanático ao ar livre Lewis Medlock leva seus amigos em uma viagem de rafting que nunca esquecerão no perigoso país americano.</info>
+<title>[COLOR lime]Os Cinco Bandoleiros[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gs2LQ1ifvhcRfqJk3c4cBgsyagB3xkrX/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NSCCCQn06UfkKap9rIXL5g7GPG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1u0eCifYlWmC7xGnzJfUAevdtV7.jpg</fanart>
+<info>Situado durante a Revolução Mexicana, um homem conhecido apenas como "O Holandês" tem um plano e reúne quatro de seus antigos conhecidos, incluindo um velho amigo do exército e um silencioso espadachim japonês, para ajudá-lo, prometendo uma recompensa de US $ 1.000. consegue. O plano acaba sendo uma missão tola: roubar um trem com US $ 500.000 em ouro que é guardado por dezenas de soldados fortemente armados e passa por um fluxo constante de postos de controle militares. Naturalmente, seus amigos concordam em seguir o esquema</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>Vem Comigo</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZgDO3OsPy-z9bm6QbfY5DKWwPnZkNcBs/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBHoL4nUPYLxx3NaGf70NqP4JkN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/oWNWaRM1l3yVyKGfBH4ccZIcBFR.jpg</fanart>
-<info>Felizmente desapegada, a voraz Leila sexualmente satisfaz seus desejos com uma série de parceiros de cama em rápida mudança, sem se preocupar com as consequências emocionais. Mas tudo isso muda quando ela conhece um artista em busca de um compromisso mais profundo.</info>
+<title>[COLOR lime]Papillon[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xb-VX8Mf6TiNrrG3KXlewbKag6RCocvk/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lfMtVr5hkFeGy4dMaEf3XUQr76d.jpg</fanart>
+<info>Henri "Papillon" Charrière, um segurança do submundo parisiense, é injustamente condenado e sentenciado à prisão perpétua na colônia penal da Guiana Francesa, onde ele faz uma forte amizade com Louis Dega, um falsificador que precisa de sua proteção.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>Jovem e bela</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ibR5Os_ZZp4cOW3FlUoijasyBVAT4IR/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBHoL4nUPYLxx3NaGf70NqP4JkN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kbjJdG9v2vuBiXdj4wuE4RRQbZO.jpg</fanart>
-<info>Isabelle, uma estudante de 17 anos, perde a virgindade durante um rápido romance de férias. Quando ela volta para casa, ela começa uma vida secreta como prostituta por um ano.</info>
+<title>[COLOR lime]O Campeão[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mKQQFWnNubCMLuKkSrKZ4IIzbqO1EMJW/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OMXgwGwczwUCoyUC5wOgQZxo7U.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/flgFiFmtwkYITx61tgBdRT9WNow.jpg</fanart>
+<info>Quanto mais você ama, mais você luta. O mundo olha para Billy Flynn e vê uma pessoa que aparentemente nunca existiu, um ex-campeão de boxe atingido a esteira anos atrás por bebidas e jogos de azar. Mas o filho de Billy, TJ, vê o que o mundo não vê. Ele sabe que seu pai falho, mas amoroso, é e sempre será o campeão.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>Salvando o soldado Ryan</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13DRvwbncBw2u-5prJP2o70SejskRYHx0/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gc7IN6bWNaWXv4vI6cxSmeB7PeO.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/h7TpINCBCvkdoWNXXuZQdSl9qM4.jpg</fanart>
+<title>[COLOR lime]Maggie[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jm7qsWjfAF1CXboC5kVmtwDckP7-RZmB/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ycQ4zbc0S9Xby1OrYJAKnM7Lkh5.jpg</fanart>
+<info>Há uma epidemia de zumbis mortal ameaçando a humanidade, mas Wade, um agricultor de cidade pequena e homem de família, se recusa a aceitar a derrota, mesmo quando sua filha Maggie é infectada. À medida que a condição de Maggie piora e as autoridades tentam erradicar as pessoas com o vírus, Wade é levado ao limite em um esforço para protegê-la. Joely Richardson é co-estrela deste thriller pós-apocalíptico.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Libertação[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tHiFmXjyxniX-BHsbYtrbDhhpgP8Bq6n/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aaqbyTRo1bZB34ZdjeWyqnL0qz0.jpg</fanart>
+<info>Com a intenção de ver o rio Cahulawassee antes de se transformar em um enorme lago, o fanático ao ar livre Lewis Medlock leva seus amigos em uma viagem de rafting no rio, que nunca esquecerão no perigoso país americano.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Todas As Mulheres Fazem[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kp6mX-Nvk_fIG5wQumjspvwiqomCNI5u/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Wzhfs1udDyEAwepW5SZsSwjNhk.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNmFkZWZiMjktMjVjYi00MGMwLWIyNmQtYjA2NDA3NGZjNDE1XkEyXkFqcGdeQXVyNDA2MDA0MDA@._V1_.jpg</fanart>
+<info>Diana é uma esposa romana, felizmente casada com o simpático Paolo, mas gosta de jogar benignos jogos de sedução com outros homens, enquanto resiste aos avanços do proprietário de uma loja de lingerie chique, Silvio. Ela narra suas aventuras para Paolo, a fim de estimular sua vida sexual monótona. No entanto, sob a influência de sua amiga lésbica Antonietta e sua irmã atrevida Nadia, Diana começa a avançar ainda mais, enquanto Paolo ainda está propenso a acreditar que os eventos narrados por ela são meramente fantasias.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Sem Limites[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yaWVg960DJZpjNFL9JQ6Nzf_-mf8PCXA/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjcwN2RhYWYtOWY1NC00M2JkLTllYWItYzZhOTg4NjZmMDcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mSIwogX33Hp09JEnahn5IbAODG.jpg</fanart>
+<info>Corky, uma ex-mulher durona e sua amante Violet, inventa um esquema para roubar milhões de dinheiro da máfia e atribuir a culpa ao desonesto namorado de Violet, César.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Fúria[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19REXZZVM-pzRe9laZEiEDFMBWilhSK1R/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg</fanart>
+<info>Nos últimos meses da Segunda Guerra Mundial, quando os Aliados avançam no teatro europeu, um sargento do Exército dos EUA chamado 'Wardaddy' comanda um tanque Sherman chamado 'Fury' e sua tripulação de cinco homens em uma missão mortal. atrás das linhas inimigas. Em menor número e em menor número, Wardaddy e seus homens enfrentam enormes probabilidades em suas heróicas tentativas de atacar o coração da Alemanha nazista.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Êxodo: Deuses e Reis[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yxrJtoDxmSCpYhbbzIzHvlpjqV5le7jP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TSSBdw1CiIWZkWmcALoLdWs4Do.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hJ1jUw8irCiWwQk7BElxF92BrlK.jpg</fanart>
+<info>O líder desafiador Moisés se levanta contra o faraó egípcio Ramsés, colocando 400.000 escravos em uma jornada monumental de fuga do Egito e seu terrível ciclo de pragas mortais.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Contágio[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ASJcqS8NN4akkOKRnNgwqIG720X4fJx_/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bdmyvEdrmnj7J3RWaKXEOwYggRv.jpg</fanart>
+<info>Como uma epidemia de um vírus letal no ar - que mata em poucos dias - cresce rapidamente, a comunidade médica mundial corre para encontrar uma cura e controlar o pânico que se espalha mais rapidamente que o próprio vírus.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Contrabando[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HopE3YbgEe1IPsR66vrQthodeJLRP7mO/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRgEKt2fUPWuM1LS0nVtNYV86eP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mpnANFV2Z4mxhcY9rQwQ6RwLiSW.jpg</fanart>
+<info>Quando seu cunhado entra em conflito com um traficante, o homem da família Chris Farraday recorre a uma habilidade que ele abandonou há muito tempo - contrabando - para pagar a dívida. Mas o trabalho dá errado, e Farraday se vê sendo procurado por policiais, bandidos e assassinos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Catch.44[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17c6zsMUtCKEunXYA4sVdimLeoQCnNdJM/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbDQA2a3H9CbEHr7bDkaqxAGDO1.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTU5MzUwNTc3OV5BMl5BanBnXkFtZTcwNzQ0MTc5Ng@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>As vidas de três assassinas mudam repentinamente quando seu chefe encantador as atrai para um último emprego. Eles logo se vêem em uma situação bizarra envolvendo um assassino psicótico, um caminhoneiro grisalho e um cozinheiro de linha ilusório.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]ATM - Armadilha Mortal[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q3sw5EVsGmIFHYPYQMkGg7fmTMVj5esP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cigb1FmAjvHDGnrj23ii65NMIP.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZGM4YmIwYjAtMDhmNy00NzRhLThkOTEtNzIyODlmMDk3ZDFlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg</fanart>
+<info>Depois de deixarem a festa de Natal da empresa juntos, o primeiro encontro inesperado de David Hargrove e Emily Brandt toma um rumo inesperado quando seu colega de trabalho, Corey, pede que eles parem até tarde da noite em um caixa eletrônico. O que deveria ser uma transação de rotina se transforma em uma luta desesperada pela sobrevivência quando um homem desconhecido aparece fora do vestíbulo. Com as temperaturas de inverno caindo abaixo de zero, e o nascer do sol ainda a horas de distância, eles não têm escolha a não ser jogar o jogo mortal de gato e rato do homem.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Coração Valente[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KyW-kP_HprO45qA3843KF6kcEdrgA254/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or1gBugydmjToAEq7OZY0owwFk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xRooZvuQPIc1zdIZqJM1oYT67HD.jpg</fanart>
+<info>Enfurecido com o massacre de Murron, sua nova noiva e amor de infância, o guerreiro escocês William Wallace mata um pelotão dos soldados locais do senhor inglês. Isso leva a aldeia a se revoltar e, eventualmente, o país inteiro se insurgir contra o domínio inglês.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Blindado[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KFMXznGKQ1Ooi-PiIVI2S7xztqLRaHDg/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQrAXGkBy84FyGpWrY71ptqs7zD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/c8tpPQkwOncUgVdJt7lDLUID5ZU.jpg</fanart>
+<info>Uma equipe de oficiais de uma empresa de segurança de transporte blindada arrisca suas vidas quando embarca no último assalto contra sua própria empresa. Munidos de um plano aparentemente infalível, os homens planejam fugir com uma fortuna sem prejudicar ninguém. Mas quando uma testemunha inesperada interfere, o plano rapidamente se desfaz e todas as apostas são canceladas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Freio[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SpWZEXCIqls50efv8UnZEMacYw815aaa/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/60QLgkyA7E9vjrNoTdehKX3getJ.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNzk3ZDA2OWYtNDcxZC00YWVlLThjM2UtOGYyM2E2YTEwMGJkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg</fanart>
+<info>Um agente do serviço secreto é mantido em cativeiro no porta-malas de um carro e sofre tortura física e mental em alta velocidade, enquanto os terroristas tentam extrair as informações necessárias para sua trama sinistra.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]O Náufrago[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ouXj0Onf6F3Xla7KgLzlKmk0IUvnhWRl/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6ok1Ehrb0gl3Z0ou7zD3arUiAfP.jpg</fanart>
+<info>Chuck Nolan, um dos principais gerentes internacionais da FedEx, e Kelly, um Ph.D. estudante, estão apaixonados e caminhando para o casamento. Então o avião de Chuck para a Malásia cai no mar durante uma tempestade terrível. Ele é o único sobrevivente e se vê abandonado em uma ilha desolada. Sem chance de escapar, Chuck precisa encontrar maneiras de sobreviver em sua nova casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Sniper Americano[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AE62gcYAI8dymqnVwrNqaa9Tx40Dq44Q/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1U46OwMc6vlm7OoSUKfqUH615e.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ejppjyIQjI7sajxUkize7GFgREV.jpg</fanart>
+<info>US Navy SEAL Chris Kyle leva sua única missão - proteger seus camaradas - a sério e se torna um dos atiradores mais letais da história americana. Sua precisão não só salva inúmeras vidas, mas também faz dele um alvo principal dos insurgentes. Apesar do grave perigo e de sua luta para ser um bom marido e pai de sua família nos Estados Unidos, Kyle cumpre quatro missões no Iraque. No entanto, quando ele finalmente volta para casa, ele descobre que não pode deixar a guerra para trás.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Coração de Dragão 3: A Maldição do Feiticeiro[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y3wBNLDD0paWmQkTAEeMxjxlUlWYTt9q/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTUzMjkxNzk3NF5BMl5BanBnXkFtZTgwOTE1MzYyNDE@._V1_SY1000_CR0,0,716,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYzZkMWRjMzEtZmRlMy00M2NlLTg2MjYtOWE5Mjk0YWJkMzIwXkEyXkFqcGdeQXVyNzExOTY5MzU@._V1_.jpg</fanart>
+<info>Quando o aspirante a cavaleiro Gareth procura um cometa caído que contém rumores de ouro, ele fica chocado ao encontrar o dragão Drago. Depois que Drago salva a vida de Gareth, os dois se tornam intrinsecamente ligados e devem trabalhar juntos para derrotar um feiticeiro maligno e impedir seu reinado de terror. Ao longo do caminho, Gareth aprende o verdadeiro significado de ser um cavaleiro nesta fantasia de ação e aventura para as idades.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Sem Tempo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tFvtuH4-vzotknJEI3niHLjT2Pi0g92P/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/kx2YVkcsnTnmF9XGTAj2NqEcHFG.jpg</fanart>
+<info>Em um futuro não muito distante, o gene do envelhecimento foi desativado. Para evitar a superpopulação, o tempo se tornou a moeda e a maneira como as pessoas pagam pelos luxos e necessidades. Os ricos podem viver para sempre, enquanto os demais tentam negociar sua imortalidade. Um jovem pobre que ganha uma fortuna, embora seja tarde demais para ajudar a mãe a morrer. Ele acaba fugindo de uma força policial corrupta conhecida como "guardiões do tempo".</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Bairro 13[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1sjicHy7DgsjEp0-cqret8z2os00U1tVU?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTI0ODQ2MzY5NF5BMl5BanBnXkFtZTgwNTcxNzQxMTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8CtTl3cN5oF4mONXWCCP0LgcHQr.jpg</fanart>
+<info>Em Detroit distópica, grandes casas que antes abrigavam os ricos agora são o lar dos criminosos mais perigosos da cidade. Ao redor da área há uma parede gigante para manter o resto de Detroit seguro. Para o policial disfarçado Damien Collier, todos os dias é uma batalha contra a corrupção, enquanto ele luta para levar o assassino de seu pai, Tremaine, à justiça. Enquanto isso, Damien e um ex-presidiário chamado Lino trabalham juntos para salvar a cidade de um plano para destruí-la.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Chappie[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-tCIEfrlAO4ozbp8LaVlBqeBNF4zZQT8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/18IydtBgq8aJZpbP6NxCAGjHhae.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6qjK7kJBodduKkuSP9AU8OiEzNS.jpg</fanart>
+<info>Toda criança vem ao mundo cheia de promessas, e nada mais que Chappie: ela é talentosa, especial, um prodígio. Como qualquer criança, Chappie ficará sob a influência de seu entorno - alguns bons, outros ruins - e ele confiará em seu coração e alma para encontrar seu caminho no mundo e se tornar seu próprio homem. Mas há uma coisa que torna Chappie diferente de qualquer outra pessoa: ele é um robô.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]A Barreira Invisível[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bVW3pYsU4cvjMJtGDtzE1Ot4yiN0YlpM/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3lPSsW3VzgUnIkJg2keFDVy5PPW.jpg</fanart>
+<info>Baseado no romance gráfico de James Jones, The Thin Red Line conta a história de um grupo de homens, uma empresa de espingardas do exército chamada C-for-Charlie, que muda, sofre e acaba descobrindo coisas essenciais durante a feroz Guerra Mundial II batalha de Guadalcanal. Ele segue sua jornada, da surpresa de um pouso sem oposição, passando pelas sangrentas e exaustivas batalhas que se seguem, até a partida definitiva daqueles que sobreviveram. Um poderoso elenco da linha de frente - incluindo Sean Penn, Nick Nolte, Woody Harrelson e George Clooney - explode em ação nesta visão assustadoramente realista do caos militar e moral no Pacífico durante a Segunda Guerra Mundial.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Projecto Almanaque[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RL2Mu-CfqyI6hGz4Ihp3eAZdJLbtvqS1/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PeICmYcwEr2qrXROKCclGsdGXh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9WO1YGgDrKamuEmurOfrqZhZYrc.jpg</fanart>
+<info>Um grupo de adolescentes descobre planos secretos de uma máquina do tempo e constrói um. No entanto, as coisas começam a ficar fora de controle.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Sobrevivente[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gA2WpIGShdvVQ6F7OG50lyNQLEczyYiU/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtUUGoGDpiYtZdqpINVqHNO3hR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/yzBEwLL9lxV2b4SNiXcfBy43EMc.jpg</fanart>
+<info>Uma oficial de serviços estrangeiros em Londres tenta impedir um ataque terrorista que deve atingir Nova York, mas é forçada a fugir quando é acusada de crimes que não cometeu.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]O Resgate do Soldado Ryan[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1stuT2AtvbngvkBJgy0Jl6dhl-s_pIiXu/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMzk0MDYzYmUtM2FkYy00YTc3LWFhYjUtNTQzODMyYjE4YzQ4XkEyXkFqcGdeQXVyNjQ2NDA2ODM@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
 <info>Enquanto tropas americanas invadem as praias da Normandia, três irmãos estão mortos no campo de batalha, com um quarto preso atrás das linhas inimigas. O capitão da guarda florestal John Miller e sete homens têm a tarefa de penetrar em território controlado pelos alemães e levar o menino para casa.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>A Tênue Linha Vermelha</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p7CXyFN5cIsrzM9C8OR3_5IZPDopHdb4/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4ApW90svay7veAPgxU8OsNMEOB.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/A0SdX7JM2Irj9oB4EmNWAX1BDX.jpg</fanart>
-<info>Baseado no romance gráfico de James Jones, The Thin Red Line conta a história de um grupo de homens, uma empresa de espingardas do exército chamada C-for-Charlie, que muda, sofre e acaba descobrindo coisas essenciais durante a feroz Guerra Mundial II batalha de Guadalcanal. Ele segue sua jornada, da surpresa de um pouso sem oposição, passando pelas sangrentas e exaustivas batalhas que se seguem, até a partida definitiva daqueles que sobreviveram. Um poderoso elenco da linha de frente - incluindo Sean Penn, Nick Nolte, Woody Harrelson e George Clooney - explode em ação nesta visão assustadoramente realista do caos militar e moral no Pacífico durante a Segunda Guerra Mundial.</info>
+<title>[COLOR lime]Candy[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ef5CoFF3Q9R6mfwgEiVR8HVPBDv5V7d3/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTgwNzliODYtOWI2Yy00OTFhLWExZjgtNTdjNjMzOTAyN2JmXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w220_and_h330_face/8XfecYYO6acqQ2Eu6Awd3I5eV6h.jpg</fanart>
+<info>Um poeta se apaixona por um estudante de arte que gravita seu estilo de vida boêmio - e seu amor à heroína. Apegados um ao outro quanto à droga, seu relacionamento alterna entre estados de esquecimento, autodestruição e desespero.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO UNIVERSAL DE APENAS UM LINK
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Assalto Ao Banco Central[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12VBBHzklnh-PnT1Poj95uESyooS4Zn9_/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxg4CtnnjrY8Z5MgCORFKjl6ENU.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/bJYVO80aWbkbgqnzJLniTb9BXFa.jpg</fanart>
-<info>Alberto está planejando a melhor fuga romântica, mas antes que ele possa pegar o avião, ele enfrentará o dia mais assustador de sua vida.</info>
-<data>2004</data>
+<title>[COLOR lime]Velozes Como um Raio... Que os Parta![/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bRQ9F-c76Shx8o6KIdHSPi9HNN3ifZuQ/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjM3MjQxNjkxM15BMl5BanBnXkFtZTgwMDIyMTA0NDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/pwqfrqNkE4UJQqGdBc5qFUC6w9V.jpg</fanart>
+<info>O policial disfarçado Lucas White se junta à quadrilha de corredores de rua ilegais de Vin Serento. Eles são rápidos, furiosos e planejam dobrar o chefão do crime de Los Angeles, Juan Carlos de la Sol, que esconde seu dinheiro em um Taco Bell no centro. O plano ultrajante da quadrilha é tão ousado quanto ridículo e os verá rebocando todo o maldito restaurante, a velocidades loucas.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Gênios do Crime[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mkZ05_ZmSO5KEgECKmubfEYJZXKzmQ2x/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPUO9Fvvt0mkxrr5vfuHB8dU3p7.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fVltpTyYAfI3tPgle4lX7u80MQV.jpg</fanart>
-<info>Um guarda noturno de uma empresa de carros blindados no sul dos EUA organiza um dos maiores assaltos a bancos da história americana.</info>
+<title>[COLOR lime]Insurgente[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zq4XNKa5750mTkPRAQ7XPvHgi_Ox4BRV/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0n5HFYFcmzy97uiyNDfE9hwEIZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg</fanart>
+<info>Beatrice Prior deve enfrentar seus demônios interiores e continuar sua luta contra uma aliança poderosa que ameaça destruir sua sociedade.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Um Suburbano Sortudo[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BPYezMZZs6hTU9AklMw9A3I3Y9GU87AP/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7avILhHYTH8Ce7x1k2Gemy8ZY5v.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rHld0BrFH7oyK8mhY7jZHMNEGAT.jpg</fanart>
-<info>Não temos uma visão geral traduzida em inglês. Ajude-nos a expandir nosso banco de dados adicionando um.</info>
+<title>[COLOR lime]O Efeito Lazarus[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ngcqA-1gq_VzZ9jr3q35rZ8jJybWmd5/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aq0TOLvITU3iWRUfxlRc83lMz1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nMlsS5v0BY9W1GhRBUNrRPF90Xh.jpg</fanart>
+<info>O pesquisador médico Frank, sua noiva Zoe e sua equipe alcançaram o impossível: encontraram uma maneira de reviver os mortos. Após um experimento bem-sucedido, mas não sancionado, em um animal sem vida, eles estão prontos para tornar seu trabalho público. No entanto, quando o reitor deles descobre o que eles fizeram, ele os desliga. Zoe é morta durante uma tentativa de recriar o experimento, levando Frank a testar o processo nela. Zoe é revivida - mas algo de mal está dentro dela.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title>[COLOR lime]Náufrago[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13-Fed1ID74DSX_w1LNELIyFX_iAxEkj5/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVhBMllvJWgNtBoCxAL0FxuYoo1.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/frbW3kQXhVZPhceuQa1EqwZPXQr.jpg</fanart>
-<info>Chuck, um dos principais gerentes internacionais da FedEx, e Kelly, um Ph.D. estudante, estão apaixonados e caminhando para o casamento. Então o avião de Chuck para a Malásia afunda no mar durante uma tempestade terrível. Ele é o único sobrevivente e lava uma pequena ilha com nada além de um pouco de flotsam e jetsam da carga da aeronave.</info>
+<title>[COLOR lime]Vingadores: Guerra do Infinito[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Lw7asAzHos-Y6nRso3vwu84AoGu7qwVL/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg</fanart>
+<info>Enquanto os Vingadores e seus aliados continuam protegendo o mundo de ameaças grandes demais para qualquer herói, um novo perigo surgiu das sombras cósmicas: Thanos. Déspota da infâmia intergaláctica, seu objetivo é coletar todas as seis Pedras do Infinito, artefatos de poder inimaginável, e usá-las para infligir sua vontade distorcida a toda a realidade. Tudo o que os Vingadores lutaram levou até esse momento - o destino da Terra e da própria existência nunca foi tão incerto.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
 <item>
-<title> TITULO </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://home.mycloud.com/public/e0acccfb-db1a-489b-b46b-61f246439297/file?usp=drivesdk</link>
-<thumbnail> ICONE </thumbnail>
-<fanart> IMAGENS DE FUNDO </fanart>
-<info> SINOPE </info>
+<title>[COLOR lime]Tracers: Nos Limites[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kWse6I7VyEqTkT_Lb643281TKUQJchBW/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHg1JMq3W3cK7NjLKHRPCz2BQWD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mCtcj983zvP5cUpMd3IjHOEMJjT.jpg</fanart>
+<info>Procurado pela máfia, um mensageiro de bicicleta de Nova York escapa para o mundo do parkour depois de conhecer um belo estranho.</info>
 </item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Master & Commander - O Lado Longínquo do Mundo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UEpDHICjBFVmpa2tYZmgPp_twUmuDv1f/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg</fanart>
+<info>Após um encontro abrupto e violento com um navio de guerra francês infligir graves danos ao seu navio, um capitão da Marinha Real Britânica inicia uma perseguição por dois oceanos para capturar ou destruir o inimigo, embora ele deva pesar seu compromisso com o dever e a busca feroz da glória. contra a segurança de sua tripulação dedicada, incluindo o pensador cirurgião do navio, seu melhor amigo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]A Mosca[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w8CjqyEJlAXZnLVUCpfhcBqo3L2C1vi7/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLnulyRMhZfrXr7qaufBFv5H1us.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dtP5Q556gG2FAXEQ8XvILmQBn9.jpg</fanart>
+<info>Quando Seth Brundle faz uma enorme inovação científica e tecnológica no teletransporte, ele decide testá-lo em si mesmo. Sem que ele soubesse, uma mosca comum consegue entrar no dispositivo e os dois se tornam um.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
