@@ -16,3 +16,13 @@ MODELO PARA YOUTUBE
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR plum]Monstros e Companhia 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uai32-dRmTg_aQI3jEtKgtm6G5ElmucJ/view$$lsname=[COLOR orange]Monstros e Companhia[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18Ib6ncH_0xLzjZaPXLz6exirlzPDFePp/view$$lsname=[COLOR orange]Monstros Na Universidade[/COLOR]</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_SY999_CR0,0,674,999_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
