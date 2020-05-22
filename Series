@@ -1,5 +1,5 @@
 <canais>
-<name>[COLOR gold]A Fórmula 1ª TEMPORADA[/COLOR]</name>
+<name>A Fórmula 1ª TEMPORADA</name>
 <link>IGNOREME</link>
 <thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BMGRmMGEyZDYtZmJmNi00OGYyLTllNjMtMDM0OGI2MTY1MWE4XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg</fanart>
@@ -8,7 +8,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR branco]A Fórmula Ep. 01[/COLOR]</title>
+<title>A Fórmula Ep. 01</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-L9k3OZcyJ72MR2j2Y3WBJ8RPKxy9Yma/view$$lsname=[COLOR orange]Ep. 01[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
@@ -16,7 +16,7 @@
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR branco]Meu Nome é Liberdade EP 02[/COLOR]</title>
+<title>Meu Nome é Liberdade EP 02</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XIxSIkNwtMLc4Xqkyu1inMCLjB-OC_yW/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
