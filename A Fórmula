@@ -1,15 +1,72 @@
-<item>
-<title>[COLOR yellow]CHUVA[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 01[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-L9k3OZcyJ72MR2j2Y3WBJ8RPKxy9Yma/view</link>
-<thumbnail>https://gurudacidade.com.br/wp-content/uploads/2018/12/the-rain-box-filmes.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
+<channels>
+</channels><channel>
+<name>[COLOR white]1ª TEMPORADA[/COLOR]</name>
+<link>Ignore</link>
+<fanart>https://m.media-amazon.com/images/M/MV5BMGRmMGEyZDYtZmJmNi00OGYyLTllNjMtMDM0OGI2MTY1MWE4XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</thumbnail>
 </item>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title> [COR amarela] [B] CHUVA [/ B] [/ COLOR] [COR branca] [B] - [/ B] [/ COLOR] [COR Lawngreen] [B] T1 | EP 02 [/ B] [/ COLOR] </title>
+<title>[COLOR yellow]A Fórmula[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 01[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-L9k3OZcyJ72MR2j2Y3WBJ8RPKxy9Yma/view</link>
-<thumbnail>https://gurudacidade.com.br/wp-content/uploads/2018/12/the-rain-box-filmes.jpg</thumbnail>
-<fanart>https://gurudacidade.com.br/wp-content/uploads/2018/12/the-rain-box-filmes.jpg</fanart>
-<info> Há anos após um vírus exia,s que participam da busca de segurança ... </info>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
+<info>Depois de descobrir o elixir da juventude, uma cientista se reúne com sua namorada do ensino médio, trazendo de volta muitos dilemas do passado. Ela testa a fórmula em si mesma e cada dose a torna 30 anos mais jovem. Ela então começa a alternar entre sua personalidade atual e a mais jovem, tornando-se sua própria rival. Enquanto isso, seu ex-namorado se apaixona por ambas as versões do cientista, sem saber que esse triângulo amoroso inclui as duas identidades da mesma mulher.</info>
 </item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR yellow]A Fórmula[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 02[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XIxSIkNwtMLc4Xqkyu1inMCLjB-OC_yW/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
+<info>Depois de descobrir o elixir da juventude, uma cientista se reúne com sua namorada do ensino médio, trazendo de volta muitos dilemas do passado. Ela testa a fórmula em si mesma e cada dose a torna 30 anos mais jovem. Ela então começa a alternar entre sua personalidade atual e a mais jovem, tornando-se sua própria rival. Enquanto isso, seu ex-namorado se apaixona por ambas as versões do cientista, sem saber que esse triângulo amoroso inclui as duas identidades da mesma mulher.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR yellow]A Fórmula[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 03[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1InIiSVDJeFhmQd4MTZD94WCZGBw04mux/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
+<info>Depois de descobrir o elixir da juventude, uma cientista se reúne com sua namorada do ensino médio, trazendo de volta muitos dilemas do passado. Ela testa a fórmula em si mesma e cada dose a torna 30 anos mais jovem. Ela então começa a alternar entre sua personalidade atual e a mais jovem, tornando-se sua própria rival. Enquanto isso, seu ex-namorado se apaixona por ambas as versões do cientista, sem saber que esse triângulo amoroso inclui as duas identidades da mesma mulher.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR yellow]A Fórmula[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 04[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wjIK2-q7eCcO_theIktlrVXoyUnNaJQe/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
+<info>Depois de descobrir o elixir da juventude, uma cientista se reúne com sua namorada do ensino médio, trazendo de volta muitos dilemas do passado. Ela testa a fórmula em si mesma e cada dose a torna 30 anos mais jovem. Ela então começa a alternar entre sua personalidade atual e a mais jovem, tornando-se sua própria rival. Enquanto isso, seu ex-namorado se apaixona por ambas as versões do cientista, sem saber que esse triângulo amoroso inclui as duas identidades da mesma mulher.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR yellow]A Fórmula[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 05[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b0_XC_Bke-qd8oiCrl_kUdx6_wS5mjbf/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
+<info>Depois de descobrir o elixir da juventude, uma cientista se reúne com sua namorada do ensino médio, trazendo de volta muitos dilemas do passado. Ela testa a fórmula em si mesma e cada dose a torna 30 anos mais jovem. Ela então começa a alternar entre sua personalidade atual e a mais jovem, tornando-se sua própria rival. Enquanto isso, seu ex-namorado se apaixona por ambas as versões do cientista, sem saber que esse triângulo amoroso inclui as duas identidades da mesma mulher.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR yellow]A Fórmula[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 06[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JMwWB4MqlHWfKrLL8KEGhhh7V0NwEPLU/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
+<info>Depois de descobrir o elixir da juventude, uma cientista se reúne com sua namorada do ensino médio, trazendo de volta muitos dilemas do passado. Ela testa a fórmula em si mesma e cada dose a torna 30 anos mais jovem. Ela então começa a alternar entre sua personalidade atual e a mais jovem, tornando-se sua própria rival. Enquanto isso, seu ex-namorado se apaixona por ambas as versões do cientista, sem saber que esse triângulo amoroso inclui as duas identidades da mesma mulher.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR yellow]A Fórmula[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 07[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PV5Aj-Jy5EwXA23R30kPCcWAT6vGfoh5/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
+<info>Depois de descobrir o elixir da juventude, uma cientista se reúne com sua namorada do ensino médio, trazendo de volta muitos dilemas do passado. Ela testa a fórmula em si mesma e cada dose a torna 30 anos mais jovem. Ela então começa a alternar entre sua personalidade atual e a mais jovem, tornando-se sua própria rival. Enquanto isso, seu ex-namorado se apaixona por ambas as versões do cientista, sem saber que esse triângulo amoroso inclui as duas identidades da mesma mulher.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR yellow]A Fórmula[/COLOR] [COLOR white]-[/COLOR] [COLOR lawngreen]T1 | EP 08[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-6XHBKgfhMTwl-3yQUueTJukPdiLNpgN/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zoJ89SVcBQDFg17dZE43wtN21Ic.jpg</fanart>
+<info>Depois de descobrir o elixir da juventude, uma cientista se reúne com sua namorada do ensino médio, trazendo de volta muitos dilemas do passado. Ela testa a fórmula em si mesma e cada dose a torna 30 anos mais jovem. Ela então começa a alternar entre sua personalidade atual e a mais jovem, tornando-se sua própria rival. Enquanto isso, seu ex-namorado se apaixona por ambas as versões do cientista, sem saber que esse triângulo amoroso inclui as duas identidades da mesma mulher.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
