@@ -1,6 +1,47 @@
 MODELO COM VARIOS LINKS
 <item>
-<title>[COLOR plum]De Pernas pro Ar Trilogia[/COLOR]</title>
+<title>[COLOR plum]IT 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hqHbZiULsDs3TZEkv5SkTGqAYrE1IWEi/view$$lsname=[COLOR orange]IT 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HkvYCUItz0E901Ym40sSRtDROQg-0uKd/view$$lsname=[COLOR orange]IT 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8moTOzunF7p40oR5XhlDvJckOSW.jpg</fanart>
+<info>IT 1 e 2</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Quadrilogia Alien + EXTRA[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12dhegv32rsS4Ir0IKga6opcn7Ku-KF46/view$$lsname=[COLOR orange]Alien, O 8 PASSAGEIRO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qwnD7IldpKX9ZQZPP5Rd--irMBLHSND5/view$$lsname=[COLOR orange]O RESGATE[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13_9yH1Z813kyt2cRg0-onFwSQXqyw4qS/view$$lsname=[COLOR orange]Alien 3[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ErYjp1bo8XwrXSpxOnp2t8Qy2aqLAYkj/view$$lsname=[COLOR orange]Alien, A RESSURREICAO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-W_lL-ps-v9dK95BezvK4_BDUrqFkA_Q/view$$lsname=[COLOR orange](EXTRA) PROMETHEUS[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg</fanart>
+<info>Aqui Dentro Tens Os 4 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Trilogia OLHOS FAMINTOS[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1XX0iILkBieAGhgGkFAimOoOhIdgEHPp1$$lsname=[COLOR orange]OLHOS FAMINTOS[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wUITMVZJuRjlusULeB5FlnuXFUc61hR_/view$$lsname=[COLOR orange]OLHOS FAMINTOS 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pKZ_q9-EIv-1lOJfBqa87t5mm7oGvu3v/view$$lsname=[COLOR orange]OLHOS FAMINTOS 3[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g410Y1U1ELbmJG14Zru3UAimm1G.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/e3RgzvTV7D2DSsO5AXPCG6iMDdf.jpg</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Trilogia As Cronicas De Narnia[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dky8Xk98X127A6Mnznrz901BkEz4dbCd/view$$lsname=[COLOR orange]- O LEAO, A FEITICEIRA E O GUARDA-ROUPA -(2005)[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NF0-qcR9Ta2EMSsx4xi0Q6iSMMu0e6q8/view$$lsname=[COLOR orange]- O PRINCIPE CASPIAN -(2008)[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UXCPMokYJn2V0leOYyW-pU00zJT_OSgQ/view$$lsname=[COLOR orange]- A VIAGEM DO PEREGRINO DA ALVORADA  -(2010)[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzJip9vndXYSKQHCgekrgqbnUrA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ust0K60AYegrKkE34ONo66r7Hfx.jpg</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Trilogia De Pernas pro Ar[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qassFlB7NqL3KwGa-fX3Q6xcJ_3Sfawr/view$$lsname=[COLOR orange]De Pernas pro Ar 1[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11l5ceoshviIkp3MKzyysvAIk07k6AiS4/view$$lsname=[COLOR orange]De Pernas pro Ar 2[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fewNf0N-ppmXkd4oteRAPQbryF-wQBaj/view$$lsname=[COLOR orange]De Pernas pro Ar 3[/COLOR]</link>
@@ -9,9 +50,8 @@ MODELO COM VARIOS LINKS
 <info>Aqui Dentro Tens Os 3 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
 <item>
-<title>[COLOR plum]Minha Mae e uma Peca Trilogia[/COLOR]</title>
+<title>[COLOR plum]Trilogia Minha Mae e uma Peca[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BNgSdI0pUU1DFixnHuwOt7xMQ3qAzP6i/view$$lsname=[COLOR orange]Minha Mae e uma Peca 1[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZoWfz0kM9SnM0oQ7doRJ1VXvjfp4NXkg/view$$lsname=[COLOR orange]Minha Mae e uma Peca 2[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10RTU7HRo69Y10iBDVf64O0VZLVOUjd91/view$$lsname=[COLOR orange]Minha Mae e uma Peca 3[/COLOR]</link>
@@ -20,17 +60,15 @@ MODELO COM VARIOS LINKS
 <info>Aqui Dentro Tens Os 3 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
 <item>
 <title>[COLOR plum]Luccas Neto em: Acampamento de Férias 1 e 2[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16VcFeUS2LNK1AB0ZdHlNsldTfqP1JuR6/view$$lsname=[COLOR orange]Luccas Neto em: Acampamento de Férias 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BNgSdI0pUU1DFixnHuwOt7xMQ3qAzP6i/view$$lsname=[COLOR orange]Luccas Neto em: Acampamento de Férias 1[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10ElSU3NivvHeLx7lGk0EvRpgHbGaaB8S/view$$lsname=[COLOR orange]Luccas Neto em: Acampamento de Férias 2[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZPBUSqcJ2LbKYEitosojSLclkx.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xYHaG6va9gARofmXDBeyy0zcdIp.jpg</fanart>
 <info>Luccas Neto em: Acampamento de Férias 1 e 2</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
 <item>
 <title>[COLOR plum]O candidato honesto 1 e 2[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KpG-ZJnnWZaC0wG2nwzr5kJUXIFxgKfL/view$$lsname=[COLOR orange]O candidato honesto[/COLOR]</link>
@@ -40,7 +78,6 @@ MODELO COM VARIOS LINKS
 <info>O candidato honesto 1 e 2</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
 <item>
 <title>[COLOR plum]Os Parças 1 e 2[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lkIoschh01STCIeOZ8sH-jhBZqg5juqB/view$$lsname=[COLOR orange]Os Parças[/COLOR]</link>
@@ -50,7 +87,6 @@ MODELO COM VARIOS LINKS
 <info>Os Parças 1 e 2</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
 <item>
 <title>[COLOR plum]Muita Calma Nessa Hora 1 e 2[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n9jnMCrXi7jCu60isM3tl4kX75oq1P-3/view$$lsname=[COLOR orange]Muita Calma Nessa Hora[/COLOR]</link>
@@ -60,7 +96,6 @@ MODELO COM VARIOS LINKS
 <info>Muita Calma Nessa Hora 1 e 2</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
 <item>
 <title>[COLOR plum]Jogos Mortais Todos[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cw_z-hne25V2A2h81EM6bblbIQEIxB1k/view$$lsname=[COLOR orange]Jogos Mortais[/COLOR]</link>
@@ -76,7 +111,6 @@ MODELO COM VARIOS LINKS
 <info>Aqui Dentro Tens Os 8 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
 <item>
 <title>[COLOR plum]Até que a Sorte nos Separe Trilogia[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11-eIQE7uoAaYmQcAts5YOepOCLtfLvEC/view$$lsname=[COLOR orange]Até que a Sorte nos Separe[/COLOR]</link>
@@ -87,7 +121,6 @@ MODELO COM VARIOS LINKS
 <info>Aqui Dentro Tens Os 3 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Socorro! Virei uma Garota[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1APcwpqC-5CY1ncYuNx7uBr1Me0x2mCc_/view?usp=drivesdk</link>
@@ -96,7 +129,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Júlio queria ser a pessoa mais popular da escola, mas acaba conseguindo mais do que desejava.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Uma Loucura de Mulher[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hkypi5X9jWKJqUt9CDgWE75blu8zz_Cq/view?usp=drivesdk</link>
@@ -105,7 +137,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Uma mulher deixa sua carreira na dança para dedicar sua vida ao marido, um político famoso. Quinze anos depois, ela deixa sua vida luxuosa para retomar o que deixou para trás anos atrás.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]O Último Virgem[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y0HGLapKamEUU9RYcQQVwiZiMoFJEKUt/view?usp=drivesdk</link>
@@ -114,7 +145,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Dudu é um garoto tímido que, no último ano do ensino médio, ainda é virgem. Esta situação faz dele o alvo constante de piadas de seus amigos inseparáveis. Um dia, no final do ano letivo, ele é convidado pela linda professora Deborah para ter aulas extras em sua casa. A situação logo faz com que Dudu e seus amigos acreditem que ela está flertando com o garoto, que se importa mais do que nunca com sua inexperiência sexual.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Divórcio[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M4GFZHKnMIS-m7_4OSh-vz8egx2qY6dH/view?usp=drivesdk</link>
@@ -123,7 +153,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>20 anos depois de fugir juntos, Julio e Noeli criaram uma família e administram um negócio de sucesso juntos. No entanto, o casamento deles parece falhar, então Noeli pede o divórcio. Ambos farão o que for preciso para vencer sua batalha legal.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]A Divisão[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gqEHfoj36DFSRu-qy0ZNMweYS0V0DrUX/view?usp=drivesdk</link>
@@ -132,7 +161,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Final dos anos 90. Com centenas de seqüestros, o Rio de Janeiro é assolado pela violência.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Totalmente Inocentes[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16n9uZ5wxQG362ZL2hilXdlRDKtONBKEc/view?usp=drivesdk</link>
@@ -141,7 +169,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>A comunidade do DDC está em guerra. O garoto branco Morro (Fábio Porchat) e a demoníaca travesti Loira (Kiko Mascarenhas) disputam o poder na comunidade. Alheio a isso, Of Faith (Luke D 'Jesus) acredita que precisa se tornar o topo da colina para conquistar o amor de Gildinha (Mariana Rios), sua musa. Tudo fica pior quando o repórter Vanderlei (Fábio Assunção) forja uma capa que dará a palestra. A história também traz Felipe Neto como narrador intervenções oportunas.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Masterminds - Golpada de Mestre[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FtpwFIsCxpeXZDBsOVFRExeVao4s-yTm/view?usp=drivesdk</link>
@@ -150,7 +177,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Um guarda noturno de uma empresa de carros blindados no sul dos EUA organiza um dos maiores assaltos a bancos da história americana.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Um Suburbano Sortudo[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NUpqR4VMC5VLxa77AzfVDddRyxL5lERr/view?usp=drivesdk</link>
@@ -159,7 +185,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Carandiru[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1klwV1yAHCBEx_QgdVwM7Vf5tPYx9wcMl/view?usp=drivesdk</link>
@@ -168,7 +193,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Quando um médico decide realizar um programa de prevenção da Aids na maior prisão da América Latina: a Casa de Detenção de São Paulo - Carandiru, ele descobre a vítima de um dos dias mais sombrios da história do Brasil quando a Polícia Militar do Estado de São Paulo, com a desculpa para a aplicação da lei, morto a tiros 111 pessoas. Baseado em fatos reais e no livro escrito por Dráuzio Varella.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Jogos Suicidas[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kkscbWIaAVs1NXqs5VluoSEnjFUyuC0m/view?usp=drivesdk</link>
@@ -177,7 +201,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Seis pessoas, cada uma delas está no caminho da autodestruição. Eles acordam em celas em uma instalação surreal, sem saber como chegaram lá ou por quê.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Chorar de Rir[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15UiF9FRzMp-573WSLLN7qflNOK7JFt89/view?usp=drivesdk</link>
@@ -186,16 +209,14 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Nilo Perequê é um comediante de sucesso que estrela um programa de TV. Quando ele ganha o prêmio de melhor comediante do ano, o comediante decide mudar radicalmente sua carreira e se dedicar totalmente ao drama, deixando sua família e empresário desesperados.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Assalto ao Banco Central[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ir25u3Xx0WjbUJBwzJoq75cXT-xVyElH/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JDe49H_XqZsObJBek9tTYkObXP0kWek8/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbUymWDX82csyNaTj3AmKGKqzrG.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BYmY2MjI2MzUtYmM5Yy00NWU1LWE1NTEtMzZmZmQwNmUyNzE4XkEyXkFqcGdeQXVyMzM0NjMzNTk@._V1_.jpg</fanart>
 <info>"The Baron" queria cometer o assalto perfeito, envolvendo 3 toneladas de dinheiro e sem violência. Para isso, ele precisaria das pessoas certas dispostas a receber 1 milhão de dólares para participar desse trabalho. Baseado em fatos reais, em 2005, 168.000.000 de reais (quase US $ 80.000.000) foram roubados de um Banco Central do Brasil (Federal Reserve), tornando-o o maior assalto à paz da história. Foi talvez o assalto ao banco mais audacioso de todos os tempos.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Platoon - Os Bravos do Pelotão[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11PU64RwZXYpRzkFvclhyWL-AlEsoC6q0/view?usp=drivesdk</link>
@@ -204,7 +225,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Como um recruta jovem e ingênuo no Vietnã, Chris Taylor enfrenta uma crise moral quando confrontado com os horrores da guerra e a dualidade do homem.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Duplo Risco[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oe8X6dNnl78ebk0J_P_KtcKAi9rmnvGr/view?usp=drivesdk</link>
@@ -213,7 +233,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Uma mulher acusada de assassinato do marido suspeita que ele ainda esteja vivo; como ela já foi julgada pelo crime, ela não pode ser processada novamente se o encontrar e o matar.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Pequenos Monstros[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sEGi2YC0UD_AY3faq56V-LcYWm-pvf5U/view?usp=drivesdk</link>
@@ -222,7 +241,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Um músico desbotado se une a um professor e uma criança mostra personalidade para proteger as crianças de um surto repentino de zumbis.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Morto Não Fala[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=17rJ7_Am16Xz2BV_WInHpCgV__kbvAnut?usp=drivesdk</link>
@@ -231,7 +249,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Stênio, o noturno de um necrotério, tem a capacidade de se comunicar com os cadáveres que lhe são trazidos todas as noites.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Os Canhões de Navarone[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bvIuT8Nc4gU9xjzR7uUBo4Ree93hrXvE/view?usp=drivesdk</link>
@@ -240,7 +257,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Uma equipe de sabotadores aliados recebe uma missão impossível: infiltrar-se em uma ilha nazista inexpugnável e destruir as duas enormes armas de longo alcance que impedem o resgate de 2.000 soldados britânicos presos.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]O Roubo da Taça[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ewJDyKv4A30p-hIl41tUd60zClz8OViS/view?usp=drivesdk</link>
@@ -249,7 +265,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Em 19 de dezembro de 1983, o sonho foi retirado. O troféu mais cobiçado de todos os tempos, a Copa Jules Rimet desapareceu da sede da CBF, a Associação Brasileira de Futebol. Deixe-me explicar: a cada 4 anos, a FIFA realiza uma Copa do Mundo de Futebol. Naquela época, apenas um país que vencera a Copa três vezes podia manter o troféu para sempre. Esse privilégio foi reservado ao Brasil quando venceu pela 3ª vez em 1970. O belo troféu foi mantido como símbolo de superioridade na sede da CBF, no Rio de Janeiro. "Jules e Dolores" é uma comédia pop que nos conta a história real, absurda e incomum por trás desse roubo.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Mulheres Alteradas[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15MK3gt_3tjYK5bfeVLgImg3rZW6gBS_m/view?usp=drivesdk</link>
@@ -258,7 +273,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Leandra está na casa dos 30 anos: ela quer se casar e ter filhos, mas ela não tem namorado. Sua irmã, Sonia, é casada e tem dois filhos, mas tudo o que ela quer é uma noite divertida com sua melhor amiga, Marinati - uma advogada viciada em trabalho que se apaixonou justamente quando sua carreira está em ascensão. Marinati é a chefe de Keka, que está ansiosa pela viagem que está programada para salvar seu casamento.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Minha Vida em Marte[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1nfReq-e_UmibvIhanWAOMaOrIxyWo6zn?usp=drivesdk</link>
@@ -267,7 +281,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Com a ajuda de sua melhor amiga, Fernanda agora tem que lidar com as vantagens de ser casada, ou talvez solteira.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]O Homem Que Copiava[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10eoUnFDKvnBAiH2quzZGIOE3QrSIg1Gw/view?usp=drivesdk</link>
@@ -276,7 +289,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>André, 19 anos, vive em Porto Alegre, Brasil, e trabalha como operador de fotocopiadora. Ele gosta de ver sua vizinha Sílvia com um par de binóculos. Ela trabalha vendendo roupas. Tornando-se atraído por ela, ele tenta se aproximar e vai à loja dela para comprar algo, mas descobre que não pode pagar. Então, ele coloca a fotocopiadora para outros usos e começa a imaginar esquemas suspeitos de ganhar dinheiro.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Até Que o Fim do Mundo nos Separe[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jw66l3SlF2_LMG6Qyj13GfbpUQwKDC1_/view?usp=drivesdk</link>
@@ -285,8 +297,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Quando um asteróide se aproxima da Terra, um homem se vê sozinho depois que sua esposa sai em pânico. Ele decide fazer uma viagem para se reunir com sua namorada do ensino médio. Acompanha-lo é um vizinho que inadvertidamente coloca uma chave em seu plano.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
-
 <item>
 <title>[COLOR lime]Ponte dos Espiões[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qF6MjKCTtS7MFSvlcb9jSjkYnt6JuG5s/view?usp=drivesdk</link>
@@ -295,8 +305,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Durante a Guerra Fria, a União Soviética captura o piloto americano Francis Gary Powers depois de abater seu avião espião U-2. Condenado a 10 anos de prisão, a única esperança de Powers é o advogado de Nova York James Donovan, recrutado por um agente da CIA para negociar sua libertação. Donovan embarca em um avião para Berlim, na esperança de conquistar a liberdade do jovem através de uma troca de prisioneiros. Se tudo correr bem, os russos receberão Rudolf Abel, o espião condenado que Donovan defendeu no tribunal.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
-
 <item>
 <title>[COLOR lime]Nada Mais Que Steve[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TxSCE7b1nW3x49KgtQTvGCe83VgO9ZVC/view?usp=drivesdk</link>
@@ -305,8 +313,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Após um breve encontro, um brilhante construtor de palavras cruzadas decide que um operador de câmera da CNN é seu verdadeiro amor. Como o trabalho do cinegrafista o leva de um lado para o outro, ela atravessa o país, aparecendo em eventos da mídia enquanto tenta convencê-lo de que eles são perfeitos um para o outro.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
-
 <item>
 <title>[COLOR lime]Eu Sou o Número Quatro[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DfAQAphIcBdFCz9H5dykxanI7843m5ZX/view?usp=drivesdk</link>
@@ -315,14 +321,28 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Um fugitivo adolescente com uma incrível corrida secreta para ficar um passo à frente das forças misteriosas que procuram destruí-lo neste thriller de ação de ficção científica. Com três mortos e um em fuga, começa a corrida para encontrar o indescritível número quatro. O adolescente aparentemente normal, John Smith, nunca fica muito à vontade com a mesma identidade e, junto com seu tutor, Henri, ele está constantemente se mudando de cidade em cidade. A cada dia que passa, John ganha uma compreensão mais forte de seus extraordinários novos poderes, e seu vínculo com os seres que compartilham seu destino fantástico se fortalece.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
-
 <item>
 <title>[COLOR lime]90 Minutos no Paraíso[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q1cfwOnZJ6JuuPmGu6ZUnL--cEjKj75J/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3LKk8UdDyXDkov9k8iP2JJNChi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/n7rYeJvofV79HvUPOygEZN5DG9K.jpg</fanart>
 <info>Um homem envolvido em um terrível acidente de carro é declarado morto, apenas para voltar à vida uma hora e meia depois, alegando ter visto o céu.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Melhor Verão das Nossas Vidas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UGFxm-ffTH8LG0__DHU5o4ed2-3urqDi/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHUxVCnB3DPu9afBnl01MtlH7q6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rsffRBgxAyEmUXVuXLuGVrFxc0a.jpg</fanart>
+<info>Três meninas são convidadas a participar de um festival de música no verão. No entanto, eles descobrem que estão na escola de verão e precisam encontrar uma maneira de ir ao festival musical sem que seus pais descubram.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Filho Eterno[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Iow9dRGG6_YPIL4Ypf0iqGkenkBOefB7/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjg5N2QwZWMtM2ViMy00ZTAxLThmYTYtM2U1ZDhkYTY2ZTZmXkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZTAxMDUyYzAtODA3YS00Y2NlLWIzNjMtZjJjMTA3Yjc5YzJkXkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_SX1499_CR0,0,1499,999_AL_.jpg</fanart>
+<info>Roberto está prestes a se tornar pai pela primeira vez. Ele já estava sonhando com os anos ainda por vir, imaginando como seria seu filho. Ao tentar descobrir como agir como pai, ele também deve enfrentar e suportar uma realidade difícil - ser o pai de uma criança com síndrome de Down. Inseguro e envergonhado da situação, ele terá que enfrentá-la e superá-la.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -388,5 +408,173 @@ MODELO GDRIVE DE APENAS UM LINK
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sy73Cp21kAxFuoC3DLn7u9Z4LP2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/njdHFu2lrisk94bLu5i4GAjHir2.jpg</fanart>
 <info>Laura é contratada como professora de dois órfãos que vivem na fazenda de seu tio, no interior do Rio de Janeiro, no século XX. Gradualmente, ela observa que as crianças estão sob a influência de espíritos malignos e se esforça para descobrir o que está por trás desse mistério. À medida que Laura se envolve mais com a situação, mais enigmático parece o comportamento ambíguo das crianças.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Lei do Ódio[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3C_eGOuloIwY05vcGdLMVVnY0k/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/syIUf5t38uETFXjVRJJMNkZDlsw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6AfKmLyXsHgoD8tvyvAhMMMxR8n.jpg</fanart>
+<info>No início do século XX, alguns condenados em fuga de gangues de rua e um deles são Zach Provo, meio indiano, que foi enviado para a prisão durante a última parte do século XIX. Ele foge com outras 6 pessoas para se vingar de Sam Burgade, o homem da lei que não apenas o capturou, mas também foi responsável pela morte da esposa de Provo, pelo menos na mente de Provo. Parte de seu plano é sequestrar a filha de Burgade, o que o leva a amarrar as armas e a segui-lo a cavalo. Burgade, que está aposentado há algum tempo, ainda tem o que é preciso para rastrear Provo?</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Inferno Na Fronteira[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K-WDSVFA3CZKErxpXSwzI2kWl8TjcLMl/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/original/lp9yaPNrdz1cck6qLcMZNQ27wsd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tfBllLjLgmFNMjnWOeMz2ROcCKC.jpg</fanart>
+<info>Baseado na vida real de Bass Reeves, lendário cowboy afro-americano. Ele foi o primeiro vice-marechal negro dos EUA a oeste do rio Mississippi. Ele trabalhou principalmente no Arkansas e no Território de Oklahoma. Durante sua longa carreira, Bass foi creditado com a prisão de mais de 3.000 criminosos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Comboio das 3 e 10[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OdzMA26pKEFyEhqXcxiKoww75vcMARY1/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dYVFb0PsN8mtdfFac4Hzi3BhcM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qkIaIlU6dYAO2gNmUYSTcT9aEMp.jpg</fanart>
+<info>No Arizona, no final de 1800, o infame fora-da-lei Ben Wade e sua gangue cruel de ladrões e assassinos atormentaram a Southern Railroad. Quando Wade é capturado, o veterano da Guerra Civil Dan Evans, lutando para sobreviver em seu rancho assolado pela seca, se oferece para entregá-lo vivo ao "3:10 para Yuma", um trem que levará o assassino a julgamento.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Quadrilha Selvagem[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eF9_O-z7AOoNxQLSsRnnKZ0HEAvPWbW6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/uNbsH45P4oKo2ZL4X1SNxBSTcZW.jpg</fanart>
+<info>Fora da lei, Pike Bishop se prepara para se aposentar após um assalto final. Juntado por sua gangue, Dutch Engstrom e os irmãos Lyle e Tector Gorch, Bishop descobre que o assalto é uma organização orquestrada em parte por um ex-parceiro, Deke Thornton. Enquanto a turma restante se refugia no território mexicano, Thornton os segue - resultando em ferozes tiroteios com muitas baixas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Vingadores[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1djm_agtG08-EvO85Pv04pP7QNf-KrfX2/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHmo5PcKo3JQXnhKjC90gFSj29z.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/y1y19cvjp8cqnASszAGwRMImiZF.jpg</fanart>
+<info>A vida do fazendeiro pacífico John Benedict é dilacerada quando sua família é massacrada por uma gangue de bandidos saqueadores e sua fazenda é destruída. Ele reúne uma equipe de condenados médios e sem lei para atuar como seu bando, enquanto persegue a gangue responsável pela morte de seus entes queridos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Sete Magníficos(2016)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12bvkdEQp0e1zVo8apWHCnmjWxTGYtm84/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wEI3KXY92V6Jffb2KiZFbeYtQ1Z.jpg</fanart>
+<info>Procurando ouro, o ganancioso industrial Bartholomew Bogue assume o controle da cidade de Rose Creek, no Velho Oeste. Com suas vidas em risco, Emma Cullen e outros moradores desesperados recorrem ao caçador de recompensas Sam Chisolm para obter ajuda. Chisolm recruta um grupo eclético de pistoleiros para enfrentar Bogue e seus cruéis capangas. Com um confronto mortal no horizonte, os sete mercenários logo se vêem lutando por mais do que apenas dinheiro quando as balas começam a voar.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Sete Magníficos (1960)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bBALOQoBvHe4Z_RWxP9z57zm2KiJojLh/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rVIjriV3Sv1B9INrzGRXW8Q7aY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xClq7x4kE5l6NL4P0ZzD9sfJW73.jpg</fanart>
+<info>Uma aldeia camponesa mexicana oprimida contrata sete pistoleiros para ajudar a defender suas casas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]100 Armas ao Sol[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/36FO7mjwHOFahC6bXeola2PgreP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/fS7YCQkeO5h4JuoEJ0vch9vjfXH.jpg</fanart>
+<info>Quando o mestiço indiano Yaqui Joe assalta um banco do Arizona, ele é perseguido pelo advogado Lyedecker. Fugindo para o México, Joe é preso pelo general Verdugo, que está travando uma guerra contra os índios Yaqui. Quando Lyedecker tenta intervir, ele também é jogado na prisão. Trabalhando juntos, os dois escapam e se refugiam nas colinas, onde Lyedecker conhece o belo lutador da liberdade Yaqui Sarita e começa a questionar suas lealdades.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Canhões para Cordoba[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u8sVlfKNAtjp9lL1DPMsEfYiQ13KSLAJ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv8IzojYHN96haQemKxIX81KXxm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sdIM1cuQ3KiAqakewW8rlDTQQzW.jpg</fanart>
+<info>Em 1916, um rebelde mexicano chamado Córdoba rouba seis canhões das forças do general Pershing que foram enviados para trazer ordem à fronteira Texas-México. Pershing designa um soldado chamado Rod Douglas para recuperar os canhões.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Justiceiro Solitário[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XknqJG2fJZGbK5n9Tgl_TS3o1fqKfVbo/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/35WfjTrkaK3P8ItNf1sB14t1clY.jpg</fanart>
+<info>Um pequeno campo de mineração de ouro é aterrorizado por um proprietário implacável de terras que quer tomar suas terras. Clint Eastwood chega montando um cavalo pálido, assim como uma jovem garota está orando a Deus para ajudar os mineiros. Ele é revelado como um pregador com origens sobrenaturais misteriosas e possíveis, que se une aos mineiros para derrotar o dono da terra e o xerife corrupto.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Sinal[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u1Kq8nHaHdhNamW7YN-So19PdP-5v5tQ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHVOWb3ZQzWVdlcKYJ4KdDCTezI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nQD1HCBXXn3DKOUtY8saV5FQkdb.jpg</fanart>
+<info>A patrulha do capitão Harper volta ao forte para encontrá-lo sitiado pelos índios ute. A causa aparente é a retomada do traidor do exército Brett Halliday, que desertou para os Utes em uma guerra anterior; mas Brett tem uma história diferente. Com a captura iminente, a única chance para os homens sobreviventes (e uma mulher) é descer um rio selvagem e desconhecido, onde Harper e Halliday devem se unir, gostem ou não.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Silverado[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PKhOY7fyxuS6HnoDKwsP9f_9TABl4WNq/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNkjsPKrhVFNsikmDZ6irrA1vxD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qOPsoa0EG2aZEXysPt6PDnMBgkW.jpg</fanart>
+<info>Quatro heróis inconscientes se cruzam em sua jornada para a pacata cidade de Silverado. Mal sabem eles que a cidade onde sua família e amigos residem foi tomada por um xerife corrupto e um bando assassino. Cabe ao quarteto de tiro certeiro salvar o dia, mas primeiro eles precisam sair um do outro da prisão e aprender quem são seus verdadeiros amigos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Shazam![/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IU1qijnQZW3sgJztHuUkVFNqeHlP78QP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bi4jh0Kt0uuZGsGJoUUfqmbrjQg.jpg</fanart>
+<info>Um garoto tem a capacidade de se tornar um super-herói adulto em tempos de necessidade com uma única palavra mágica.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Sete Minutos Depois da Meia-Noite[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B5cw533AQiJdZ1AwdmhPNDE0Q1k/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNTalDnE6AcFKghdvws2ckguYWC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/69hvi7xf6VIRRJduSYl1yZIzJn8.jpg</fanart>
+<info>Um garoto imagina um monstro que o ajuda a lidar com sua vida difícil e a ver o mundo de uma maneira diferente.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Apollo 11[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PXkm42-K-tTNigV4tUb_EsdZufwj7FSB/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cRW5341t1y61XK7mrhTvwoodZz6.jpg</fanart>
+<info>Uma olhada na missão Apollo 11 de pousar na lua liderada pelo comandante Neil Armstrong e pelo piloto Buzz Aldrin.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Centro De Trauma[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OsTjOM0dveyu0CE6HgaL2XfD-IBAkqUg/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K73wvCTBA3XKgZTtOZWgENUnis.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gM398wApRy9P67XbiW2HSGRddmL.jpg</fanart>
+<info>O tenente Wakes é um detetive policial vingativo, determinado a resolver os assassinatos de seu parceiro e um informante, e une forças com uma testemunha ferida durante os tiroteios. Depois que os assassinos perseguem a testemunha no andar abandonado de um hospital, ela confirma os piores temores de Wakes.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Rambo - A Última Batalha[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XL7INEbKNDi5udHy5ZZTGdTCLvLRDFoQ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3IHqwENGxOb36Jgeot4XHs3BTxz.jpg</fanart>
+<info>Depois de lutar contra seus demônios por décadas, John Rambo agora vive em paz na fazenda de sua família no Arizona, mas seu descanso é interrompido quando Gabriela, neta de sua governanta María, desaparece depois de atravessar a fronteira para o México para conhecer seu pai biológico. Rambo, que se tornou uma verdadeira figura paterna para Gabriela ao longo dos anos, empreende uma jornada desesperada e perigosa para encontrá-la.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Interstellar[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12wbBhQe653waV4Rmek-wIjVryxDnlVKH/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9mmkq59uRuJWDFz9UHeX5ATNJYf.jpg</fanart>
+<info>A Interestelar narra as aventuras de um grupo de exploradores que usam um buraco de minhoca recém-descoberto para superar as limitações das viagens espaciais humanas e conquistar as vastas distâncias envolvidas em uma viagem interestelar.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Árctico[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1R2ZtkJBdBpwNJhN3oFIfOjNbZlxSQmo2/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht22JJ3ZmsKYwS1nVMEjfBJ3n6c.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZjlmNzUwZjMtMmIyMy00YmJlLTk0YTItYWMyZjM3ZWIwNGU4XkEyXkFqcGdeQXVyOTEwNjkxNzg@._V1_.jpg</fanart>
+<info>Simon e Jota são dois jovens patifes que vão à rua todos os dias para ganhar a vida. Cada um quer o que lhe falta. Simon não suporta ficar cercado por sua família numerosa o tempo todo. Jota quer parar de levar uma vida solitária e fará o possível para ter sua própria família.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Ultimo Batalhão[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16WZNfcPdUeDo-lRln3EzAEsD1GlB2Akq/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/48j8HSTJ40BXHnnu3dIBhiwGbll.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZDMxYWI1MWQtNTcxNS00OGUyLTkwNjEtN2Y3ZGU5MmM1YzMzXkEyXkFqcGdeQXVyNDY2NzgwOTE@._V1_.jpg</fanart>
+<info>Drama de guerra baseado em fatos sobre um batalhão americano de mais de 500 homens que fica preso atrás das linhas inimigas na floresta de Argonne em outubro de 1918 na França, durante as semanas finais da Primeira Guerra Mundial.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Proposição[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FUAF7hzC30ZXqQ8PUNp7o8xk5-4WHpV1/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQssTrJ8A6s3kdRxytBQa4EnOq0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wx8m8K8lHTbDUXMg8FZD1Abxjq9.jpg</fanart>
+<info>Situado no interior australiano na década de 1880, o filme segue uma série de eventos após o terrível estupro e assassinato da família Hopkins, supostamente cometido pela infame gangue dos irmãos Burns. O capitão Morris Stanley captura Charlie Burns e dá a ele 9 dias para matar seu perigoso irmão psicopata, ou eles enforcarão seu irmão mais novo mentalmente lento no dia de Natal.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
