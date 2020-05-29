@@ -26,12 +26,31 @@ MODELO PARA YOUTUBE
 MODELO COM VARIOS LINKS
 <item>
 <title>[COLOR lime]Balas e Bolinhos Trilogia[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PAhFWBURpkDTACaH-yhlP05uPfYSmv0X/view$$lsname=Balas e Bolinhos</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B5Zxo9_yAdGEHIk6UCYGmNb-0qMZVfE5/view$$lsname=Balas e Bolinhos 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1usE1W3HOs2RNEK8l8jvK-GTrmnVvdZST/view$$lsname=Balas e Bolinhos 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14VytcFhFLaCqNfcrQwogyB5p1r_fyG1s/view$$lsname=Balas e Bolinhos</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZdagH8RjdPmMk1GnHRDL1meUvCQGjmlb/view$$lsname=Balas e Bolinhos 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BceLik2id_mj6-eS_3kSlBO_hVEbl_ZB/view$$lsname=Balas e Bolinhos 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k-HougIdeadFVrvu2jq5Kns4cxlHxedj/view$$lsname=BALAS&BOLINHOS - MESMO À FRENTE DO TEU FOCINHO!</link>
 <thumbnail>http://i.imgur.com/9cxvpCk.png</thumbnail>
 <fanart>http://i.imgur.com/9cxvpCk.png</fanart>
 <info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]Quero-te Tanto![/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eRa1hFppyVzoVl-UQRSXy2SlZax-gxHL/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1q6z1Il848fMltBMP7R5AYQCNdO.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZGNjMTc2ZjgtYTMzOS00ZGYwLTg4MGUtOGY3YTMzN2MyNThmXkEyXkFqcGdeQXVyMjY2NjE1OA@@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</fanart>
+<info>Uma comédia romântica sobre um casal não-conformista de jovens pais que, procurando uma solução para sua frágil situação financeira, está envolvido em um esquema inocente e louco.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO GDRIVE DE APENAS UM LINK
+<item>
+<title>[COLOR lime]A Raposa e a Criança[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yNQ78zooyzW3j8dqYzDVwS29gd540LnX/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjU5ODRmZTQtZTc3OS00ZDU0LTk2NWEtMjY3NDhkZmE3ODlmXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SY1000_CR0,0,771,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNmMzMzQ5Y2ItOGNlNi00MWY2LWI4OGEtMzhiZjYwMTk5YzIxXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_.jpg</fanart>
+<info>Uma jovem de cerca de 10 anos vive na casa de um camponês solitário à beira das montanhas jurássicas no leste da França. Um dia, no outono, quando está a caminho da escola pela floresta, ela observa uma raposa caçadora. Claro, a raposa foge dela, mas a menina sente um forte desejo de encontrá-la novamente.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
