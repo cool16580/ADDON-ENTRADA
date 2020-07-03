@@ -1,28 +1,859 @@
-MODELO PARA YOUTUBE
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]"Desenhos"Um Conto De Natal 1997 Filme Raro (1997)[/COLOR]</title>
-<utube>PL2NB3ORl6PFoTvx6XxKBWE95_8XjCtOA_</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WFQ3qyNicAY6VzP9We1R51UbQf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/qxXf52gpKArIP8yp87H266KytyH.jpg</fanart>
-<info></info>
+<title>[COLOR plum]Bambi 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10XRyeeBiDlkkrDcT9-SglUAQZe6se95g/view$$lsname=[COLOR orange]Bambi[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XjbOjPNWpgpXAAmnrdGdSjlqCwqUwwHg/view$$lsname=[COLOR orange]Bambi 2 - O Grande Príncipe da Floresta[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqGWdxAYRH7uwFAhIIJdKkmCKob.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3rOIZQKofRbyag0RdI1OyvStt4F.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR plum]Desenhos Bíblicos Completo "18 Volumes"[/COLOR]</title>
-<utube>q4DiqGitxAs</utube>
-<thumbnail>https://http2.mlstatic.com/desenhos-biblicos-coleco-completa-18-dvds-qualidade-hd-D_NQ_NP_203625-MLB25482991653_042017-F.jpg</thumbnail>
-<fanart>https://http2.mlstatic.com/desenhos-biblicos-volumes-1-a-18-promoco-18-dvds-completo-D_NQ_NP_882735-MLB27390011262_052018-F.jpg</fanart>
-<info></info>
+<title>[COLOR plum]Frozen: O Reino do Gelo 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17mPeWtz2RDazxeI1cafKWQZf-Aq8tWdO/view$$lsname=[COLOR orange]Frozen: O Reino do Gelo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1abmcyJ3_7A-mAfylIVIXeKUPKKhdwnyn/view$$lsname=[COLOR orange]Frozen 2 - O Reino do Gelo[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4UencGEHzviQOKOHu4S8KEsX72.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2niqBT3WmbsR8fy07URik6fFJIf.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR plum]Hotel Transylvania 1 2 e 3[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B-ln1QmoPpduyvcoLhnwWnlH-rLov9X0/view$$lsname=[COLOR orange]Gru - O Maldisposto[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p2t3Uyj8XncZJAlYbykgi8hdpMIsPbl_/view$$lsname=[COLOR orange]Gru - O Maldisposto 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ovXAxbbIfvj_vkfylDdCdOEadQby7wm/view$$lsname=[COLOR orange]Gru - O Maldisposto 3[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS6GWMkvsRmKC64xsMyNWLgAO36.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pAGzhp4Yx1ROw9gTy2T5c5uloSn.jpg</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Hotel Transylvania 1 2 e 3[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OYiIbZuCYzCAKAO9ePWcou-XwuZHO6aS/view$$lsname=[COLOR orange]Hotel Transylvania[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vGqdVNtLLybIF5Z1y8rhOBUx9eQvHqJr/view$$lsname=[COLOR orange]Hotel Transylvania 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MLHks03GBolH0Q8j4DFZdXiZgszxtIuQ/view$$lsname=[COLOR orange]Hotel Transylvania 3: Umas Férias Monstruosas[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bflIWrqE4nF2fxMw7XancP7d8Am.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dq6JP59ti6gdvbMMYW4UJoTaqfn.jpg</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Minúsculos 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ycCtkdhFImyll44MBtrVxNOBMTr_dH9i/view$$lsname=[COLOR orange]Minúsculos - O Vale das Formigas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17cbPeEwx7Vk6TAoK8_axdm7f8S3tfZ2l/view$$lsname=[COLOR orange]Minúsculos 2 O Filme[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wISdgPE7KZ4xXdciDXr7K4sbx1E.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uOBxVKGb569wAcu1xEj3RnAfRIQ.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]O Filme Lego 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UMQGSa7O3CJQBYKEc0Tg1g31WhhU_H9P/view$$lsname=[COLOR orange]O Filme Lego[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Tn_TLd-UYcV_ED0KFypbJb50nk4PYFVh/view$$lsname=[COLOR orange]O Filme Lego 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akt1i1g47sS4Bhz5bR43U371E0k.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v16rD35LonreJIZHTiHcfpiypDA.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Os 101 Dálmatas 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yrnUkGcTUIr9L312qt6ou7Zn0ujg-HXO/view$$lsname=[COLOR orange]Os 101 Dálmatas[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HSnUCuMADQ-lRsmb0R6s1Or6_9C-qrFQ/view$$lsname=[COLOR orange]Os 101 Dálmatas II - A Aventura de Patch em Londres[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sytZMXtuWlqqYs5lOzt5yjwFiAE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ggYMobIjklu8xQT7bRqHnmH9qg3.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Kenai e Koda 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IvAyAhrI0d_NbwO2weuiUADpuEmlAegp/view$$lsname=[COLOR orange]Kenai e Koda[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vzp2NiXVotJNosPkYSnkkrcAeOzZeQtR/view$$lsname=[COLOR orange]Kenai e Koda 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIzn6W7znipa9YcPMr5arsMm2UP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fEyYVGHd1e871n0vwrLVR6OQkns.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Lilo & Stitch 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cmb8mtcXih5KHi_KXrhMOLRyKXhsy67P/view$$lsname=[COLOR orange]Lilo & Stitch[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RivLGtqPDZQ20Qe7ev1VAZodQtIo3B6n/view$$lsname=[COLOR orange]Lilo & Stitch 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/33AEkogb3ndD525xkYxtauxpdx4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Madagáscar 1 2 e 3[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fhMUbTn6ZhQg9Kx5RFBw5EzfCFkFh5go/view$$lsname=[COLOR orange]Madagáscar[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gBwgvkM4eRwMPZt22f1GcckayCN3TOXQ/view$$lsname=[COLOR orange]Madagáscar 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EkoYzIjEI8nx_Y5icYm05YXaPQS4qCn3/view$$lsname=[COLOR orange]Madagáscar 3[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aoLcwd4nQVGbG7L4vqu0d929JD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dN2euH7H9XXHeieeExRwpVtf7KB.jpg</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Mulan 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PxlR-r8nD1BBVkKqxOUBKM20EDVd_2uw/view$$lsname=[COLOR orange]Mulan[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qdQFNT_IODCQn9wZ6usY63KYkJ5FOG3N/view$$lsname=[COLOR orange]Mulan 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/odh9Ic8qJQkCr5vHQH1NUJn2vn2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ziUk7cYfEGIZ9oTnnzEJxe9jVkZ.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]A Idade do Gelo Todos Os Filmes[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10tCrzlShVvKKUuzicDRt9Ddl5bDwfqYO/view$$lsname=[COLOR orange]A Idade do Gelo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BlQg9BhfVUKEZprgwZSQOepvGkXQ_Vy3/view$$lsname=[COLOR orange]A Idade do Gelo 2: Descongelados[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1emY7VRiNnFkqjaUcb_YsRSNr1CzeLYIz/view$$lsname=[COLOR orange]A Idade do Gelo 3: Despertar dos Dinossauros[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1naUurw6tvcmoVzjtjQZkyW_JKgwnGCpp/view$$lsname=[COLOR orange]A Idade do Gelo 4: Deriva Continental[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rpABielJqDE9Fz0WvXH2TeXoLlk12HrI/view$$lsname=[COLOR orange]A Idade do Gelo 5: O Big Bang[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLfFpUgyjpYLx5gRIHuQMwjfBm6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cC3nr0KkXHPChZnFMBvFPdAYNyV.jpg</fanart>
+<info>Aqui Dentro Tens Os Filmes Todos</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR plum]Monstros e Companhia 1 e 2[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uai32-dRmTg_aQI3jEtKgtm6G5ElmucJ/view$$lsname=[COLOR orange]Monstros e Companhia[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18Ib6ncH_0xLzjZaPXLz6exirlzPDFePp/view$$lsname=[COLOR orange]Monstros Na Universidade[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16QyitH6N7qwUCMwBN5IX9QELZVObWpqj/view$$lsname=[COLOR orange]Monstros e Companhia[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HwyNYUtncw6ersM56Ir-ucSiJds15Dir/view$$lsname=[COLOR orange]Monstros Na Universidade[/COLOR]</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_SY999_CR0,0,674,999_AL_.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg</fanart>
 <info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os cisnes selvagens[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18aeSJcVt8BiSV741UMW6HBprCA_mhpEd/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRxmVLqyUi9SSEVmB1xjrorjZ61.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/97Z0utejo4vtxSME7b0GcvOBr53.jpg</fanart>
+<info>7 caldos que se transformaram em cisnes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Gato das Botas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hHzUb1yQxO8jndL9n4UOwWfGdjJJFut_/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eufJ36oQCauDc427ewaEvQrhZ6i.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dr587hgjcNHJJW6OcQyTkTtM0MI.jpg</fanart>
+<info>Muito antes de conhecer Shrek, o notório lutador, amante e fora da lei Puss in Boots se torna um herói quando ele parte em uma aventura com os duros e espertos Kitty Softpaws e o idealizador Humpty Dumpty para salvar sua cidade. Esta é a verdadeira história de O Gato, O Mito, A Lenda ... As Botas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Titan A.E. - Depois da Destruição da Terra[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14bzBjUWkDiAz1LvCuiX6VP9XTR62zUoD/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wUCp1FFiZwq1AUIfNgbxu5hn4G.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yep5VeMgqMloIKahpFUcSv4snNk.jpg</fanart>
+<info>Um jovem descobre que possui a chave para restaurar a esperança e garantir a sobrevivência da raça humana, enquanto uma espécie alienígena chamada Drej está empenhada na destruição da humanidade.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Família Addams[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gzmfjBQPIVNNmwE8_VD82MeCyRf4gYK9/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ur4NTeFGZmQ6Hz5uEkAMgPI3WRg.jpg</fanart>
+<info>A vida da família Addams começa a se desfazer quando se confronta com um apresentador de reality shows traiçoeiro e ganancioso, enquanto também se prepara para a família estendida chegar para uma grande festa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Bela e o Monstro[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1atc4Cmdjsv2VZTOMTkgy0o8RvQVOuYF9/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ll8lx4WDtQdr9LtCSCCBxoyZzzE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg</fanart>
+<info>Siga as aventuras de Belle, uma jovem brilhante que se encontra no castelo de um príncipe que se transformou em uma besta misteriosa. Com a ajuda da equipe encantada do castelo, Belle logo aprende a lição mais importante de todas - que a verdadeira beleza vem de dentro.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Arca de Noé[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yIUmdN1ZgAAvsx8xbQWsElgjBQY6jGOX/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJG4tczpK5MvG16ug1OMnlvtBT6.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYzgxZWMwZTItYzZiZC00MzNiLTg4NDEtNWVhNmNmM2M4MWM4XkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_.jpg</fanart>
+<info>Uma comédia animada que recria as desventuras dos passageiros da Arca, construídas por Noé, a pedido de Deus. Só que não é fácil morar juntos para os passageiros a bordo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Bandeira Dos Piratas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lOQ3rq6mL-xoM1R8QQ9hQhMAJKlgDPsw/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDkT7l3Q50KTwhdKB8urNFJqAbP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDkT7l3Q50KTwhdKB8urNFJqAbP.jpg</fanart>
+<info>Três meninos visitam um museu e descobrem uma tigela de ouro - parte de um lendário tesouro asteca. Enquanto olham para o tesouro, eles revelam o segredo de viajar no tempo antes que percebam que estão a bordo de um navio pirata no século XVIII. Eles conhecem a bela pirata Anne Bonnie e a malvada e cruel pirata do Capitão do Caribe, Barba Negra. Eles devem ajudar Anne Bonnie, manter Tortuga livre e das garras do Capitão Barba Negra, salvar a ilha, Bonnie, e encontrar o caminho de volta para casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Basil, o grande detetive do rato[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jU8o-d27VvHHTj3BYDGsxYCb5bHJ-nuG/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzgyNDE0MTUtODllMi00YWZjLWIyNzUtN2RiNjZhMmRjMDNkXkEyXkFqcGdeQXVyNzgwMzgyNjY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aJgknziBMOlTwITR8k9yqQwWGan.jpg</fanart>
+<info>Quando o diabólico professor Ratigan seqüestra o mestre de brinquedos de Londres, o brilhante mestre do disfarce Basil of Baker Street e seu parceiro de confiança Dawson tentam iludir a armadilha definitiva e frustrar o crime perfeito.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Princesa e o Dragão[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SlCrSm1Zaxi4LT0-vN_oURAp2gnsICnl/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8lY7bzTZ9LsimEVjSLpRDW9fEZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fryB9DApUwB0zEdlZtDH1RefHuD.jpg</fanart>
+<info>No seu 7º aniversário, a princesa Barbara descobre um livro mágico que a transporta para o País das Maravilhas - um lugar encantado cheio de dragões e criaturas fantásticas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Academia Cranston - Cenas Monstruosas![/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sveWIEnHOcbHoJc2fje0sKFuHEOwzQhF/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qStFVmqYEfeBk8JtVZjNfe4aoTn.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNzNlNDE2MWQtNWIxYS00ZWY2LTlkZjgtODg0ZjVlNmE4YzU0XkEyXkFqcGdeQXVyMTAxNjU3ODY0._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Abominável[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ovo1RzZMFvno0fA6UDwuNsjbCqJrZAi6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/20djTLqppfBx5WYA67Y300S6aPD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qcDPzv6nE3ul1LhMb3d0w6RSdw0.jpg</fanart>
+<info>Um grupo de desajustados encontra um jovem Yeti chamado Everest, e eles partem para reunir a criatura mágica com sua família na montanha de seu homônimo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Rango[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o1L6Vl1Marj0wwffFa5QwYQeRpGoV-lX/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc4NjEyODE1OV5BMl5BanBnXkFtZTcwMjYzNTkxNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sVMj6nkxI3epOWL4kTFkZngWAmF.jpg</fanart>
+<info>Quando Rango, um animal de estimação perdido da família, acaba acidentalmente na corajosa cidade de Dirt, o lagarto menos do que corajoso de repente descobre que ele se destaca. Bem-vindo como a última esperança que a cidade estava esperando, o novo xerife Rango é forçado a desempenhar seu novo papel ao máximo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Trolls[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FlnR0LtEteqNDvBDTS8vgvYv_dHpeqrI/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKu5MNy9QW1a5ZHgv7iAp3kRZpE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vP4lJmIQRr4R9i35d8i6BtR1Ayj.jpg</fanart>
+<info>Adoráveis ??e amigáveis, os trolls adoram brincar. Mas um dia, um gigante misterioso aparece para terminar a festa. Poppy, a líder otimista dos Trolls, e seu oposto polar, Branch, devem embarcar em uma aventura que os leva muito além do único mundo que eles já conheceram.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Turbo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pOZu2igK-pIdL7rvdSv7BlgrSECEB-zi/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/inTKQni4YW8syrfgnXHwzmNeSo4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d1wyBiFUtewwgXgF14eMkKNQfha.jpg</fanart>
+<info>A história de um caracol de jardim comum que sonha em ganhar o Indy 500.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Um Monstro em Paris[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MGzroR4owyDyIIwox9DihUM8Shv73BjU/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jerM6xBeRfIr2rLg2pICmduzoyf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yiCcooIlPdIeXr89iSJKF5LpRhF.jpg</fanart>
+<info>Paris, 1910. Emile, um projecionista de filmes tímido, e Raoul, um inventor colorido, encontram-se em busca de um monstro aterrorizando cidadãos. Eles se unem a Lucille, a estrela do cabaré do Pássaro do Paraíso, um cientista excêntrico e seu macaco irascível para salvar o monstro, que acaba sendo uma pulga enorme, mas inofensiva, do chefe de polícia impiedosamente ambicioso da cidade.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]WALL-E[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dCPBVX2DyR8uG99IQdR70BLbBEcRPfJA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3g8vyePqVatTaUSnrNnrrwguhxM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg</fanart>
+<info>WALL · E é o último robô deixado na Terra que foi invadido por lixo e todos os humanos fugiram para o espaço sideral. Por 700 anos, ele continuou tentando limpar a bagunça, mas desenvolveu algumas qualidades semelhantes às humanas. Quando um navio chega com um novo e elegante tipo de robô, WALL · E acha que finalmente encontrou um amigo e se afasta do navio quando sai.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Rio 2096: Uma História de Amor e Fúria[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IP6sIDAW67MD3XjmZ10mtNFaan3KJAjb/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqvJxBR3Tpj9semsPYgCZ2tE3UZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vv5QbvqKRpsqVcVTK6aZzTtdaq8.jpg</fanart>
+<info>O filme narra o amor entre Janaína e um guerreiro nativo que, quando morre, assume a forma de um pássaro. Durante seis séculos, a história do casal sobrevive a quatro estágios da história do Brasil: 1500, quando o país foi descoberto pelos exploradores portugueses, 1800, em eventos durante a escravidão; 1970, durante o ponto alto da ditadura militar, e 2096, quando haverá uma guerra pela água.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ratatui[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OqzObaSHAY8eViHeRZjIfFdejkqWvhD-/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/npHNjldbeTHdKKw28bJKs7lzqzj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg</fanart>
+<info>Um rato chamado Remy sonha em se tornar um grande chef francês, apesar dos desejos de sua família e do óbvio problema de ser um rato em uma profissão decididamente roqueira. Quando o destino coloca Remy nos esgotos de Paris, ele se encontra idealmente situado sob um restaurante que ficou famoso por seu herói culinário, Auguste Gusteau. Apesar dos perigos aparentes de ser um visitante improvável - e certamente indesejável - na cozinha de um bom restaurante francês, a paixão de Remy por cozinhar logo desencadeia uma corrida de ratos hilária e emocionante que vira o mundo da culinária de Paris de cabeça para baixo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Pinóquio[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ffvaHB3fUK69AWCZel16uoZFThj114ZA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4PBH7COEjryvL6MRtUpzjPKkCc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qadgqPjHWyI2RHSnTrL7liLxeLf.jpg</fanart>
+<info>O fabricante de brinquedos solitário Geppetto tem seus desejos atendidos quando a Fada Azul chega para dar vida ao seu boneco de madeira Pinóquio. Antes de se tornar um garoto de verdade, Pinóquio deve provar que é digno enquanto parte em uma aventura com seu companheiro e consciência apavorante, Jiminy Cricket.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Parque das Maravilhas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aCxI149F8CzLoimug6wyaDEj_VFFzKIh/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFZQeqiKvcqV45kTz3KDQV9tgAQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nJyAdKPnW15IAvC6sLBTE0lp6Dv.jpg</fanart>
+<info>Uma jovem garota chamada June com uma grande imaginação faz uma descoberta incrível - o parque de diversões de seus sonhos ganhou vida. Cheia dos passeios mais loucos do mundo, operados por animais divertidos, a emoção nunca acaba. Mas quando o problema ocorre, June e sua equipe desajustada de amigos peludos começam uma jornada inesquecível para salvar o parque.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ozzy: Rápido e Peludo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hKgOWysx126vpNS977xGVPWBszO7FBZ2/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8YFDFHRDGNx4013GYBXTaOMhKC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tztKGRdrehEI6kqxuNYMcQZvQRK.jpg</fanart>
+<info>Ozzy, um beagle amigável e pacífico, tem sua vida idílica de cabeça para baixo quando os Martins partem em uma viagem longa e distante. Há apenas um problema: não são permitidos cães! Incapaz de trazer o seu amado Ozzy para o passeio, eles se instalam na próxima melhor coisa, um spa canino de primeira linha chamado Blue Creek.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Willoughby[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16uNTjjEwBEZ8LsWq-QkcUAcgaO3mVePF/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DnmmpThvdY1PrOAJoL3rDEI4el.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9foQsz7j1o2pGCKFGkzlxJteE5W.jpg</fanart>
+<info>Quando os quatro filhos de Willoughby são abandonados por seus pais egoístas, eles precisam aprender a adaptar seus valores antiquados ao mundo contemporâneo para criar algo novo: a família moderna.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Croods[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/197JlBDAAWY8JYbwSmmOQPDQGl4-mVlDo/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wMyH1odZkVrM3uLcPRInGgx53S.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg</fanart>
+<info>The Croods é uma aventura de comédia pré-histórica que segue a primeira família do mundo, enquanto eles embarcam em uma jornada de uma vida quando a caverna que sempre os protegeu do perigo é destruída. Viajando por uma paisagem espetacular, os Croods descobrem um mundo novo incrível, repleto de criaturas fantásticas - e suas perspectivas mudam para sempre.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Grande Urso[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N2LKTOVpJ1CGZyJ-SpWB500sDjJ37zDa/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2FV0HKg9BwLbpAiYsp90zQLyI8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gkppRntpdvagApeKSgmV88rbyeH.jpg</fanart>
+<info>Jonathan, 11 anos, costuma passar as férias sozinho com o avô, que mora à beira de uma vasta floresta povoada por animais míticos. Este ano, sua irmã mais nova, Sophie, se junta a ele. Mas não é legal ficar preso com uma irmãzinha, então ele faz o que pode para evitá-la. Ele consegue muito bem: Sophie é sequestrada por um urso gigante de 1000 anos de idade. Agora, Jonathan tem que se aventurar no coração da floresta para enfrentar os seres estranhos que habitam lá e resgatar sua irmã.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Niko Na Terra Do Pai Natal[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BGmIkMBh-h_3uzew4iNJXw7IJj81oVAH/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hnMN5IfNg7s5eZ7qHY3XPdlBHp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/e5clIf1X9btzRWvRRvpFdbOLqM3.jpg</fanart>
+<info>Uma jovem rena que sofre de vertigem aprende a superar seu medo, toma aulas de vôo de um esquilo voador desajeitado e segue para o Polo Norte para salvar um Papai Noel problemático e sua frota de renas voadoras.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Missão YETI: Em Busca Do Homem Das Neves[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16JupmihqbgO5bxuV72fyegq1vNLa5bEA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeEdKE0Pk0iLvsfcQdLrGV98aVy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aPb1xCG2leRKwaEyeBaSD6RNdQV.jpg</fanart>
+<info>Quebec, 1956. A impulsiva e obstinada Nelly Maloye, uma pessoa particular iniciante, se junta ao metódico e pragmático Simon Picard, um cientista pesquisador em uma duvidosa busca para provar a existência do esquivo Yeti. Os heróis de coração corajoso se deparam com inúmeros perigos durante sua jornada pelo coração do Himalaia.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Lenda dos Guardiões[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nCBJUvwdlZi-PfjZbydAtK0rqp_lSdDM/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nCCqgCHdxuptVlFWbQbIJey6ro.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qV8qsAYLt2XFggOK98Da0NfuQUo.jpg</fanart>
+<info>Soren, uma jovem coruja de celeiro, é sequestrada por corujas de St. Aggie, ostensivamente um orfanato, onde as corujas são submetidas a uma lavagem cerebral para se tornarem soldados. Ele e seus novos amigos escapam para a ilha de Ga'Hoole, para ajudar suas nobres e sábias corujas que combatem o exército que está sendo criado pelos governantes perversos de St. Aggie. O filme é baseado nos três primeiros livros da série.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Igor[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15DFAp6wqVHF_MXgXimOC8SYlEwQ_0ehx/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rwI1slpd0wG9cmpNFqjgu7MHj8A.jpg</fanart>
+<info>Um assistente clichê de cientista do mal corcunda aspira a se tornar um cientista, para desgosto do resto da comunidade científica do mal.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Uma Aventura do Outro Mundo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hKEQYVbVQMl_5gC8dN4BecwUltzHgctZ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0Sj5vBlVYfykPTDJtAsY5MHy9q.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zIbNTW0wJU2OXz986oLVEUelJAS.jpg</fanart>
+<info>A história de 11 anos de idade, Luis, que faz amizade com três alienígenas adoráveis, que batem seu OVNI em sua casa. Em troca da ajuda de Luis para encontrar o canal de compras para casa, eles salv</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Rock Dog - Um Sonho Altamente![/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ACjCzcz5PAzcczfadGFtK4caXq60Qz5h/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR5u9IQkxFHc2FXC1JkMCQ8GkEe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5NyupLgEWXM6XNsycFbZ5DInjVV.jpg</fanart>
+<info>Quando um rádio cai do céu nas mãos de um Mastiff tibetano de olhos arregalados, ele sai de casa para realizar seu sonho de se tornar um músico, colocando em movimento uma série de eventos completamente inesperados.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Caminho para El Dorado[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hl31pld5YYEyp_91bzA2hAMyiDNJGdD8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqFhMb6zozOPaiXILKt0VC8n7y6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ciID0Mu1pPuOUP3JbOsDXQ5aMV6.jpg</fanart>
+<info>Após uma fraude falhada, dois vigaristas acabam com um mapa para El Dorado, a lendária "cidade de ouro" e uma viagem não intencional ao Novo Mundo. Para sua surpresa, o mapa leva o casal à cidade mítica, onde os habitantes assustados começam a adorá-los como deuses. A única pergunta é: eles levam os nativos adoradores por tudo o que valem, ou há um pouco mais em El Dorado do que riquezas?</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Mínimos[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UndYsbx8h9UbtKkfxjzwbAKnaBs62G_2/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cpsJunWos4CiosRce7Hg37i9cLR.jpg</fanart>
+<info>Minions Stuart, Kevin e Bob são recrutados por Scarlet Overkill, uma super-vilã que, ao lado de seu marido inventor, Herb, cria um plano para dominar o mundo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Mickey - Um Natal Mágico[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HKy1yfEUSMZH4Anf36OmmfWYVS_RVvet/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkYLZQ5QMbN0kH9nb1pwtiTVoL8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nTyjdZjaTUoyW62pti2rtWgvhE3.jpg</fanart>
+<info>Mickey, Minnie e seus famosos amigos Pateta, Donald, Daisy e Plutão se reúnem para relembrar o amor, a magia e as surpresas em três histórias maravilhosas do passado do Natal.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Marnie e os Amigos[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UrwUsGnUIe_sl8rXjW6MFgfKqxGhPI9E/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG6yg4GLIq89ngkUpu0ZevHNrbu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/orjo9md2L2jQjsJMv9QkPCzZbEx.jpg</fanart>
+<info>Quatro anti-heróis loucos fugindo. O líder deles é a inocente e ingênua Marnie, uma gata doméstica que não tem permissão para sair de casa e só conhece a vida real pela televisão</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Como Treinares o Teu Dragão[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K29j6vg6OlCCV_N2YHxn4VjnzULeEfGw/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLpQSFj8A5jyUZStwzWfKpoJoAx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/kxklJL1v8MYEU5xdU6W5VvmBwVz.jpg</fanart>
+<info>Como filho de um líder viking à beira da masculinidade, o tímido Soluço Horrendo Haddock III enfrenta um rito de passagem: ele deve matar um dragão para provar sua coragem de guerreiro. Mas depois de derrubar um dragão temido, ele percebe que não quer mais destruí-lo, e faz amizade com a besta - que ele chama de Banguela - para grande desgosto de seu pai guerreiro.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Coco[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19bzR5tpSWZb9rbN5L5zax_296ABt09gw/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg</fanart>
+<info>Apesar da desconcertante proibição de gerações de sua família, Miguel sonha em se tornar um músico talentoso como seu ídolo, Ernesto de la Cruz. Desesperado para provar seu talento, Miguel se encontra na deslumbrante e colorida Terra dos Mortos, seguindo uma misteriosa cadeia de eventos. No caminho, ele conhece o charmoso trapaceiro Hector e, juntos, partem em uma jornada extraordinária para desvendar a história real por trás da história da família de Miguel.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Capitão Cuecas - O Filme[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YRvMSARaEvfIJVmd-rZKfo26Cs20FsDA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKkfJQSijg4Ur35AGtgbBhcozCF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5ceIqlRzWH4x1IPU9OfjXHO2Kz6.jpg</fanart>
+<info>Dois garotos travessos hipnotizam o diretor malvado da escola primária e o transformam em sua criação de quadrinhos, o Capitão Cueca de bom coração e elástico.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Bolt[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11qgb-sPKm48fHR8Yenw5GTcYcPEuVsh6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YHw21SqoMeSJBG9Wwn6C45kBIg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/2ThgE6Z96QLpeIsSfMGMKYGq3Ad.jpg</fanart>
+<info>Bolt é a estrela do maior show de Hollywood. O único problema é que ele pensa que é real. Depois que ele foi acidentalmente enviado para Nova York e se separou de Penny, sua amada co-estrela e proprietária, Bolt deve aproveitar todos os seus "super poderes" para encontrar o caminho de casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Big Hero 6 - Os Novos Heróis[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wI04hBf3Sa3a2yyHYHxm6KO0pZtmfopz/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBDs1y1fK921HrhdRMqlloUqp5Z.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/x8N8yQPQdsijnchpexVWZ3U4VSe.jpg</fanart>
+<info>O vínculo especial que se desenvolve entre o robô inflável de tamanho grande Baymax e o prodígio Hiro Hamada, que se une a um grupo de amigos para formar um bando de heróis de alta tecnologia.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Bartok: O Magnífico[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1H5NBS8t_7AuKMZPV6Vd9Ho06ZbI-MNYE/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbTXg5LhnQIIWSj4Qwl6xgX1kRo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/h5TOS6QnHq1I4CoKgZPqGAJs4sv.jpg</fanart>
+<info>A Rússia está sendo aterrorizada por uma bruxa maligna conhecida como Baba Yaga; o único que não tem medo dela é Bartok, o Magnífico. Bartok, um morcego albino, acaba de chegar em Moscou e está impressionando a todos com suas performances, incluindo o príncipe Ivan Romanov. No entanto, uma pessoa não está impressionada; Ludmilla acha Bartok irritante e ingênuo. Após o show de Bartok, um urso violento ataca repentinamente. Bartok deve salvar todos, atordoando o urso com poeira e depois o derruba e o prende em uma carroça.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]As Aventuras de Tintin - O Segredo do Licorne[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e_2ktyA275NtIg5lz8is1xy0TGhcAfXU/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lp1qhs2CYfVg9gEjU44KbEia0ub.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5parN40mSwZMCP4Ig11lE6keeFi.jpg</fanart>
+<info>O jovem e intrépido repórter Tintin e seu cachorro leal, Snowy, são lançados em um mundo de grandes aventuras quando descobrem um navio que carrega um segredo explosivo. Como Tintin se envolve em um mistério de séculos, Ivan Ivanovitch Sakharine suspeita que ele tenha roubado um tesouro inestimável. Tintin e Snowy, com a ajuda do capitão Haddock salgado e mal-humorado e detetives desonestos, Thompson e Thomson, viajam meio mundo, um passo à frente de seus inimigos, enquanto Tintin se esforça para encontrar o Unicorn, um navio afundado que pode ter uma grande fortuna , mas também uma maldição antiga.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Troll e o Reino de Ervod[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vr0rc2G5SfUkuAe0nx-rLwXyS57osPmF/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k0sHitzzJBWCEBEqZfP90g6mR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ohRYFJls4QIE6XMVhad3LbOU0BV.jpg</fanart>
+<info>O príncipe troll Trym tem apenas dois dias para salvar seu pai, o rei Grom, que virou pedra e teve seu rabo roubado pela presença maligna na floresta.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Tom e Jerry: Velocidade Peluda[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IHWMnTYCfAGthb3Ba5hMKbMBWt7UCOOE/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrWocDIUhVv7mLymhRVF5n6lk8R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bXILbW1i0WRShd6s4LfLKdJM6zm.jpg</fanart>
+<info>Depois de serem despejados de sua antiga casa pelo proprietário de Tom por causar grandes danos, Tom e Jerry, gato e rato, entram em uma corrida chamada "Fabulous Super Race" para ganhar uma mansão.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Snow: Os Domínios do Espelho[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14OS5oeCvxRGHNOP_dVCsIdooMoZYn8Nv/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNSY6WMOxiqGyRiK6IVrOLI4vl1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/chxJNjUzCrPSr5nJT2KvoNbHpkC.jpg</fanart>
+<info>Um rei poderoso quase perdeu sua família devido a más ações da rainha das Neves. Ele encontra uma maneira de banir toda a magia do mundo - todos os possuidores de poderes mágicos agora estão presos em Mirrorlands. A única pessoa que pode detê-lo e manter o conto de fadas em nosso mundo é Gerda - já que seu maior poder não é mágico, mas sua fé na bondade e na amizade. Nas novas aventuras de Gerda, ela será ajudada por trolls, piratas e até pela própria Rainha das Neves.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Smurfs: A Aldeia Perdida[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dHN0J1gix53JO4u8Nbb2LHW97dXUZo09/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DtiMnR55uSRIUAaIpnEMwYdGFD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wdx9M7Wgz8Hzr8o9ekNReUWp63M.jpg</fanart>
+<info>Nesta versão totalmente animada e totalmente nova dos Smurfs, um mapa misterioso coloca Smurfette e seus amigos Brainy, Clumsy e Hefty em uma emocionante corrida pela Floresta Proibida, levando à descoberta do maior segredo da história dos Smurfs.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ratchet & Clank[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WbP23IcYCv6JCx1JJdxJAAiLYc4JR6_7/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS6BgPO974eTmHeteU9greJZv4D.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jXuXRWXxTfLVvZOq8mNAbh7yPLV.jpg</fanart>
+<info>Ratchet e Clank contam a história de dois heróis improváveis ??enquanto lutam para impedir que um alienígena vil, chamado Chairman Drek, destrua todos os planetas da Galáxia Solana. Quando os dois tropeçam em uma arma perigosa capaz de destruir planetas inteiros, eles devem unir forças com uma equipe de heróis coloridos chamados The Rangers Galactic, a fim de salvar a galáxia. Ao longo do caminho, aprenderão sobre heroísmo, amizade e a importância de descobrir a própria identidade.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Robinsons[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZPQIE3tPbGjqswoNI6KsB8CqS4GXlXhn/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HAjX0TA7QdmALeT3Hp9bEXJTPD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/f1xAxP0DFRGYSew9U8fhilP5itx.jpg</fanart>
+<info>Nesta aventura animada, o brilhante inventor pré-adolescente Lewis cria um scanner de memória para recuperar suas lembranças mais antigas e descobrir por que sua mãe o entregou para adoção. Mas quando o vilão Bowler Hat Guy rouba a máquina, Lewis está pronto para desistir de sua busca até que o misterioso Wilbur Robinson apareça em cena, levando Lewis ao futuro para encontrar o scanner e sua mãe.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Capuchinho Vermelho - A Nova Aventura[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19cGuBt7KkG0R4VrH-OatdLxsJcpYpyk6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9mvLBgHuB467qHH8WCwgfzItRy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/br3a2XHkvNkMag1DfBVl8MZj2Fm.jpg</fanart>
+<info>Chapeuzinho Vermelho está treinando no grupo das Irmãs Hoods, quando ela e o Lobo são chamados para examinar o súbito e misterioso desaparecimento de Hansel e Gretel.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Brave (Indomável)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M9Sou3OIBFYQdQ5ZA6-VnWILHxtNjMJa/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cuApMewu5RvLv84bfQw3P8q5MX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/l4vrOfU2ktucO81n17CViekwROw.jpg</fanart>
+<info>Admirável se passa nas místicas Terras Altas da Escócia, onde Mérida é a princesa de um reino governado pelo rei Fergus e pela rainha Elinor. Filha indisciplinada e arqueira talentosa, Mérida um dia desafia um costume sagrado da terra e, inadvertidamente, causa tumulto no reino. Na tentativa de consertar as coisas, Mérida procura uma velha e excêntrica Mulher Sábia e recebe um desejo infeliz. Também figurando na busca de Mérida - e servindo como alívio cômico - estão os três senhores do reino: o enorme lorde MacGuffin, o mal-humorado lorde Macintosh e o desagradável lorde Dingwall.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Bob's Broken Sleigh[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16OpXwfvpxPAPrP2tvKPnC2igZDNrc-1o/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIxZDFlZWQtOWU5MS00YjRiLTg1NTktZjM1N2ZiNDZiZDhlXkEyXkFqcGdeQXVyNDA5ODU0NDg@._V1_.jpg</thumbnail>
+<fanart>https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVIOv6CVkQsultJMUzRXES-kzGXVZUjV5K9-2x9ozZ6Z3D0_QfM44pKbf_PhwKwwkP-gesrg6CRCFBqYNBHx6MqWKq2D.jpg?r=939</fanart>
+<info>Neste filme de Natal, um jovem elfo sem magia chamado Bob, que se encontra em um passeio de trenó selvagem depois de ser emboscado pelo peixe-papagaio-do-mar mau. Encalhado no meio de uma floresta mágica, cabe a ele e aos amigos que ele faz ao longo do caminho trazer o trenó de volta para casa a tempo do Natal - se os papagaios-do-mar não conseguirem primeiro!</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Aviões - Equipa de Resgate[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13lIjssYiMYkM-v2FCcp6XU7trwk_NFh4/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/daj4sIfKsBZQ3DscyecsnWS6hz1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9GRprCMQOWJzczPxqAaGxYft5m9.jpg</fanart>
+<info>Quando o mundialmente famoso piloto aéreo Dusty descobre que seu motor está danificado e ele pode nunca mais correr novamente, ele deve mudar de marcha e é lançado no mundo do combate aéreo. Dusty une forças com o veterano helicóptero de resgate e resgate Blade Ranger e sua equipe, um monte de veículos todo-o-terreno conhecidos como The Smokejumpers. Juntos, a equipe destemida luta contra um enorme incêndio, e Dusty aprende o que é preciso para se tornar um verdadeiro herói.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Grinch[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LzuwB5hEs_KumH1WV2w8o6UQcxN0CGib/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKfziciaKrdTzBZEnXH9tx6u2G.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ogARczXHVLy6ZunOxwWtussF7lq.jpg</fanart>
+<info>O Grinch cria um plano para arruinar o Natal quando os moradores de Whoville planejam sua celebração anual do feriado.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Astérix: O Domínio dos Deuses[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hdOW9oK7d0AzxoHO19oybScmrTPn57_Q/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/axLyPQz7Dln0a7tpl2iST60vTSY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/2fN7H7znaOjMIZH2aQnUqwmtkKv.jpg</fanart>
+<info>Para acabar com a aldeia gaulesa de qualquer maneira necessária, César planeja absorver os moradores da cultura romana, construindo uma propriedade próxima à vila para iniciar uma nova colônia romana.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Astérix: O segredo da Poção Mágica[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KkouZLxtaZoyDKVz6mKIsz0OU0iiwdCO/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0zfYNjoXQKDoHlYJqIvGx9Hkvx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/thjSiv4BXOfUhVH1KzWWwTRrqYA.jpg</fanart>
+<info>Após uma queda durante a colheita do visco, o Druid Getafix decide que é hora de garantir o futuro da vila. Acompanhado por Asterix e Obelix, ele se compromete a viajar pelo mundo gaulês em busca de um jovem druida talentoso para transmitir o Segredo da Poção Mágica.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]As Aventuras Dos Ursinhos Carinhosos[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-wR3QwVGFC7CfYpkWOZf8uBlpeukVFAK/view?usp=drivesdk</link>
+<thumbnail>https://filmestipo.com/img_pt/movie/thumb/53/6037.jpg</thumbnail>
+<fanart>https://festinhalegal.files.wordpress.com/2015/11/care-bears-ursinhos-carinhosos-estreia-nova-serie-infantil-netflix-ursinho-carinhoso-anos-80-de-volta.jpg</fanart>
+<info>O Filme irá encantar e entreter o público de todas as idades. Lá do céu, onde moram as nuvens e o arco-íris, os Ursinhos Carinhosos vigiam a Terra e asseguram-se que todos sejam gentis e amigáveis uns com os outros. Então, quando percebem um espírito mau fazendo artes para induzir um garoto solitário a tramar para deixar as pessoas mesquinhas, nossos fofos heróis entram em ação! Eles vêm resgatar os animais da floresta? mas será preciso muito amor, mas muito amor mesmo para derrotar o poderoso feitiço do espírito.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Winnie the Pooh (2011)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MGI_Uki3GotDF-kHJTsiBIV9a9Eel64-/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMZU69sPEP8dSNU0nMWVt7b54EQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/v5QO5ow2E8UJun9EyoURm4nhVu5.jpg</fanart>
+<info>Durante um dia comum em Hundred Acre Wood, Winnie the Pooh sai em busca de mel. Interpretando mal uma nota de Christopher Robin, Pooh convence Tigger, Coelho, Leitão, Coruja, Kanga, Roo e Eeyore que seu jovem amigo foi capturado por uma criatura chamada "Backson" e eles decidiram salvá-lo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Uma Aventura nos Mares - A 1ª Viagem de Circum-Navegação[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13dnHtpkd1RF7TOKnO1Az6KCWrFpfxVQ7/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YPmcSEmuNO98ER0avPFlymPYcV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5LhjvnBc5ukv4T3V1JrNhLybCE5.jpg</fanart>
+<info>A primeira jornada ao redor do mundo começou sob o comando de Fernando Magalhães e foi concluída por Juan Sebastián Elcano. Cinco barcos deixaram Sevilha em 20 de setembro de 1519. Tempestades, fome, tribos ... Três anos depois, apenas um conseguiu voltar. Uma aventura incrível ao redor do planeta cuja redondeza foi finalmente comprovada.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Smallfoot: Uma Aventura Gelada[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-814mbhjyOq6K2mV3qgHR-0PBkl6AaDR/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0K6BijP7r3ee9SfBixZPxdfhZg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eW2PIUIyagoYgL1Q7nu0E6EMnB3.jpg</fanart>
+<info>Um jovem yeti brilhante encontra algo que ele achava que não existia - um humano. As notícias desse “pé pequeno” lançam uma turbulência sobre o que mais pode estar lá fora no grande mundo além de sua aldeia nevada.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Sete Anões e os Sapatos Mágicos[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V1CheahrJqssz8jLHHmOSR3UKKD5_2b6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqrSjDbIN4beOs7BwpZJNM3OpBr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/42JStePfDGIQi6dYWh5UsVpjG3c.jpg</fanart>
+<info>Príncipes que foram transformados em anões procuram os sapatos vermelhos de uma dama para quebrar o feitiço, embora não seja fácil.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Dumbo (1941)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1opdwpASq6vqqlkbSJu2zmrGlrDjmS-i6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpzyVRIBHTu22D1ZUNJpkUnYJm2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cPY7PenTVPCY0tUC5PxRgjyS8qx.jpg</fanart>
+<info>Dumbo é um elefante bebê nascido com orelhas grandes e uma suprema falta de confiança. Mas graças ao seu amigo ainda mais diminuto Timothy the Mouse, o pequeno paquiderme aprende a superar todos os obstáculos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Hércules[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DmU8OCarKelzGa0redlt9FWO4N23L6e7/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVq9sD95ZHazVJxUFAiCxexgt0R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/px50U3cejnKGKeNOVfHdhHBAmk3.jpg</fanart>
+<info>Dado com força sobre-humana, um jovem mortal chamado Hércules se propõe a ser um herói aos olhos de seu pai, o grande deus Zeus. Juntamente com seus amigos Pegasus, um cavalo voador, e Phil, um personal trainer, Hércules é enganado pelo hilário vilão hades, Hades, que planeja dominar o Monte Olimpo!</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Homem-Aranha: No Universo Aranha[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zgJs6Uvj--rdoC0oWO_leliblx_S7cZX/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1MGdgXsHz1t0Qki51ePTmNzobqx.jpg</fanart>
+<info>Miles Morales está fazendo malabarismos com sua vida entre ser um estudante do ensino médio e ser um homem-aranha. Quando Wilson "Kingpin" Fisk usa um super colisor, outros de todo o Spider-Verse são transportados para essa dimensão.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Por Água Abaixo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VJMSBiAYz1qI8IWwhWL1d8IH2ilTT7So/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vLUH6eedXqWWfUKxndjzf1nDgC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/b1LDW85L0K48np6K7fkEiFsViYk.jpg</fanart>
+<info>Rato da alta sociedade londrina, Roddy é levado pelo vaso sanitário por Sid, um rato comum de esgoto. Continue em uma aventura maluca nas profundezas do esgoto de Ratropolis, onde Roddy conhece a engenhosa Rita, o sapo que odeia roedores e seus fiéis bandidos, Spike e Whitey.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ferdinando[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fYDCjKMqHGLH09osPS1VzVaFKDCO06vJ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z4SysiS73JvRAiVYy7gZW5JbpQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1ww07AKRNjNYeFkXVj3eUJ7fF8W.jpg</fanart>
+<info>Ferdinand, um pequeno touro, prefere sentar-se em silêncio debaixo de um sobreiro apenas cheirando as flores em vez de pular, bufar e bater de cabeça com outros touros. Como Ferdinand cresce grande e forte, seu temperamento permanece suave, mas um dia cinco homens escolhem o "maior, mais rápido e mais duro touro" para as touradas de Madri e Ferdinand é escolhido por engano. Baseado no clássico livro infantil de 1936 de Munro Leaf.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Garfield em Fuga[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zcIV-GdIOnBCrWe8jvzjOFzlt_S6i2gA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0gAs7tvBDh2eCasfPG0VgyKoQL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/q6w65Oa481YbriWToRsbfFqHK6V.jpg</fanart>
+<info>Garfield está de volta com um novo visual. Cansado de sua rotina como estrela de quadrinhos, Garfield escapa da página e segue para o "mundo real". Enquanto vive a vida discreta de um gato doméstico real, ele descobre que sua história em quadrinhos será cancelada se não voltar antes que o jornal seja impresso. Os videogames seguirão o enredo enquanto Garfield atravessa obstáculos para voltar para casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Elena e o Segredo de Avalor[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cAnjIdSZ944mX_SZGg_Q3lvzIbeI9P99/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dknXo3Ny4J97eBRs9XKVwQc8fH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xpQqhEytDLf7qDMLBNeQK8ruYfd.jpg</fanart>
+<info>No reino de Avalor, Elena leva Naomi até uma montanha para mostrar sua visão favorita do reino. Elena lamenta a Naomi como ela ficou presa no Amuleto de Avalor por quarenta e um anos e depois apresenta a ela uma varinha quebrada. Ela diz a ela que era a varinha de Shuriki e como ela ainda estaria presa no Amuleto se não fosse por uma jovem e corajosa princesa: Sofia. Elena passa a contar a Naomi toda a história ...</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]As Aventuras de Bernardo e Bianca[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dCCWukLth_uEIwcCsbW6CpGmAiyyiFmY/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw8xLg2gTcI0NUpOgZkTFvma6vb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j50Sr0ULbsf0Rbw0BB91ZbtQoaB.jpg</fanart>
+<info>O que dois ratinhos podem fazer para salvar uma menina órfã que caiu em mãos más? Com um pouco de cooperação e fé em si mesmo, tudo é possível! Como membros da International Rescue Aid Society, Bernard e Miss Bianca, respondem ao pedido de ajuda de Penny. Os dois ratos procuram pistas com a ajuda de um gato velho chamado Rufus.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]As Aventuras de Peter Pan[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UWjzXLz-gQQyv4GhqjH5PiGzIekEekdw/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/moixbncq5YyZ2dKkbFoclv4f7SG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1vdEUx5sZi2leQOefOV0h2c9LYs.jpg</fanart>
+<info>Deixando a segurança do berçário para trás, Wendy, Michael e John seguem Peter Pan para um mundo mágico onde a infância dura para sempre. Mas enquanto estiver em Neverland, as crianças devem enfrentar o Capitão Hook e frustrar suas tentativas de se livrar de Peter para sempre.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Armados em Espiões[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZJqZtjUBfi2eyHQ4BvXcHIBD17n7stk1/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOKVhTESY4tMqjDPn3KW4ugnFn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qlYxtqVfu2LOdvYMMDPCSGX0Oz0.jpg</fanart>
+<info>O super espião Lance Sterling e o cientista Walter Beckett são opostos quase exatos. Lança é suave, suave e afável. Walter é ... não. Mas o que Walter não tem em habilidades sociais que compensa em inteligência e invenção, criando os incríveis gadgets que Lance usa em suas missões épicas. Mas quando os eventos tomam um rumo inesperado, Walter e Lance de repente precisam confiar um no outro de uma maneira totalmente nova.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]E Não Viveram Felizes Para Sempre[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Gk2dEzMdieO7d1upA3YYLZzkYVl-KyEp/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQHANwF0Gd1aY9bbbtspzFdMun9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6dvpZbFu1VOCIcY1qToRHmj8Aaq.jpg</fanart>
+<info>Uma aliança de malfeitores, liderada por Frieda, procura dominar a Terra do Conto de Fadas. Mas quando Ella percebe que sua madrasta está arruinando a existência de seu livro de histórias, ela dá uma guinada dramática e floresce no líder do esforço de resistência.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Divertida-Mente[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19tTg75Xs7iaaev8RJ5iI3NANj6U63DdO/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3JXp5xzFev9qJNi5MnwY3ZJ45Vr.jpg</fanart>
+<info>Crescer pode ser uma estrada esburacada, e não é exceção para Riley, que é arrancada de sua vida no Meio-Oeste quando seu pai começa um novo emprego em San Francisco. As emoções orientadoras de Riley - Alegria, Medo, Raiva, Nojo e Tristeza - moram na sede, o centro de controle dentro da mente de Riley, onde ajudam a aconselhá-la no dia a dia e tentam manter as coisas positivas, mas as emoções conflitam sobre a melhor maneira de nova cidade, casa e escola.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Donkey Xote[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l_r-FbXemiqi4VcmOyk244K94ILzQ5x8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JKtGToGVA9qvd4JCcqmiR8p5xN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9WafOaEr0mgtDgxBcSmFXnIz45u.jpg</fanart>
+<info>O burro, Rucio, conta a verdadeira história de Dom Quixote e defende a idéia de que ele não era louco, mas um sujeito muito inteligente, apaixonado e entusiasmado.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Bora Lá[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mSumBT4lJ1tQx9ZXs1F9-vX19-BDDKsd/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg</fanart>
+<info>Em um mundo de fantasia suburbana, dois irmãos elf adolescentes embarcam em uma extraordinária busca para descobrir se ainda resta um pouco de mágica por aí.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Disco ormene[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1guldWUusSW40xWg4q9PYVGv6UNJp5PO4/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW4z9K2w7cZripBDQzdf2EAg07R.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYmVhOTM1NDktODExYi00MTQxLTk1MzktYzcyOTZkNDcxZTFlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<info>Não é fácil ser Barry. Uma minhoca não tem respeito. Ele mora no fundo da cadeia alimentar. Mas um dia, um disco antigo de disco vira sua vida de cabeça para baixo. De repente, ele vê diante de si seu próprio destino, a estrela da maior banda de discoteca do mundo: Sunshine Barry & The Disco Worms! Ok, ele não tem braços, ritmo ou banda. Mas como Barry diz: "Nós faremos de qualquer maneira!"</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]À Procura de Nemo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DjQtjg3yKgxyMTtx80wJyyPi7zZOa5-8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/djbivExXSZb0sTO8uYaaQC5vMRM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jpnwNUmph2nFzLYXhD91Xe8DYhd.jpg</fanart>
+<info>Nemo, um jovem aventureiro peixe-palhaço, é inesperadamente levado de sua casa na Grande Barreira de Corais para o aquário de um dentista. Depende do pai preocupante Marlin e de um peixe amigável, mas esquecido, Dory para levar Nemo para casa - conhecendo tubarões vegetarianos, tartarugas surfistas, água-viva hipnótica, gaivotas famintas e muito mais pelo caminho.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]À Procura de Dory[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EY7n4m395y03HXn6tnk5uMINnkwA8WV8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MOyKnmtE2hd778bIybw9v8HkiP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wijltj1toRcicHlCn8Cpsp4yPXe.jpg</fanart>
+<info>Dory se reúne com seus amigos Nemo e Marlin na busca de respostas sobre seu passado. Do que ela consegue se lembrar? Quem são os pais dela? E onde ela aprendeu a falar baleia?</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Aladdin[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RzBdRhG8CXC7kkzL5SvUKyuieX-cuXxP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/380Fyz8DSyNkh4Q8NLxZs2f2C6a.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg</fanart>
+<info>A princesa Jasmine se cansa de ser forçada a permanecer no palácio, então ela foge para o mercado, disfarçada, onde conhece Aladdin, o ouriço das ruas. O casal se apaixona, embora Jasmine só possa se casar com um príncipe. Depois de ser jogado na prisão, Aladdin se envolve em uma conspiração para encontrar uma lâmpada misteriosa, com a qual o maligno Jafar espera governar a terra.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Anastasia[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IPJjDhbrIIw37No-i8tgvQWqK7QQSebn/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikoXGtykZvpppHTaLzpK7bIOhDe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dABLiC7S9EEjgpoUgYs0Abjblfp.jpg</fanart>
+<info>Esta aventura animada narra a história da filha perdida do último czar da Rússia. O maligno Rasputin amaldiçoa a família Romanov, e Anastasia e sua avó, a Imperatriz Maria, se separam. Depois de crescer em um orfanato, Anastasia encontra dois homens russos em busca de uma recompensa oferecida pela imperatriz Maria pelo retorno de sua neta. O trio viaja para Paris, onde descobre que a imperatriz ficou cética em relação aos impostores.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Angry Birds 2 - O Filme[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c5tmIqkPXIFhG0qMrLpBX03N2JpUT2iQ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMqAjEyj234escPleCthcmh84ka.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5YaDrLKULE5EJF8sbpybWHDxp2D.jpg</fanart>
+<info>Red, Chuck, Bomb e o resto de seus amigos emplumados ficam surpresos quando um porco verde sugere que eles deixem de lado suas diferenças e se unam para combater uma ameaça comum. Aves agressivas de uma ilha coberta de gelo planejam usar uma arma elaborada para destruir as aves e os suínos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Spirit - Espírito Selvagem[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lr-rDsNj5usKfD8Kawkm2kR5V1CPbGT8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jycgp5AdZFKj2Qh2VACG9ilK93l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mBHtoq2D2y08JgnjBWHWcLGFyt7.jpg</fanart>
+<info>Enquanto um garanhão selvagem viaja através das fronteiras do Velho Oeste, ele faz amizade com um jovem humano e encontra o verdadeiro amor com uma égua.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Pacha e o Imperador 2 - A Grande Aventura de KronK[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BW_unTEFqB7vE1-p_ypGNh1QmRDVQk92/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7g5Y8bLhThN91pqhJs7KVylwIXi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qSEDUC5EcuuP5StH2VwXRCW9NTo.jpg</fanart>
+<info>Kronk, agora chefe de cozinha e chefe de entrega do Meat Hut de Mudka, está preocupado com a visita de seu pai. O pai de Kronk sempre desaprovava os interesses culinários do jovem Kronk e desejava que Kronk se estabelecesse com uma esposa e uma casa grande em uma colina.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Peter Pan em a Terra do Nunca[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vZ3u7ukFA5aTCOiy4dNSscNPZSDxVQcY/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/laTr9FgprzGMTiCPypzZzKuFpPL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/srDOuoVOUAKcNhrMJli9ILo0Kvz.jpg</fanart>
+<info>Em 1940, o mundo é cercado pela Segunda Guerra Mundial. Wendy, toda crescida, tem dois filhos; incluindo Jane, que não acredita nas histórias de Wendy sobre Peter Pan.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Gnomeu e Julieta[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h41lp8LnnEcxH3014A1BA0GZemCYAxX9/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Hx14k9mKjLuIOrNuyMbby4j6Ax.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w3LLngJIAA1R7Mp2S3G0HZl2R3H.jpg</fanart>
+<info>Uma versão da peça de Shakespeare, ambientada no mundo dos gnomos internos e externos em guerra. Gnomos de jardim Gnomeo e Julieta têm tantos obstáculos a superar quanto seus nomes quase quando são apanhados em uma disputa entre vizinhos. Mas com flamingos cor de rosa de plástico e corridas de cortador de grama na mistura, esse jovem casal pode encontrar uma felicidade duradoura?</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Happy Feet 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JJL04fsBYNLrtEtKzsNXvrD2TzpR29Ch/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXahNaLTC6tczdo6UHEOkx8ZsLY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7kPV6urRYJSzBhlt8AjCACbsjIB.jpg</fanart>
+<info>Murmurar o pinguim tem um problema: seu filho Erik, que reluta em dançar, encontra o Mighty Sven, um pinguim que pode voar! As coisas pioram para Mumble quando o mundo é abalado por forças poderosas, fazendo com que ele reúna as nações dos pinguins e seus aliados para acertar as coisas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Força Ralph[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14C6zq16Qu9tI602J1zF4inoiIrvwDkMp/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVhVpqRfvl4j3JzEIpur4FufgZG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1LbX3KV6qv6NoH4zKLGM7Sgtwmg.jpg</fanart>
+<info>Wreck-It Ralph é o vilão de um videogame de fliperama chamado Fix-Felix Jr., no qual o herói titular do jogo conserta edifícios que Ralph destrói. Querendo provar que ele pode ser um cara legal e não apenas um vilão, Ralph escapa de seu jogo e entra em Hero's Duty, um jogo de tiro em primeira pessoa onde ele ajuda a batalha de heróis do jogo contra invasores alienígenas. Mais tarde, ele entra no Sugar Rush, um jogo de corrida de kart em pistas feitas de doces, biscoitos e outros doces. Lá, Ralph conhece Vanellope von Schweetz, que aprendeu que seu jogo é confrontado com uma ameaça terrível que pode afetar todo o arcade, e um que Ralph pode ter iniciado inadvertidamente.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Duas Caudas: Uma Aventura Espacial[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uls1Y_haolz2Ti-sh-p7ijI5xUhsTods/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiz3KNsePwMi9A5CYCkID6hi0C4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sjGiQeyLKepc9KDz8rX4OZPN2cM.jpg</fanart>
+<info>As aventuras de dois animais de natureza completamente diferente - um castor sério e econômico e um gato inquieto. Encontram-se quando o gato procura abrigo da chuva na floresta. O castor resgata o gato e eles se tornam amigos íntimos. O gato realmente quer se tornar famoso e acredita que todo mundo quer se tornar famoso, mas nem todos podem admitir isso. Um dia, a vida desse casal muda abruptamente quando alienígenas de uma galáxia distante pousam na floresta.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Balto II Wolf Quest[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B7ifA7G6LLrhvAohSJGwhU0ONx5Pn2Nq/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDKSeu8Dzr2rje1IlvrApmYPo3S.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rQJ9SrOekFmqYsy1Lpri1sn2vXg.jpg</fanart>
+<info>Balto e sua filha Aleu embarcam em uma jornada de aventura e autodescoberta.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]As Fantásticas Viagens dos Gnomos[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B0LlyJqi2ZLBCmLe8aYKRYm7iSCfSOms/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaH5Z8DRQWdkCDD6UTkoypMeiTx.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNTI1MDc3OTAtZmNlNC00MzUwLWE1YzMtYWJkMTUzMzJiZWNmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Atlântida - O Continente Perdido[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Zzg30j1RxMCQHbreXeaXyYlr8_n02Wri/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UmnKr6yJF4orjxNvrut4eoOpyR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fYr0fqT9NImOuaN1QgnDHgGh4Ci.jpg</fanart>
+<info>A tripulação mais qualificada do mundo de arqueólogos e exploradores é liderada pelo historiador Milo Thatch ao embarcar no incrível submarino Ulysses, com 1.000 pés de altura, e se aprofundar nos mistérios do mar. A expedição subaquática dá uma guinada inesperada quando a missão da equipe deve mudar de explorar Atlantis para protegê-la.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Alpha e Ómega 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13-bpZm0suQWJ-APEcrGAzt2sCfEtxGZR/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mr6uvKF5GsEUbHOhOJW10GjJOct.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fxYG3pgvX2EiErV1sY6CxeXxJ0q.jpg</fanart>
+<info>Kate & Humphrey e seus três filhotes de lobo (Smokey, Claudette e Runt) estão felizes em se preparar para celebrar suas primeiras férias de inverno juntos quando seu filhote menor, Runt, desaparecer misteriosamente. Eles agora devem fazer uma nova jornada pelo deserto para encontrar Runt antes que as festividades de inverno comecem em casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ralph vs Internet[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Zu-RxDgS9A4vQFUpQTiMQ1XM00lA8wrA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/88poTBTafMXaz73vYi3c74g0y2k.jpg</fanart>
+<info>O vilão do videogame Ralph e o colega desajustado Vanellope von Schweetz devem arriscar tudo viajando à World Wide Web em busca de uma peça de reposição para salvar o videogame de Vanellope, Sugar Rush. De cabeça para baixo, Ralph e Vanellope confiam nos cidadãos da Internet - os internautas - para ajudar a navegar, incluindo um empresário chamado Yesss, que é o algoritmo principal e o coração e a alma do site de tendências BuzzzTube.Phil Johnston</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Vida Secreta dos Nossos Bichos 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zvyb72X5wJcEEazBRLXOA7h-N8gxzg_3/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPEAwV5u6cwqNMBV6MD4CWFAclu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kTQQjh53k2twvLDwLH8c0m4w6HR.jpg</fanart>
+<info>Max, o terrier, deve lidar com algumas mudanças importantes na vida quando seu dono se casa e tem um bebê. Quando a família viaja para o interior, Max, nervoso, tem numerosos desentendimentos com vacas intolerantes a cães, raposas hostis e um peru assustador. Felizmente para Max, ele logo tira uma folga quando conhece Rooster, um rude cão de fazenda que tenta curar o adorável cão de suas neuroses.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
