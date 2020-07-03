@@ -1,9 +1,38 @@
+<item>
+<title>[COLOR lime]Coletânea De Alvin e os Esquilos Trilogia[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Fzd2EWzOBMiRjpkERs2YeGw19aeoaSq5/view$$lsname=[COLOR orange]Alvin e os Esquilos[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BUXnJLsFD7xQ1lZlt-pG8y8f-HLO2M__/view$$lsname=[COLOR orange]Alvin e os Esquilos 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15oE6ouossX5gkIVjfGtSfUIediBfF8Am/view$$lsname=[COLOR orange]Alvin e os Esquilos 3: Naufragados[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B2gG7VbubajKrJV2Ci0N_ZXMxubquhSH/view$$lsname=[COLOR orange]Alvin e os Esquilos: A Grande Aventura[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWBZBAXzTv79vfOPIdKlGXi5t3u.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cxiV9N6n23UM5obkNTRRY4egmkB.jpg</fanart>
+<info>Aqui Dentro Tens Os 4 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Smurfs 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oEYtcZNStrkbL32TaX5t1jSE55apCnSG/view$$lsname=[COLOR orange]Os Smurfs[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dTDxfya0t3rtV7MXIQUQ2U1uxQYwMP5h/view$$lsname=[COLOR orange]Os Smurfs 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xGhRkBo791KeITsAKbWtrforxi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aIyvMthA7UGV6ix6AUUM88ZXfeU.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Paddington 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tYcu7Xa9cKxQ7p-5N1i9YV_mYLNRJzhd/view$$lsname=[COLOR orange]Paddington[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mWytfg2-0FsMky6eWQXos0PR3j9-ntRt/view$$lsname=[COLOR orange]Paddington 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/49ybMvALWRKVVpONPIKWYATLihH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1wCQLUTG6DBIQfhzTYFNI0IDkap.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 MODELO PARA YOUTUBE
 <item>
 <title>[COLOR plum]"Peça De Teatro" O Leitinho do Nene (1993)[/COLOR]</title>
-<utube>yUQ8cw4xrJU</utube>
-<thumbnail>https://www.cm-matosinhos.pt/thumbs/cmmatosinhos/uploads/writer_file/image/17829/leitinho_1_2500_2500.jpg</thumbnail>
-<fanart>https://www.cm-matosinhos.pt/thumbs/cmmatosinhos/uploads/writer_file/image/17829/leitinho_1_2500_2500.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MD4ZR2WpwMtlxK2w8f6sSLPhKI3QA4YN/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxtIUBUki2xSL2wLWxu0O2qVHV1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxtIUBUki2xSL2wLWxu0O2qVHV1.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -16,26 +45,24 @@ MODELO PARA YOUTUBE
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR plum]"Peça De Teatro" Aqui Há Fantasmas (1985)[/COLOR]</title>
-<utube>_aXL4SNcp_k</utube>
+<title>[COLOR lime]"Peça De Teatro" Aqui Há Fantasmas (1985)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1z61I7eLgudL16q3sN3tI3xg6vKl9PbLM/view?usp=drivesdk</link>
 <thumbnail>https://verdadeiroolhar.pt/wp-content/uploads/2017/04/17798944_1331965560182654_776833158638216940_n.jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-AWCbzWNrjOU/WKJCyL7ph6I/AAAAAAAAdVc/uVKUWT1SZOQrMYWpcD9UCaqLlFqlmfsPwCLcB/s1600/fantasmaas.jpg</fanart>
 <info></info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO COM VARIOS LINKS
 <item>
 <title>[COLOR lime]Balas e Bolinhos Trilogia[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14VytcFhFLaCqNfcrQwogyB5p1r_fyG1s/view$$lsname=Balas e Bolinhos</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZdagH8RjdPmMk1GnHRDL1meUvCQGjmlb/view$$lsname=Balas e Bolinhos 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BceLik2id_mj6-eS_3kSlBO_hVEbl_ZB/view$$lsname=Balas e Bolinhos 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k-HougIdeadFVrvu2jq5Kns4cxlHxedj/view$$lsname=BALAS&BOLINHOS - MESMO À FRENTE DO TEU FOCINHO!</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14VytcFhFLaCqNfcrQwogyB5p1r_fyG1s/view$$lsname=[COLOR orange]Balas e Bolinhos[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZdagH8RjdPmMk1GnHRDL1meUvCQGjmlb/view$$lsname=[COLOR orange]Balas e Bolinhos 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BceLik2id_mj6-eS_3kSlBO_hVEbl_ZB/view$$lsname=[COLOR orange]Balas e Bolinhos 3[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k-HougIdeadFVrvu2jq5Kns4cxlHxedj/view$$lsname=[COLOR orange]BALAS&BOLINHOS - MESMO À FRENTE DO TEU FOCINHO![/COLOR]</link>
 <thumbnail>http://i.imgur.com/9cxvpCk.png</thumbnail>
 <fanart>http://i.imgur.com/9cxvpCk.png</fanart>
 <info>Aqui Dentro Tens Os 3 Filmes</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]Quero-te Tanto![/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eRa1hFppyVzoVl-UQRSXy2SlZax-gxHL/view?usp=drivesdk</link>
@@ -44,7 +71,6 @@ MODELO GDRIVE DE APENAS UM LINK
 <info>Uma comédia romântica sobre um casal não-conformista de jovens pais que, procurando uma solução para sua frágil situação financeira, está envolvido em um esquema inocente e louco.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-MODELO GDRIVE DE APENAS UM LINK
 <item>
 <title>[COLOR lime]A Raposa e a Criança[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yNQ78zooyzW3j8dqYzDVwS29gd540LnX/view?usp=drivesdk</link>
@@ -399,10 +425,10 @@ MODELO GDRIVE DE APENAS UM LINK
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]Aqui Há Fantasmas (1963)[/COLOR]</title>
-<utube>e1MyM4EGcV0</utube>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy0M6LtaCS9r14bXZ8qEqrQ0MZs.jpg</thumbnail>
-<fanart>https://www.leme.pt/magazine/efemerides/0131/estreia-filme-portugues-aqui-ha-fantasmas.html</fanart>
-<info></info>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WdpokCravTmnctkAjeL9-mKYaI86pypv/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGNjZTQxNzItZTExNS00NzAxLThjODktOTZkZDk0MTkyY2EyXkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMDZmNDQ2NDMtYjU5ZC00MTAyLTg0YTUtMTMyZmJlMTQ2OWUyXkEyXkFqcGdeQXVyNjQ5MjkyMDk@._V1_.jpg</fanart>
+<info>O professor Hermes realiza uma pesquisa sobre o medo, pela qual ele faz um contrato com um paciente para viver uma mansão supostamente vazia. Ele conta com seu assistente Chico Mota para interpretar um fantasma, mas logo acontece que existem fantasmas (plural) lá.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -427,5 +453,173 @@ MODELO GDRIVE DE APENAS UM LINK
 <thumbnail>https://archive.org/download/hqdefault1_202002/hqdefault%20%281%29.jpg</thumbnail>
 <fanart>https://archive.org/download/hqdefault1_202002/hqdefault%20%281%29.jpg</fanart>
 <info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Treasure Buddies - Aventura no Egipto[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ov2m8YY7icxIMHA9rwnUVUBjqEHHE3Zx/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXJaPj8JusHymVUNhau2SkNlS5y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vXzuHMzQx2hEs02F4mS6ShUbHJI.jpg</fanart>
+<info>Os irresistíveis filhotes falantes da Disney estão de volta em um novo filme que os leva do outro lado do mundo para as ruínas do antigo Egito. Com a ajuda de alguns novos amigos exóticos, esta aventura épica é um tesouro de pura diversão com o Buddy. Em uma corrida contra um gato desonesto, os amigos e seus novos amigos, Cammy e Babi, devem evitar armadilhas, resolver quebra-cabeças e explorar uma tumba misteriosa - tudo em busca do maior tesouro conhecido pela humanidade!</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Togo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18Gwvt9Ljc_vHMJWHnOxdVYurBL8ICQ19/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WuN3gnXUT6VlP51wfo4RGaG0RW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iLHcVhc7E9DLfSmCWSC00ZIw1vJ.jpg</fanart>
+<info>A história verdadeira e não contada, ambientada no inverno de 1925, que o leva pelo terreno traiçoeiro da tundra do Alasca para uma aventura emocionante e edificante que testará a força, a coragem e a determinação de um homem, Leonhard Seppala, e seu cão de trenó, Togo. .</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Sordo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xRuQIs9vVVGlaWIA1rBlnmwdKFXwvMhq/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5KEPYy133Lls1cXXTnccgRMQBW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w1CHZlHKLsGXIl1IouIjQLjUP7e.jpg</fanart>
+<info>Norte da Espanha, outubro de 1944. Vários grupos de guerrilheiros, ex-soldados republicanos exilados na França após o fim da guerra civil espanhola, se infiltram no país para provocar uma revolta popular contra a ditadura do general Franco…</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Sonic: O Filme[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J5Ce26FkIqki5Som3bAXnZvfmMIffvf0/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hMmIzNBprl6WyIOIAy1XbOcELow.jpg</fanart>
+<info>Baseado na franquia mundial de videogames de grande sucesso da Sega, Sonic the Hedgehog conta a história do ouriço mais rápido do mundo enquanto ele abraça sua nova casa na Terra. Nesta comédia de aventura e ação ao vivo, Sonic e seu novo melhor amigo se unem para defender o planeta do gênio do mal Dr. Robotnik e seus planos para dominar o mundo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Quim Roscas e Zeca Estacionâncio ao VIVO[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P_-Qgt_LWPNzg7pXk4PLe7ul4N13oZM5/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GIVtYPcedFZyLSjnTsXyL9my2d.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wNif8zagjiV4wQPUMiRwS7Ol13F.jpg</fanart>
+<info>Show de comédia de Quim Roscas (João Paulo Rodrigues) e Zeca Estacionâncio (Pedro Alves) com muito humor e música. Desta vez no teatro Helena Sá e Costa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Pokémon Detetive Pikachu[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j03FgO7gbhX6hCLXrrjbchJaGrhs8laX/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nDP33LmQwNsnPv29GQazz59HjJI.jpg</fanart>
+<info>Em um mundo em que as pessoas colecionam monstros de bolso (Pokémon) para batalhar, um garoto encontra um monstro inteligente que procura ser um detetive.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Playmobil: O Filme[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_p1tyQIx84avU2UN44_HaGuGV13XpAn0/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOtzxWZbveKez2wUGLlH9QkIA5E.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xNyktdDHqhGUexBV2iZJAgA7ROR.jpg</fanart>
+<info>Marla é forçada a abandonar sua vida cuidadosamente estruturada para embarcar em uma jornada épica para encontrar seu irmão mais novo Charlie, que desapareceu no vasto e maravilhoso mundo animado dos brinquedos da Playmobil.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Flubber - O Professor Distraído[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1La2duceWEmqHcxLxBlhlI627N67DhHBO/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvAyXZfdP3WhfKeRXzzwWIGpcPx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4sG6pq34XdCUWXhCy5kD4t6pViR.jpg</fanart>
+<info>O professor Phillip Brainard, um professor distraído, trabalha com seu assistente Weebo, tentando criar uma substância que é uma nova fonte de energia e que salvará o Medfield College, onde sua namorada, Sara, é a presidente. Ele perdeu o casamento duas vezes e, na tarde de seu terceiro casamento, o professor Brainard cria flubber, que permite que objetos voem pelo ar.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]PUP STAR: Better 2gether / ESTRELAS CANINAS: A União Faz a Forças[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OzVq8_TUSRfGZXZfucz79ogjljF3Vrz1/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jByXwyiQBO72RVEDDZd34oaTyi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4mAFrZF0cHJ7ZUMrrdwczuPCkFQ.jpg</fanart>
+<info>Pup Star está de volta para uma nova aventura! Depois de vencer o concurso canino Pup Star e tornar-se uma sensação internacional de filhote, Tiny, a adorável Yorkie, virou seu mundo de cabeça para baixo quando um rival do mal a deixa em competição com um filhote de rua chamado Scrappy. Os dois filhotes se vêem vivendo a vida muito diferente dos outros, e uma incrível jornada por cidades icônicas se inicia nesta divertida e hilária aventura de cachorro fora da água! Enquanto se preparam para a competição Pup Star para chegar ao seu final, cada um experimenta a vida através de um colar muito diferente e descobre a importância da família e é fiel a si mesmo. No final, os dois yorkies afirmam ser Tiny deixando todos, inclusive os juízes, se perguntando - quem é a verdadeira estrela de filhote? Uma enorme e divertida aventura musical, 'Pup Star:</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]As Aventuras do Dr. Dolittle[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UCUzG0GnFnXy7vtOUVpmQyG5q5SzXTE_/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ll0CP1o1pa99yntJUrwiEl8XD5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xcUf6yIheo78btFqihlRLftdR3M.jpg</fanart>
+<info>Depois de perder a esposa, sete anos antes, o excêntrico Dr. John Dolittle, famoso médico e veterinário da Inglaterra da rainha Victoria, se ergue atrás dos muros altos da mansão Dolittle, com apenas sua coleção de animais exóticos. Mas quando a jovem rainha fica gravemente doente, um Dolittle relutante é forçado a zarpar em uma aventura épica para uma ilha mítica em busca de uma cura, recuperando sua inteligência e coragem enquanto cruza velhos adversários e descobre criaturas maravilhosas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Aladdin[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c62qjI63-rwzbt1otxTp-k3iZQxoJKQz/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cLGfqAaMsXOD851zqP7hLAidH1r.jpg</fanart>
+<info>Um garoto de rua de bom coração chamado Aladdin embarca em uma aventura mágica depois de encontrar uma lâmpada que libera um gênio esperto, enquanto um Grand Vizier, sedento de poder, compete pela mesma lâmpada que tem o poder de realizar seus desejos mais profundos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Dama e o Vagabundo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PTRHVcgLOLyP49FwBdo-_25pcENDfk6U/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXgDAfHX4eBFUZnOG4C6cn0pbuT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jTiAkStJlMhxv7OdcIMLIywoyWg.jpg</fanart>
+<info>A história de amor entre um mimado Cocker Spaniel chamado Lady e um vira-lata chamado Tramp. Lady encontra-se na rua depois que seus donos têm um bebê e é salva de um bando por Tramp, que tenta mostrar a ela que vive sua vida sem sapatos e sem colarinho.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Pinguins do Sr. Popper[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rxbvRdqw_-KMfOx9V_fP7bYb9wmY1OkQ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwqYTJyvavrasUXX7RwP4W1RSTI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lLKQCtN7IyPLGGWIuF9OP5O5m5Q.jpg</fanart>
+<info>Jim Carrey interpreta Tom Popper, um empresário de sucesso que não tem noção de coisas realmente importantes da vida ... até que ele herda seis pinguins “adoráveis”, cada um com sua própria personalidade. Logo, os colegas de quarto indisciplinados de Tom transformam seu elegante apartamento em Nova York em um país das maravilhas do inverno - e o resto de seu mundo de cabeça para baixo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Noelle[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10AfpV1rWjflWnmcbBlp8QIgURCiQHJTZ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dVM0ZSzbMbz7b0LxrNRz1gdhcGM.jpg</fanart>
+<info>A filha de Kris Kringle, Noelle, parte em uma missão para encontrar e trazer de volta seu irmão, depois que ele fica com os pés frios quando é sua vez de assumir o cargo de Papai Noel.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Air Buddies - Missão Salvar os Pais[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1asCx4i6--uHW6ZLXomMt0kP7N-Dfbd9y/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d97FUvWwMgMLSPck5qGCKktZofO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fkda8lOxeAGojUtPvNth8v04czi.jpg</fanart>
+<info>Aqui está a deliciosa história de trabalho em equipe e aventura que toda a sua família vai adorar! Air Bud é o orgulhoso pai de cinco filhotes adoráveis ??- o hip-hop B-Dawg, o adorável Rosebud, o suave Buda, o Mudbud que ama a sujeira e o grande amigo Budderball - com um segredo inacreditável: eles podem conversar! E as façanhas hilariantes e arrepiantes desses filhotes latindo, conversando e brincando de bola farão com que você aplaude enquanto fogem em uma ousada missão de resgate para salvar seus pais!</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Air Bud - Golden Receiver[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xaKrfMuMIChYXKAwLXIS28vvIxCmgpmM/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7YFpdlbN1fSQo5Qkfs8Y9gTKAW.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjMwNTcwNTA1MV5BMl5BanBnXkFtZTgwNjU0OTY3MTE@._V1_SY1000_CR0,0,1476,1000_AL_.jpg</fanart>
+<info>Josh e Buddy mudam do basquete para o futebol americano nesta primeira de várias sequências do Air Bud original.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Air Bud - É uma jogada perfeita[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e49T4kSLe5dKdB1Dq_5ed56FYbZuH702/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q39bjNCRT12SDmoHVep3GVmqPIe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kO1vgOlB6ZnNg7xmXDBK2CtYTjg.jpg</fanart>
+<info>Josh está no seu primeiro ano de faculdade e seu amigo ficou com Josh, irmã mais nova, Andrea e o resto da família. Adrea tentando se encaixar com seu jr. Colegas de classe decidem se juntar ao time de beisebol e, ao longo do caminho, descobrem que o amigo é um talentoso jogador de beisebol.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Air Bud - Contra Ataca[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G_MSvi0poAIlTN5xjBdoLEtILVOeCuqj/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGvYcHZXQgSi0vfUi18vKYQZXgK.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTY1MTc0NTM1OV5BMl5BanBnXkFtZTgwODUwMDIwMjE@._V1_SY1000_CR0,0,1516,1000_AL_.jpg</fanart>
+<info>Na quinta edição da Disney para a franquia, Air Bud descobre que ele tem a capacidade estranha de jogar vôlei.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Air Bud - A Nova Geração[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QgxbtLv_OlDrOYmSo6Xf4BYhRWrakuAZ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYtxJ7Dq3zzKB14ZKWpAGtCqcsC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/A8T0hbK8FiiL2oReH2DQnoqz7k3.jpg</fanart>
+<info>Nesta segunda sequência emocionante e hilariante do favorito popular, a Air Bud domina dois novos papéis principais: jogador de futebol (futebol de verdade) e paternidade. Carregado de risadas e ação de futebol, Buddy se junta ao lado de grandes nomes do futebol feminino dos EUA.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Air Bud[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y92CKB9VH5ob-A92vF0Q3ZcKxlW-qPVL/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4awmAcJ8Ics7HUSZHHTgmYbgmk7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uptfOkdOPNzx21JuTfh7DxHbnXI.jpg</fanart>
+<info>Um garoto e um cão vadio talentoso com uma incrível capacidade de jogar basquete tornam-se amigos instantâneos. Recuperando-se da morte acidental de seu pai, Josh Framm, de 12 anos, se muda com sua família para a pequena cidade de Fernfield, Washington. O novo garoto da cidade, Josh não tem amigos e é muito tímido para tentar entrar no time de basquete da escola. Em vez disso, ele prefere praticar sozinho em uma quadra abandonada, e faz amizade com um golden retriever em fuga chamado Buddy. Josh fica surpreso quando percebe que Buddy adora basquete ... que está jogando basquete ... e ele é BOM! Josh finalmente faz parte da equipe da escola e Buddy é nomeado Mascote da Equipe. Josh e Buddy se tornam as estrelas do intervalo. O talento de Buddy no intervalo chama a atenção da mídia. Infelizmente, quando o ex-proprietário médio de Buddy, Norm Snively, vem com um plano para lucrar com o filhote.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Máscara 2 - A Nova Geração[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FwTcm8HeuPvCFRjXczofR6KWMJMFxkMX/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ABy1EUjcJKci9mQzrDppLWB24q.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/od5chJN27AKS2ZfMhwZVShTo1Kg.jpg</fanart>
+<info>Tim Avery, um aspirante a cartunista, se encontra em uma situação difícil quando seu cachorro tropeça na máscara de Loki. Depois de conceber um filho recém-nascido "nascido da máscara", ele descobre como a educação dos filhos pode ser maluca.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
