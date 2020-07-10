@@ -17,7 +17,7 @@
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR plum]Hotel Transylvania 1 2 e 3[/COLOR]</title>
+<title>[COLOR plum]Gru - O Maldisposto1 2 e 3[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B-ln1QmoPpduyvcoLhnwWnlH-rLov9X0/view$$lsname=[COLOR orange]Gru - O Maldisposto[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p2t3Uyj8XncZJAlYbykgi8hdpMIsPbl_/view$$lsname=[COLOR orange]Gru - O Maldisposto 2[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ovXAxbbIfvj_vkfylDdCdOEadQby7wm/view$$lsname=[COLOR orange]Gru - O Maldisposto 3[/COLOR]</link>
@@ -856,4 +856,46 @@
 <fanart>https://image.tmdb.org/t/p/original/kTQQjh53k2twvLDwLH8c0m4w6HR.jpg</fanart>
 <info>Max, o terrier, deve lidar com algumas mudanças importantes na vida quando seu dono se casa e tem um bebê. Quando a família viaja para o interior, Max, nervoso, tem numerosos desentendimentos com vacas intolerantes a cães, raposas hostis e um peru assustador. Felizmente para Max, ele logo tira uma folga quando conhece Rooster, um rude cão de fazenda que tenta curar o adorável cão de suas neuroses.</info>
 </item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Um Voo em Grande[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N9cdRS4X84EUO3BPAWhLcNJZoXZg1onJ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VTYZiDRHBMEEtzv7CPwr0ZruPn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3BWd3jRlr06E022BKzQ8MxNfoRX.jpg</fanart>
+<info>Órfão de nascimento e criado por cegonhas, o pardal adolescente Richard acredita que ele é um deles. Mas quando chega a hora de migrar para a África, sua família de cegonha é forçada a revelar sua verdadeira identidade e deixá-lo para trás na floresta, já que ele não é um pássaro migratório e não sobreviveria à jornada. Determinado a provar que ele é uma cegonha, afinal, Richard se aventura no sul por conta própria. Mas apenas com a ajuda de Olga, uma coruja excêntrica com um amigo imaginário e Kiki, um periquito narcisista e cantor de disco, ele tem a chance de alcançar seu objetivo e aprender a aceitar quem ele realmente é.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Prodígios[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Pz_cSanAFF-iN-HOz8bXprMS9qjBvOQu/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu18DkjIDbroCaCT1Mf0B1AGjMs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9Sn4fRF56ZK1WDXUUpHVqvc6iGy.jpg</fanart>
+<info>Nova York, Central Park, 2010. Cinco jovens adolescentes são violentamente agredidos. Mas eles não são seus adolescentes comuns ... são prodígios. O trauma do ataque os incita a atacar o mundo de uma maneira fria e calculista. As cinco mentes arrepiantes e brilhantes se reúnem para inventar uma vingança perfeita. A única pessoa ciente da destruição pendente é Jimbo Farrar, um sexto prodígio, que os reuniu. Contanto que ele lute contra todos os seus cinco colegas com todas as suas forças, há esperança para o mundo. Mas ele deveria se virar para o lado deles, é apenas uma questão de tempo até que um desastre de proporções apocalípticas aconteça ...</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Quadrilogia Shrek[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B_7OTrdFsJSG_p0FBPzOR0zZ5Vu6FfVi/view$$lsname=[COLOR orange]Shrek[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VbdhDUf4_HthtSiXuC-mNSiV5W8AtZRs/view$$lsname=[COLOR orange]Shrek 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RiQa8WO-bLH3CZx3mG9dBk8nk0Sh0v_s/view$$lsname=[COLOR orange]Shrek o Terceiro[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u-YbUVBVWD9QpVKYzOsg03WfwAx7GV5H/view$$lsname=[COLOR orange]Shrek Para Sempre o Capítulo Final[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=Falta Por Aqui$$lsname=[COLOR orange]A Todos um Shrek Natal[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rnMmfKpJUxyfBx3hwzqxJ7q13P.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xZ2we4gdiwQmg6D1w9qHlAm5yIf.jpg</fanart>
+<info>Aqui Dentro Tens Os 4 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Rio[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nI59zcjLelrijiRO-OAzLDe4u37MlYSf/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK78D6RCCujJyr6B8o1xyZSzk64.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/upa1AGlEgKYa8DOnr0tYAF69dA2.jpg</fanart>
+<info>Capturada por contrabandistas quando ele era apenas um filhote, uma arara chamada Blu nunca aprendeu a voar e vive uma vida feliz e domesticada em Minnesota com sua amiga humana, Linda. Blu é considerado o último de sua espécie, mas quando chega a notícia de que Jewel, uma mulher solitária, vive no Rio de Janeiro, Blu e Linda vão encontrá-la. Contrabandistas de animais sequestram Blu e Jewel, mas os dois logo escapam e começam uma perigosa aventura de volta à liberdade - e Linda.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Pocahontas 2 - Viagem a um Mundo Novo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10rI4cXdMkZ0dAM0lVTzF5FK0hb9F4W4j/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GaijGOvWgrAfPa9eP8g0GlYGnm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fzAnRGmaKJtm8sZuZ8a1nwSNTd3.jpg</fanart>
+<info>Quando as notícias da morte de John Smith chegam à América, Pocahontas fica arrasada. Ela parte para Londres com John Rolfe, para se encontrar com o rei da Inglaterra em uma missão diplomática: criar paz e respeito entre as duas grandes terras. No entanto, o governador Ratcliffe ainda está por aí; ele quer voltar para Jamestown e assumir. Ele não fará nada para desacreditar a jovem princesa.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
