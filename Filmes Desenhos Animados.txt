@@ -1,0 +1,215 @@
+<item>
+<title>[COLOR plum]A Idade do Gelo Todos Os Filmes[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fUL_874Bl1SWiAIyHqOBLKY-D49Gk4pd/view$$lsname=[COLOR orange]A Idade do Gelo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_gtDFAu_gVxjGPOhV8flyw9jcxdNqNLI/view$$lsname=[COLOR orange]A Idade do Gelo 2: Descongelados[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nQlPyena5pSZrrbfBhkpdNrTpvXYd9we/view$$lsname=[COLOR orange]A Idade do Gelo 3: Despertar dos Dinossauros[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10ysKgIRpvgZC58TwDffertfvY_m2AD75/view$$lsname=[COLOR orange]A Idade do Gelo 4: Deriva Continental[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y3Dex32fU0Jy0s1VbOBB2ljT3as1X5Bk/view$$lsname=[COLOR orange]A Idade do Gelo 5: O Big Bang[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nfnULfT45cj3UobWms6ZSV-pwuEEEu62/view$$lsname=[COLOR orange]A Idade Do Gelo A Grande Caça Ao Ovo[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLfFpUgyjpYLx5gRIHuQMwjfBm6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cC3nr0KkXHPChZnFMBvFPdAYNyV.jpg</fanart>
+<info>Aqui Dentro Tens Os Filmes Todos</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]A Vida Secreta dos Nossos Bichos 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10WLLMhnQ9hiPFAcDc3ImCNIVfCPAM8bS/view$$lsname=[COLOR orange]A Vida Secreta dos Nossos Bichos[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xrDT7f5lKEBT-SMUmgT3hLAHJTf3fKRb/view$$lsname=[COLOR orange]A Vida Secreta dos Nossos Bichos 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKpQ8fDDu1qCvBl5bF2vpsZPSUj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kTQQjh53k2twvLDwLH8c0m4w6HR.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Lenda dos Guardiões[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i2yKHB2Tj_B87NllDIdpfDzsQ4ilxTt7/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nCCqgCHdxuptVlFWbQbIJey6ro.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qV8qsAYLt2XFggOK98Da0NfuQUo.jpg</fanart>
+<info>Soren, uma jovem coruja de celeiro, é sequestrada por corujas de St. Aggie, ostensivamente um orfanato, onde as corujas são submetidas a uma lavagem cerebral para se tornarem soldados. Ele e seus novos amigos escapam para a ilha de Ga'Hoole, para ajudar suas nobres e sábias corujas que combatem o exército que está sendo criado pelos governantes perversos de St. Aggie. O filme é baseado nos três primeiros livros da série.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Bandeira Dos Piratas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vWTimDuaBqXPtj5CiwTN64658rsgHY_K/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDkT7l3Q50KTwhdKB8urNFJqAbP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDkT7l3Q50KTwhdKB8urNFJqAbP.jpg</fanart>
+<info>Três meninos visitam um museu e descobrem uma tigela de ouro - parte de um lendário tesouro asteca. Enquanto olham para o tesouro, eles revelam o segredo de viajar no tempo antes que percebam que estão a bordo de um navio pirata no século XVIII. Eles conhecem a bela pirata Anne Bonnie e a malvada e cruel pirata do Capitão do Caribe, Barba Negra. Eles devem ajudar Anne Bonnie, manter Tortuga livre e das garras do Capitão Barba Negra, salvar a ilha, Bonnie, e encontrar o caminho de volta para casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Casa Fantasma[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lu6ml3B1DUafz3pw9WrOCnOT2KDhDG3K/view?usp=sharing?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDkT7l3Q50KTwhdKB8urNFJqAbP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aiRESjcG3Vi3W9WAGgMJSjGX1HQ.jpg</fanart>
+<info>Um rapaz de 12 anos acredita que há algo de estranho na casa de um velho e rabugento vizinho. Na véspera do Dia das Bruxas, ele e um amigo decidem investigar e tirar a limpo todas as suas suspeitas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Dama e o Vagabundo (O Filme)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HQfZwhL0rHG1-O3CO13iAuaF9oAloaSP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BBhQumi9j9TngO9wxy9SJa3iUW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jTiAkStJlMhxv7OdcIMLIywoyWg.jpg</fanart>
+<info>A Dama e o Vagabundo (Lady and the Tramp) é um filme de romance americano, dirigido por Charlie Bean, a partir de um roteiro de Andrew Bujalski e Kari Granlund. O filme é uma adaptação em live-action do filme de animação de Walt Disney, de 1955, baseado na história da revista Cosmopolitan de "Happy Dan, The Cynical Dog", de Ward Greene. O romance conta a história de um cocker spaniel americano de classe média alta, chamado Dama, (Tessa Thompson), que conhece um Schnauzer vira-lata do centro da cidade chamado Vagabundo, (Justin Theroux), e os dois embarcam em muitos encontros românticos e aventuras, incluindo aquela cena icónica de beijo de esparguete.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Estrela de Laura[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZTN5zs058OBxGOoldWaQpOkAy-lJH1Pp/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex8Kp4NuMpxwcu73Mdi8VedXc0k.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rZv3hjYs9ATI1LM4FDM1th5vKEz.jpg</fanart>
+<info>Laura vê uma estrela cadente caindo no chão e a encontra em um parque, caída no chão e com uma ponta quebrada. A estrela é um ser vivo e Laura a leva para casa para recolocar sua ponta com um curativo. A pequena estrela tem poderes especiais e pode fazer as pessoas voar ou dar vida a objetos inanimados. Mas quanto mais ela fica na Terra, mais fraca ela se torna e suas cores desaparecem e seus poderes começam a falhar. Laura deve encontrar uma maneira de enviar a pequena estrela de volta ao espaço sideral.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Fuga das Galinhas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h36_4iLqjUi7yQe6Bnz5xV0NJStXdUSW/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5coQXIl5NnJznMXcmrqgyxPO5Qn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gywyBYFCDYhmwDh4n1B0WCaEh23.jpg</fanart>
+<info>Na quinta de criação de galinhas do casal Tweedy, situada algures em Inglaterra, a corajosa e persistente galinha Ginger procura conduzir as restantes companheiras de cativeiro a uma fuga organizada. Todavia, as tentativas de evasão resultam sempre em fracasso até surgir na quinta um galo americano e bem-falante chamado Rocky.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A História de uma Abelha[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SGAoLEsspGK_IYTUmWDHEep6X1KpPVUk/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC0f3uld9Ea51QzlLleSFxWy2Hw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/psAQQBTJvSs4kaShupcn9IoHXc0.jpg</fanart>
+<info>Barry B. Benson (Jerry Seinfeld) formou-se recentemente e sonha com um emprego na Honex, onde poderá produzir mel. Desta forma ele se aventura fora da colméia, onde descobre um mundo até então inteiramente desconhecido. É quando conhece Vanessa Bloome (Renée Zellweger), uma alegre florista de Manhattan com quem quebra as regras das abelhas e passa a conversar regularmente. Logo eles se tornam amigos, o que faz com que Barry conheça melhor os humanos. Porém Barry descobre que qualquer pessoa pode comprar mel nos supermercados, o que o deixa profundamente irritado por considerar que estão roubando a produção das abelhas. É quando ele decide processar os humanos, na intenção de corrigir esta injustiça.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Ilha do Impy[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Qj9A_dQSrGUBmRDxF7aFcX2BMLunpGN/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCQC4HiVJwatq3JGFPm9NQK3yWX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5qDWPNID03PTMxmot2QcEivDB0j.jpg</fanart>
+<info>Em uma pequena ilha dos mares do Sul, um grupo de animais – um pingüim, um lagarto, um pássaro e um elefante marinho – tem suas vidas idílicas interrompidas por Impy, um safado e amável bebê-dinossauro</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]The Larva Island Movie[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tYRCDM51OHbHLc692JmohLIFM-z8nqg3/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hR2Hes7Y75iFpUxIFfloDf21Kyr.jpg</fanart>
+<info>De volta a casa, Chuck relata as travessuras de seus amigos larvas Red e Yellow a um repórter cético nesta sequência do filme de sucesso.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Lenda de Despereaux[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T9DrZ6Sxxe6axGi1vZmLgTmbJ392uVpn/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bneO9Ar9ZgWm5kRbqjsuR2GuxMg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sKEp4GBfG13YCMDtf2Q4JgTF7az.jpg</fanart>
+<info>Um filme de Natal para toda a família. A história de Despereaux, um pequeno rato apaixonado por música, histórias e uma Princesa chamada Pea.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Wallace & Gromit: A Maldição do Coelhomem[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-9ic2VGi1DKrbxZIIWJsPAPQ8Aw-5Zrr/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o06EMgTpbObtQabzKCHwU1QS0Y6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vOfQUcVF87V2fI84QjDSnye7FaW.jpg</fanart>
+<info>O bairro onde mora o inventor Wallace e o seu fiel cão Gromit está em polvorosa com a proximidade do concurso anual de legumes gigantes, organizado pela bela Lady Tottington. Para proteger as plantas, Wallace inventa um equipamento que captura coelhos. Mas quando surge uma misteriosa fera vegetariana que destrói as plantações à noite, a honra de Wallace passa a estar em jogo.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Origem dos Guardiões[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1isx5ImDaWGK9j8bHaZVP4fTEWVTePmL-/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLiI13YstciHqiuHCkD786wpIYn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/puFbbiJxY0rjJtcvsTeSCQHNchR.jpg</fanart>
+<info>Uma aventura épica que conta a história de um grupo de heróis, cada um com habilidades extraordinárias. Quando um terrível espírito conhecido como Pitch, tenta deitar as garras ao nosso mundo, os imortais guardiões têm de unir forças pela primeira vez para proteger os desejos, as crenças e a imaginação das crianças de todo o planeta.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Ovelha Choné - O Filme[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hf12qNmXTqu0FNKNSPZh0mY--ZT6Is-W/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/I7LCUjD6X7ijWwIsIOjgdIMtoF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8wYtRmPKCtY5hg2isGcrkABWeQP.jpg</fanart>
+<info>Choné, uma ovelha esperta e matreira, vive com o seu rebanho na quinta Vale Verdejante sob a supervisão do Agricultor e de Bitzer, um cão pastor. Apesar dos esforços da Ovelha Choné, a vida na quinta caiu numa rotina enfadonha e ela conjura um plano para conseguir um dia de folga. Mas o plano descontrola-se e faz com que o Agricultor acabe longe da quinta. Com a ajuda do rebanho, Choné tem de deixar a quinta pela primeira vez e ir até à Grande Cidade, para salvar o Agricultor… e falhar não é uma opção.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]À Procura de Nemo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hMZqjXfRp51zOHzzuDppby2Geq5hF5ou/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/djbivExXSZb0sTO8uYaaQC5vMRM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jpnwNUmph2nFzLYXhD91Xe8DYhd.jpg</fanart>
+<info>Nemo, um jovem aventureiro peixe-palhaço, é inesperadamente levado de sua casa na Grande Barreira de Corais para o aquário de um dentista. Depende do pai preocupante Marlin e de um peixe amigável, mas esquecido, Dory para levar Nemo para casa - conhecendo tubarões vegetarianos, tartarugas surfistas, água-viva hipnótica, gaivotas famintas e muito mais pelo caminho.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Princesa e o Dragão[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E9TUZCHOJSGxm6yzexxaPnwjZNlfH84K/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgxCWbhjld2NC3ojXSt1ZsnhOp7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nx2ZfF5y42cnxuNBDaO2nL2uKpX.jpg</fanart>
+<info>Em seu 7º aniversário, a princesa Bárbara descobre um livro mágico que a transporta para o País das Maravilhas, um lugar encantado repleto de dragões e criaturas fantásticas.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Princesa e o Sapo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12sSqNRLrmbAc0A4Zco87qkHjVR0pfDcO/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6sBKORoLi26V5aQCdGQB33LVnC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg</fanart>
+<info>"A Princesa e o Sapo" é uma mutação moderna de um conto clássico, que conta com uma linda rapariga chamada Tiana (Anika Noni Rose), um príncipe sapo que tenta desesperadamente voltar a ser humano e um beijo fatídico que os levará numa hilariante aventura através dos fascinantes riachos do Louisiana.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Rainha Das Andorinhas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YoBdLkrkAZeF4nOE5ncyEV6fzyyzUCMN/view?usp=drivesdk</link>
+<thumbnail>https://media.fstatic.com/l-KoVQ5g_PTEoM29PGS1MkGU7uU=/290x478/smart/media/movies/covers/2017/08/A_Rainha_das_Andorinhas.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/f4/f5/5f/f4f55fa43fae66efa17c0ec51df41dbc.jpg</fanart>
+<info></info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Revolta dos Pássaros[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18Z-N_RKen1c2eg7ahfB-iJ15ZDDIuKBf/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM1ODk1NzE4Ml5BMl5BanBnXkFtZTgwMjc0NTAzMTE@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZThlOWNmOWMtNDQzMS00MTBjLWFlMmMtOWJjMmU3NmNiNmVmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg</fanart>
+<info></info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Revolta dos Perus[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qnS-vOwUp8mRas2yKZhyR2IKAOEC5JMK/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LKNQf1JhFqo6owBFHOuhCjO0I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7zdUMCOlxPiOT8kOcCgr40jXlLI.jpg</fanart>
+<info>Numa antiquada quinta familiar, um bando gigante de perus vive uma vida calma, complacente e repleta de milho. Só se preocupam com a hora de serem alimentados e em descansarem ao Sol com o agricultor, que juram que os levará para o "Paraíso do perus". Todos, menos Reggie (Pedro Borges), um peru particularmente esperto, mas rejeitado pelo bando devido à sua opinião negativa sobre o agricultor e desinteresse pela existência mundana e anafada dos perus.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Abominável[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18VBRXLajw6EnFmRkswZ6cjr5C8VCWg7b/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/arZe9Vz0tMRnOL4xx5WkyVIlPmi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iSrw6tCzdsM8sNvSAqG3RrjcRKe.jpg</fanart>
+<info>Quando a pequena Yi encontra Yeti, o célebre Abominável Homem das Neves, no terraço do prédio de Shangai onde vive, ela e as suas amigas Jin e Peng apelidam-no de Evereste e iniciam uma odisseia para devolver a criatura às suas origens no ponto mais elevado da Terra. Mas nada será fácil, desde logo pelos inimigos que têm de enfrentar para cumprirem a sua nobre missão.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ahmed, o Príncipe de Alhambra[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17n4A7B9f0Zh0qfo8U1_jskq990ccJU4c/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzAzZjhkMWMtMjBiNi00N2Q4LWIzMmMtOTM3NTY4YzFkNzVhXkEyXkFqcGdeQXVyNjU3ODUxMTc@._V1_SY1000_CR0,0,702,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYzAzZjhkMWMtMjBiNi00N2Q4LWIzMmMtOTM3NTY4YzFkNzVhXkEyXkFqcGdeQXVyNjU3ODUxMTc@._V1_SY1000_CR0,0,702,1000_AL_.jpg</fanart>
+<info></info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Scooby![/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FQLdXD-ET7SLHkA_Fh_FN2Crs4PEP3iK/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTJmODM0MDQtMTRjYy00YWZjLThjODItMzQ5N2I2NDBjYzA1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYzJkOGY0YTItOWI4OS00ZTNiLTlmNzMtYjg1ZmQ2MDI5NDk2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</fanart>
+<info>Scooby e sua turma enfrentam seu mistério mais desafiador: uma trama para libertar o cão fantasma Cerberus sobre o mundo. Enquanto eles correm para impedir esse dogpocalypse, a gangue descobre que Scooby tem um destino épico maior do que qualquer um poderia imaginar.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Paraíso da Barafunda[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WKhKC-jEW8JnMEY8KTjEYCLZjA35PeEy/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Sm61aFV7UVFMHWrzrSRRjVhiD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rQKlcMY8i3elENXEHlkAbQr3xiG.jpg</fanart>
+<info>A fazenda Caminho do Paraíso está em pânico, pois uma ação de despejo ameaça acabar com o local. Temendo ir para o matadouro, os animais da fazenda decidem ajudar a dona a conseguir a quantia necessária para pagar a hipoteca. O alvo escolhido pelo grupo é o perigoso bandido Alameda Slim, que tem uma grande recompensa reservada para quem capturá-lo.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Fuga do Planeta Terra[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zvsuCDMF3OnJgLQEtfy-IUdPzsZROfx9/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0bYdXu4L9hdKpU6NzBWeVpSXKQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dlReM2zDrOfkvrJj9R96XmhNdS4.jpg</fanart>
+<info>Scorch Supernova (Brendan Fraser) é um herói interplanetário bastante conhecido, já que seus feitos costumam ser televisionados para todo o planeta Babum. Isto faz com que ele se torne uma lenda para as crianças, graças também à ajuda de Gary (Rob Corddry), o diretor da Missão BASA Control e seu irmão. Namorando a bela repórter Gabby Tagarela (Sofia Vergara) e tendo o sobrinho Kip (Jonathan Morgan Heit) como fã número um, Scorch tem sua vida alterada aoser enviado em uma missão no planeta proibido, também conhecido como Terra. O problema é que nenhum astronauta retornou de lá e, por causa disto, Gary não quer que o irmão embarque nesta aventura. Scorch nem se importa com os alertas e viaja assim mesmo, não sem antes desfazer a parceria com Gary. Porém, quando Scorch é capturado pelos terráqueos em meio a uma transmissão ao vivo pela TV, Gary não vê outra alternativa a não ser também viajar à Terra para salvá-lo.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Chicken Little[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d2OzqFE5lfrdjXmXDN206slem7JvDURs/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZFL0w2qnkTAbGwS59QAF3WXRiq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x7gFWu9CxTxw7VmkdQAtKocZJtI.jpg</fanart>
+<info>Chicken Little (Zach Braff) é um galo cheio de imaginação, que vive aprontando as maiores confusões. Um dia ele provoca pânico generalizado na cidade onde vive, ao confundir a queda de uma avelã com um pedaço do céu que esteja caindo. Após a verdade vir à tona, Chicken Little perde todo o crédito junto aos habitantes, que não acreditam mais no que ele diz. Porém, quando um pedaço do céu realmente cai em sua cabeça, ele precisa encontrar um jeito de salvar a cidade sem fazer com que todos entrem em pânico mais uma vez.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Fearless[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LeaEyKYdrxZLucnGiE1DFodspNJc6w_d/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDpwXzUz9eqd04X1pnrdflm6xwH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8vaNiHJr9iZfiWKgnqgWR0a53oM.jpg</fanart>
+<info>Um adolescente que adora videojogos é forçado a ganhar uns níveis em 'babysitter' quando o seu jogo favorito deixa três bebés espaciais superpoderosos ao seu cuidado.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Float[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fxlvjGV2QiExIN-d4msyIz_xHBY421b5/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uo0XfFnovYeQ27YyW6ayK5SM6w5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5eaSJT365mGmUqli9O2khkE9fab.jpg</fanart>
+<info>Um pai descobre que seu filho flutua, o que o torna diferente das outras crianças. Para mantê-los protegidos do julgamento do mundo, papai o esconde, cobre e o protege. Mas quando a habilidade de seu filho se torna pública, papai precisa decidir se foge e se esconde ou se aceita seu filho como ele é.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
