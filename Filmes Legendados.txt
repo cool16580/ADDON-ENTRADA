@@ -1,0 +1,778 @@
+MODELO COM VARIOS LINKS
+<item>
+<title>[COLOR plum]Coletânea Do Velocidade Furiosa[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15hhL2FqnWAHRKL-pze7_YgzAnpiCCHP9/view$$lsname=[COLOR orange]Velocidade Furiosa 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Salt9AWcvibeTlNIioMP-GgrAXoD_-LV/view$$lsname=[COLOR orange]Velocidade Furiosa 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IxzwgGqyX8C9Od5rf6T7IWVM6kVmlsG7/view$$lsname=[COLOR orange]Velocidade Furiosa 3[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QTVg3IqjuASo3f3Mr31S2Dx6IfxAaZZm/view$$lsname=[COLOR orange]Velocidade Furiosa 4[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c8JKfzfH2ws1Gs6HOxwLWtt2_fjrOgQe/view$$lsname=[COLOR orange]Velocidade Furiosa 5[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GQv12ieGoB9mhiV01EQfr9AFf39mwGqY/view$$lsname=[COLOR orange]Velocidade Furiosa 6[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NKk59jFkJtAIia902iBegESQg8H8uI43/view$$lsname=[COLOR orange]Velocidade Furiosa 7[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aBPqGFTBqMZ_VJdk8sZngPDkx36HoNPf/view$$lsname=[COLOR orange]Velocidade Furiosa 8[/COLOR]</link>
+<thumbnail>https://www.fatosdesconhecidos.com.br/wp-content/uploads/2019/08/8-6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg</fanart>
+<info>Todos Os Filmes Do Velocidade Furiosa</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Cubo Trilogia[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16h5eu8QbacI3Z9gElAOVLJbOpBhvChG6/view$$lsname=[COLOR orange]Cubo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18qHj1854N2K3nokyfO55QnR_-gJlKzhn/view$$lsname=[COLOR orange]Cubo² Hypercubo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yoy_aSWnqG-ZCMl2JtW_2Fx_EMO5qkaH/view$$lsname=[COLOR orange]Cubo Zero[/COLOR]</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71JjLGPC2HL._SL1024_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/81pHc5JXRJL._SL1500_.jpg</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Cubo Trilogia[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16h5eu8QbacI3Z9gElAOVLJbOpBhvChG6/view$$lsname=[COLOR orange]Cubo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18qHj1854N2K3nokyfO55QnR_-gJlKzhn/view$$lsname=[COLOR orange]Cubo² Hypercubo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yoy_aSWnqG-ZCMl2JtW_2Fx_EMO5qkaH/view$$lsname=[COLOR orange]Cubo Zero[/COLOR]</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71JjLGPC2HL._SL1024_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/81pHc5JXRJL._SL1500_.jpg</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Coletânea Rota de Fuga[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nzLmcnfReh9z51YQkd_gC1BeuHROUt4X/view$$lsname=[COLOR orange]Rota de Fuga[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hC_NlCo5ESB4XSAMsETTsKFKXFYZHNqe/view$$lsname=[COLOR orange]Rota de Fuga 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=Falta$$lsname=[COLOR orange]Rota de Fuga 3[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjjnSLigATq9NOEcMybQHnQhZ9p.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pYuqnnPKBHOzn3zIGIiTajvyorZ.jpg</fanart>
+<info>Aqui Dentro Tens Os 3 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Deadpool 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oY_CM0yArW6X_CvDADwXrib09AktbyA3/view$$lsname=[COLOR orange]Deadpool 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D9EuyFeKaHUWXDmSKm9r2UbLs3CLr8oD/view$$lsname=[COLOR orange]Deadpool 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/iSMUo3G248S8rwbTMkZXVKSPbY5.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]Inatividade Paranormal 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e6cTx7ERRCe4bjTaxT-hvzoiEIdejgF-/view$$lsname=[COLOR orange]Inatividade Paranormal 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EBuXUZTAJ2PkkcEkyV5hKi0RnBs0IJ0n/view$$lsname=[COLOR orange]Inatividade Paranormal 2[/COLOR]</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTM1ODgyOTI0NF5BMl5BanBnXkFtZTcwODgyMDY3OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1CzUuIdalmARzfYyEX3vGmBy6dn.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]The Equalizer - Sem Misericórdia 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qe0G587VRO_LwHKaXnIO5JZD_xpmZ3ZU/view$$lsname=[COLOR orange]The Equalizer - Sem Misericórdia[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nztK3tQ-OvgYUe6C6IVT6eCeFn62Vlq6/view$$lsname=[COLOR orange]The Equalizer 2 - A Vingança[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyjSa7awezBP6ezAmGSlNyhmDg1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/afoPRUXcdv2VpZrbQDV85ROAT2r.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR plum]A Mosca 1 e 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hWdB1JPakUs7mowPnCjmXSuHvw1_zgW-/view$$lsname=[COLOR orange]A Mosca[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DzjhjY578vyofF7xLihH6JKXrWLLdL4M/view$$lsname=[COLOR orange]A Mosca 2[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLnulyRMhZfrXr7qaufBFv5H1us.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dtP5Q556gG2FAXEQ8XvILmQBn9.jpg</fanart>
+<info>Aqui Dentro Tens Os 2 Filmes</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Baby Driver - Alta Velocidade[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Rm_QeqKYkX1aXnY2zeKU_SpHD9MQbz8a/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rYTtQ14rPB3KOgk5TjkUqiQFch.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/goCvLSUFz0p7k8R10Hv4CVh3EQv.jpg</fanart>
+<info>Depois de ser coagido a trabalhar para um chefe do crime, um jovem motorista de fuga se vê participando de um assalto condenado ao fracasso.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Máscara[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GNkCOPxdmIMVsIq0rPJTe5srR1AKFuEm/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/12sSctbjVGXsLaQGxG0JZlnqspn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bdhA6nWf5IIyfiGjdegYPu0iK9e.jpg</fanart>
+<info>Stanley Ipkiss é uma perfeita nulidade. Sem conseguir qualquer êxito profissional ou amoroso, a coisa mais excitante na sua vida é o seu... pijama! Até que, uma noite, Stanley encontra uma máscara antiga e estranha. É então que o insólito acontece: ao colocar a máscara, esta funde-se com a sua cara, transformando-o num indestrutível super herói... de cara verde. Agora, Stanley consegue fazer coisas incríveis: contorce todo o seu corpo, desloca-se a uma velocidade impressionante, pressente os desejos e sentimentos de toda a gente e dança como Fred Astaire, Gumby e Barishnikov, todos misturados. Ele é fantástico! Ele é "A Máscara"! Mas, atenção! Ele é um novo tipo de herói... um herói a quem nunca se deve pedir ajuda!</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Ponte do Rio Kwai[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13EpC3y5nPf1yNx_nxLT8BLs2EoDbcFOS/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjE5YjQ2MWUtMzYwMC00Yjk2LWFiNTItZTBiM2RlM2FlMGJhXkEyXkFqcGdeQXVyMjA5NjIxNDU@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg</fanart>
+<info>A história clássica dos prisioneiros de guerra ingleses na Birmânia forçou a construção de uma ponte para ajudar no esforço de guerra de seus captores japoneses. Oficiais de inteligência britânicos e americanos conspiram para explodir a estrutura, mas o coronel Nicholson, o comandante que supervisionou a construção da ponte, adquiriu um sentimento de orgulho por sua criação e tenta frustrar seus planos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Hitman[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Wp8Sd4Ugj8W78FHA0P0cvH8l3KZ73Re4/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IAZpkSmqk4jrXRycuuK9cKRMXH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6ZdUvPE2gQayaSDF8CBWDZl0D3O.jpg</fanart>
+<info>O videogame mais vendido, Hitman, ganha vida com os dois barris em chamas neste thriller de ação hardcore estrelado por Timothy Olyphant. Um assassino geneticamente modificado com objetivo mortal, conhecido apenas como "Agente 47", elimina alvos estratégicos para uma organização ultrassecreta. Mas quando ele é enganado, o caçador se torna a presa quando 47 se encontra em um jogo de vida ou morte de intrigas internacionais.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Max Payne[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yctz7wsacY_qW1nb5e1fq70DB5MxPxdH/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtNG3FsLhshbGDf0ybTQKNbyZV7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oTsX6sdrBoF6cSgv4MNQP06qAUZ.jpg</fanart>
+<info>Um agente da DEA cuja família foi morta como parte de uma conspiração, e um assassino que vingou a morte de sua irmã, juntam forças para resolver uma série de assassinatos na cidade de Nova York.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Todas As Mulheres Fazem[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NUgmTqz18N23MSUR5w7DUXD--MiC5wmS/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Wzhfs1udDyEAwepW5SZsSwjNhk.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNmFkZWZiMjktMjVjYi00MGMwLWIyNmQtYjA2NDA3NGZjNDE1XkEyXkFqcGdeQXVyNDA2MDA0MDA@._V1_.jpg</fanart>
+<info>Diana é uma esposa romana, felizmente casada com o simpático Paolo, mas gosta de jogar benignos jogos de sedução com outros homens, enquanto resiste aos avanços do proprietário de uma loja de lingerie chique, Silvio. Ela narra suas aventuras para Paolo, a fim de estimular sua vida sexual monótona. No entanto, sob a influência de sua amiga lésbica Antonietta e sua irmã atrevida Nadia, Diana começa a avançar ainda mais, enquanto Paolo ainda está propenso a acreditar que os eventos narrados por ela são meramente fantasias.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Catch.44[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bU-4TKDvEicfgAInA-u0Sf6XVboqUEqy/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbDQA2a3H9CbEHr7bDkaqxAGDO1.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTU5MzUwNTc3OV5BMl5BanBnXkFtZTcwNzQ0MTc5Ng@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>As vidas de três assassinas mudam repentinamente quando seu chefe encantador as atrai para um último emprego. Eles logo se vêem em uma situação bizarra envolvendo um assassino psicótico, um caminhoneiro grisalho e um cozinheiro de linha ilusório.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]ATM - Armadilha Mortal[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19JevoB61E8t9A2mVtA_gXD0qE3h3Vb3a/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cigb1FmAjvHDGnrj23ii65NMIP.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZGM4YmIwYjAtMDhmNy00NzRhLThkOTEtNzIyODlmMDk3ZDFlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg</fanart>
+<info>Depois de deixarem a festa de Natal da empresa juntos, o primeiro encontro inesperado de David Hargrove e Emily Brandt toma um rumo inesperado quando seu colega de trabalho, Corey, pede que eles parem até tarde da noite em um caixa eletrônico. O que deveria ser uma transação de rotina se transforma em uma luta desesperada pela sobrevivência quando um homem desconhecido aparece fora do vestíbulo. Com as temperaturas de inverno caindo abaixo de zero, e o nascer do sol ainda a horas de distância, eles não têm escolha a não ser jogar o jogo mortal de gato e rato do homem.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Contrabando[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OyFenxl2AMS3oVFGTKdJd9z5o-PwdWui/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRgEKt2fUPWuM1LS0nVtNYV86eP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mpnANFV2Z4mxhcY9rQwQ6RwLiSW.jpg</fanart>
+<info>Quando seu cunhado entra em conflito com um traficante, o homem da família Chris Farraday recorre a uma habilidade que ele abandonou há muito tempo - contrabando - para pagar a dívida. Mas o trabalho dá errado, e Farraday se vê sendo procurado por policiais, bandidos e assassinos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Contágio[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GbNqkBwu4w3yZV8-pUoX6dEyvBvovNLF/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bdmyvEdrmnj7J3RWaKXEOwYggRv.jpg</fanart>
+<info>Como uma epidemia de um vírus letal no ar - que mata em poucos dias - cresce rapidamente, a comunidade médica mundial corre para encontrar uma cura e controlar o pânico que se espalha mais rapidamente que o próprio vírus.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Tomb Raider[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pSTQcrhtoKCtLn5IGli9Yr2wtob4Gq9L/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wa0GU7H38ZBXHnzpInqkEHpJm84.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg</fanart>
+<info>Lara Croft é a independente filha de um aventureiro excêntrico que desapareceu quando ela chegou à adolescência. Deixando para trás tudo o que conhece, Lara parte em busca do último paradeiro conhecido do pai: um túmulo lendário numa ilha mítica que poderá ficar algures ao largo da costa do Japão.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Salt[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DQZKd132kN6jtnu0siNwyUrEVrlsQIO0/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tmhUKYklYebFdF4tEUs4f9Om43.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xbQv34DdSkWJCLa3SGuLJPw1HYI.jpg</fanart>
+<info>Evelyn Salt é uma respeitada e veterana agente da CIA. Mas, quando a sua lealdade é posta em causa por um desertor soviético, que a acusa de ser uma infiltrada russa, treinada desde criança para aparentar ser uma cidadã americana modelar, ela é forçada a fugir. Enquanto usa as suas aptidões e experiência para não ser capturada pelos próprios colegas e tentar manter o marido a salvo, Salt vai tentar limpar o seu nome e descobrir a verdade.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]The Boat[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r4O7CP4d3b2NEYFLrnddWG7oNGfOniZR/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtPo855ENI0AeOXhkCHBEgTPMEa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/AtJnj8pslQy79bnrPprW37cDqrf.jpg</fanart>
+<info>Um pescador solitário em sua corrida diária se vê perdido em uma névoa espessa que se mostra impossível de navegar. O pior ainda está por vir quando seu encontro com um veleiro aparentemente abandonado se torna uma luta pela sobrevivência contra um inimigo desconhecido.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Atrás das linhas inimigas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OzzcaLQV5eoNQJhnS1mTt91dNmkkayhA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrNKyIKsmyHpa4ttqCJj7YI5wDR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cdyTjNMVs9aW54PMkCWDBYjXWdZ.jpg</fanart>
+<info>Enquanto pilotava uma missão de reconhecimento de rotina sobre a Bósnia, o piloto de caça Chris Burnett fotografa algo que não deveria ver e é abatido atrás das linhas inimigas, onde deve superar um exército liderado por um implacável general sérvio. Com o tempo se esgotando e um rastreador mortal em seu rastro, o comandante de Burnett decide arriscar sua carreira e iniciar uma missão de resgate renegada para salvar sua vida.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A.I. Inteligência Artificial[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tta7N1VF8W0tsy5clsmhVPmi0qnSzZ1R/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQasyc5byDqjCZYXQDK215Jo7RD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cpZ8n5xrH4Rye1jnOmohwSlZtTJ.jpg</fanart>
+<info>Filme que conta a história de um robot com emoções e a sua “família” humana. Num mundo futuro, depois das calotes polares terem derretido, são criados robots para todo o tipo de funções, mas não ainda capazes de amar. O menino David é o primeiro projecto viável de inteligência artificial e o primeiro programado para amar incondicionalmente. Ele é adoptado experimentalmente por um casal cujo único filho é portador de uma doença terminal e foi congelado até que a cura seja encontrada. Gradualmente, David conquista todo o carinho e atenção deste tipo de relações, mas uma série de circunstâncias inesperadas tornam essa vida impossível para David. O filho biológico do casal é curado e a família acaba por rejeitar o robot... Contado apenas com a companhia de um outro robot, David inicia uma jornada para encontrar seu lugar num mundo onde a linha que o separa das outras máquinas pode ser assustadoramente imensa ou quase imperceptível.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Família Robinson[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1raxV1wQVrl372hG-RIZkUkeb_0yY4O3G/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHWvD6cdjf7PKVJa1JhOtfDXFba.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iHra76hscatc3ZHQ5HPFFBnyUxf.jpg</fanart>
+<info></info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]John Henry[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NSV7jXt4Jn6e2mUN8cquOzH7WGZUGIMv/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwtOfT2hUs9TjqOnqj40JyJ71Ke.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mrIckWWXvVu9nMlOKQykxJfmjF3.jpg</fanart>
+<info>O ex-membro da gangue John Henry é um homem quieto com um passado violento. Quando duas crianças imigrantes em fuga de seu ex-líder de gangue de South Los Angeles tropeçam em sua vida, John é forçado a se reconciliar com seu passado para tentar dar-lhes um futuro.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]XXX - Missão Radical[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sS-K17JEooAkXD4xmgj7qEqHyRGicWVJ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9A1cCb8Zd92LGAKslrSpMrigbng.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg</fanart>
+<info>Xander Cage é um típico gingão destemido e despreocupado. Até que o governo americano o "recruta" para uma missão especial: recolher informação acerca de uma organização que planeia destruir o mundo...</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]xXx: O Regresso de Xander Cage[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LeyXM-Ki-Fx57ENpZac9qZVxYzGQRuSY/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OVKCxeBt3B84yMjvZ4iQ1tB2BP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cFcXilLbI7yjPIYB58AZiOyUnoh.jpg</fanart>
+<info>O atleta extremo que virou agente do governo Xander Cage sai do exílio autoimposto, considerado morto há muito tempo, e está em rota de colisão com o mortal guerreiro alfa Xiang e sua equipe em uma corrida para recuperar uma arma sinistra e aparentemente imparável, conhecida como Pandora Caixa. Recrutando um novo grupo de coortes em busca de emoções, Xander se vê envolvido em uma conspiração mortal que aponta para conluio nos níveis mais altos dos governos mundiais.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Vingadores: A Era de Ultron[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_Bs3SC3eukvyeYPhFLI8rLWSthVNxSxj/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1F8xnBHZlQMkSAacfhUUXhmcgo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4zmNJNQkugbalqJLnKp0wnlp8i3.jpg</fanart>
+<info>Quando Tony Stark tenta iniciar um programa de manutenção da paz adormecido, as coisas dão errado e os Heróis Mais Poderosos da Terra são testados à medida que o destino do planeta está em jogo. Enquanto o vilão Ultron surge, cabe aos Vingadores impedi-lo de executar seus terríveis planos, e logo alianças inquietas e ação inesperada pavimentam o caminho para uma aventura global épica e única.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]6 Dias 7 Noites[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NUHak4xNKV1aRzMn9iKKiOhJ4MaW7M1a/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eNuRVPcFE6Oyu0Szwm1TeYfSy4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qRPURRKzCEeojiUNQtC4JnFMZ0n.jpg</fanart>
+<info>Robin e Frank vão para uma ilha paradisíaca na Polinésia, a fim de celebrar o seu noivado. Mas um compromisso urgente de trabalho força Robin a voar de urgência para uma ilha próxima no avião de Quinn Harris, um piloto que não gosta de turistas mas não está em condições de rejeitar os dólares dela. A meio da viagem, são forçados a aterrar de emergência noutra ilha e ficam isolados, tendo de sobreviver no meio de nenhures enquanto Frank e Angelica, a sedutora namorada de Quinn, tentam encontrar o avião desaparecido e são sujeitos a um verdadeiro teste de fidelidade.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Mundo de Água[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VHFNt6_pT_RG2qyMDDz09BeIcyrjD_E_/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4L5wGVYPxiYvi3KTWLGqTDQT7Ey.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xBu4khAr8wM8uEz3YrceudPcEpw.jpg</fanart>
+<info>Em um mundo futurista onde as calotas polares derreteram e fizeram da Terra um planeta líquido, uma bela garçonete resgata um marítimo mutante de uma prisão flutuante na ilha. Eles escapam, junto com sua jovem carga, Enola, e partem a bordo de seu navio.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Gladiator[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PPyIkUsAqp8sKUZ13yxc8StXrFWBgY1u/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvKsQB84W2Sv6s7jpGmzQBVyQe3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sJERNdeWadQrHu9swr1uApVSiQs.jpg</fanart>
+<info>No ano de 180, a morte do imperador Marco Aurélio lança o caos no Império Romano. Maximus é um dos generais mais capazes e confiáveis ??do exército romano e um dos principais conselheiros do imperador. Como o filho desonesto de Marcus, Commodus, ascende ao trono, Maximus está pronto para ser executado. Ele escapa, mas é capturado por comerciantes de escravos. Renomeado espanhol e forçado a se tornar um gladiador, Maximus deve lutar até a morte com outros homens para se divertir com o público pagante.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Paulo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FBlj5G4rpK_f7zG7JA8yVtX_cDXxnW5X/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/exqIDix2tu6F7fv8Mqlf9qlhlZv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gztzdt8GHyra7ta2Fjwydn6MaY.jpg</fanart>
+<info>Nos últimos 60 anos, um espertinho de viagens espaciais chamado Paul foi trancado em uma base militar ultrassecreta, aconselhando líderes mundiais sobre sua espécie. Mas quando ele se preocupa, ele perdeu sua utilidade e a mesa de dissecação está se aproximando desconfortavelmente, Paul escapa no primeiro trailer que passa por seu complexo na Área 51. Felizmente, ele contém os dois terráqueos com maior probabilidade de resgatar e abrigar um alienígena. a corrida.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Milagre na Cela 7[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h12tn-pdQ7Q2ruzldkrV3dPBrgZKWQhL/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOth4QmNyEkalwahfPCfiXjNh1r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4YbHir4Ka4kG7WOdh0anXv1iT8s.jpg</fanart>
+<info>Separado da filha, um pai com deficiência intelectual deve provar sua inocência quando é preso pela morte do filho de um comandante.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Os Cinco Bandoleiros[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TdKF5QT8XHs0Lm1iaFrTgWGCbOVU6roG/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NSCCCQn06UfkKap9rIXL5g7GPG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1u0eCifYlWmC7xGnzJfUAevdtV7.jpg</fanart>
+<info>Situado durante a Revolução Mexicana, um homem conhecido apenas como "O Holandês" tem um plano e reúne quatro de seus antigos conhecidos, incluindo um velho amigo do exército e um silencioso espadachim japonês, para ajudá-lo, prometendo uma recompensa de US $ 1.000. consegue. O plano acaba sendo uma missão tola: roubar um trem com US $ 500.000 em ouro que é guardado por dezenas de soldados fortemente armados e passa por um fluxo constante de postos de controle militares. Naturalmente, seus amigos concordam em seguir o esquema</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Papillon[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uDC8HmwP819vSVOivazeEjD4cdnGLKQ_/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lfMtVr5hkFeGy4dMaEf3XUQr76d.jpg</fanart>
+<info>Henri "Papillon" Charrière, um segurança do submundo parisiense, é injustamente condenado e sentenciado à prisão perpétua na colônia penal da Guiana Francesa, onde ele faz uma forte amizade com Louis Dega, um falsificador que precisa de sua proteção.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Campeão[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i1h3rGBIzca6lS6WpXafYAil9Cw6Gnu-/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OMXgwGwczwUCoyUC5wOgQZxo7U.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/flgFiFmtwkYITx61tgBdRT9WNow.jpg</fanart>
+<info>Quanto mais você ama, mais você luta. O mundo olha para Billy Flynn e vê uma pessoa que aparentemente nunca existiu, um ex-campeão de boxe atingido a esteira anos atrás por bebidas e jogos de azar. Mas o filho de Billy, TJ, vê o que o mundo não vê. Ele sabe que seu pai falho, mas amoroso, é e sempre será o campeão.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Libertação[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1thWRSSmU0C14d8tvzpcWJ8_88Kt99Uib/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aaqbyTRo1bZB34ZdjeWyqnL0qz0.jpg</fanart>
+<info>Com a intenção de ver o rio Cahulawassee antes de se transformar em um enorme lago, o fanático ao ar livre Lewis Medlock leva seus amigos em uma viagem de rafting no rio, que nunca esquecerão no perigoso país americano.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Vida de Pi[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14KBMT488UITru-Svihw_v5sgtHfIHK2e/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7H01zprUY67n7bdcFg6VMvrkNjs.jpg</fanart>
+<info>A história de um menino indiano chamado Pi, filho de um tratador que se encontra na companhia de uma hiena, zebra, orangotango e um tigre de Bengala depois que um naufrágio os coloca à deriva no Oceano Pacífico.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Sweetheart[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13G6PMmGf105yGxkC8wfHPJ2gyHQ1AKZt/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gikXKkUcjIWStNEiEY3slOGzQdh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/de51GG0AQZj8dUm00aQUi4wisBr.jpg</fanart>
+<info>Quando Jenn (Kiersey Clemons) percebe que está completamente perdida e sozinha numa ilha tropical, não lhe resta outra opção além de tentar sobreviver nos dias restantes até que consiga ajuda. Desolada e cada vez em piores condições, ela luta para descobrir o que a levou até lá enquanto enfrenta uma força mística que a assombra todas as noites.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Master & Commander - O Lado Longínquo do Mundo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YBRhW2g7ewXsG7gA7SJ2ZB7RO30qVL9Z/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg</fanart>
+<info>Após um encontro abrupto e violento com um navio de guerra francês infligir graves danos ao seu navio, um capitão da Marinha Real Britânica inicia uma perseguição por dois oceanos para capturar ou destruir o inimigo, embora ele deva pesar seu compromisso com o dever e a busca feroz da glória. contra a segurança de sua tripulação dedicada, incluindo o pensador cirurgião do navio, seu melhor amigo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Efeito Lazarus[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1loj1e0JpxDxcCEo9OSMf6q_MpONZ-CiC/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aq0TOLvITU3iWRUfxlRc83lMz1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nMlsS5v0BY9W1GhRBUNrRPF90Xh.jpg</fanart>
+<info>O pesquisador médico Frank, sua noiva Zoe e sua equipe alcançaram o impossível: encontraram uma maneira de reviver os mortos. Após um experimento bem-sucedido, mas não sancionado, em um animal sem vida, eles estão prontos para tornar seu trabalho público. No entanto, quando o reitor deles descobre o que eles fizeram, ele os desliga. Zoe é morta durante uma tentativa de recriar o experimento, levando Frank a testar o processo nela. Zoe é revivida - mas algo de mal está dentro dela.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Matadores de Velhinha[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pMR7XG_G3u_dtlpvhDT5uAHoZ3i46S60/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg</fanart>
+<info>Um excêntrico, senão encantador, professor do sul e sua equipe se apresentam como uma banda para roubar um cassino, tudo sob o nariz de seu proprietário inocente - uma velha afiada.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Comboio do Dinheiro[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UkV194qz9W8ALdMJM4NPYz8Nj5sMdQDd/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaYbVUioidHxhJeZek625skJlUg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fAVyWg4FbDGioeSwy6ijr8SYB7t.jpg</fanart>
+<info>Quando um policial vingativo de trânsito de Nova York decide roubar um trem de tarifas de metrô, seu irmão adotivo - um colega policial - tenta protegê-lo.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Radioflash[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ITfcorzFurYxgyYbJU5po-0tkgRIyZrF/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HMxLI3iAeLrADycENmaQacCilL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bomE9pWZpNPNRjYus4JkyiJW3PT.jpg</fanart>
+<info>Quando um ataque nuclear causa um pulso eletromagnético que corta toda a energia, água e comunicação para todo o oeste dos Estados Unidos, Reese se vê mergulhada em uma luta muito real para sobreviver. Enquanto o pandemônio toma conta de sua cidade, Reese e seu pai partem em uma jornada desesperada em busca de segurança - uma perigosa jornada por um mundo enlouquecido, onde todo encontro com um estranho pode ser o seu último.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Legião[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a_r5K3e4uxrkMCJdWHDc_gy2QU0281t1/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ssoBXQOxNhrsGJoM6Tcvm57V79.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qs0vwBf2q5WaajTD8oTY2IquvO0.jpg</fanart>
+<info>Noreno, um meio-romano, é encarregado da missão de atravessar as montanhas nevadas da Armênia, repleto de patrulhas partas, para procurar ajuda para seus homens que estão morrendo lentamente.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Flypaper[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HNHMnDDgujStLPCve9-zRCyGzFjDQLd8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/npKfKjROBdoxy19JPI4ti6EukAp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/h6CdyrLJrkyB8rs7GAFnVsTcduk.jpg</fanart>
+<info>Um homem pego no meio de dois assaltos simultâneos em um banco tenta desesperadamente proteger o caixa por quem ele está secretamente apaixonado.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Êxodo: Deuses e Reis[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15GbsaKt4UeG3L7Ssdryzx42NeKOtvXFv/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TSSBdw1CiIWZkWmcALoLdWs4Do.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hJ1jUw8irCiWwQk7BElxF92BrlK.jpg</fanart>
+<info>O líder desafiador Moisés se levanta contra o faraó egípcio Ramsés, colocando 400.000 escravos em uma jornada monumental de fuga do Egito e seu terrível ciclo de pragas mortais.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Wrecked[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xCT0uMD6_A5Skqz7YkEBAV76FytWAJld/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsVQJ0cAxAJAz6deZzHf9f99qXb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7IkyVSay5Y3eqO7kA1fDHyoAAMu.jpg</fanart>
+<info>Um homem acorda em um acidente de carro no fundo de um penhasco íngreme. Ele não consegue se lembrar quem ele é ou como chegou lá, mas um relatório pelo rádio preenche alguns dos espaços em branco, pois descreve um violento assalto a banco e nomeia um criminoso que, por acaso, está sentado morto no banco de trás.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Náufrago[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KyCGHBW1FjHHtj64TdRx_I8YwxSOgyzO/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6ok1Ehrb0gl3Z0ou7zD3arUiAfP.jpg</fanart>
+<info>Chuck Nolan, um dos principais gerentes internacionais da FedEx, e Kelly, um Ph.D. estudante, estão apaixonados e caminhando para o casamento. Então o avião de Chuck para a Malásia cai no mar durante uma tempestade terrível. Ele é o único sobrevivente e se vê abandonado em uma ilha desolada. Sem chance de escapar, Chuck precisa encontrar maneiras de sobreviver em sua nova casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ela é Fácil[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kPA6CgosCw-FeE2Lbu5l1TO0vY0P1Omb/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLfU4BmoKjk18HSfOwciGcrIGxw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/46oSJ7KwL8EWmaaK07Eeys79euB.jpg</fanart>
+<info>Olive, uma aluna média de liceu, vê a sua despercebida existência dar uma volta da noite para o dia quando decide usar a onda de boatos da escola para melhorar o seu estatuto social. Agora, as suas colegas de turma estão a voltar-se contra ela e o conselho directivo começa a ficar preocupado, incluindo o seu professor favorito e a sua distraída orientadora. Com o apoio dos hilariantemente idiossincráticos pais e uma pequena ajuda de um apaixonado de longa data Olive tenta assumir a sua notória nova identidade e acabar com a fonte de rumores de uma vez por todas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Força da Natureza[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X75qfEQAM_3Y97cLKcuYnbzwav79mzxN/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fN3J7yMRKzMxSBgVhS6AIgBF9ji.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eIqyISB5j99OSRZUuvdN9g2bBsS.jpg</fanart>
+<info>Um agente da policia deve proteger os moradores remanescentes de um prédio no meio de uma evacuação de furacão, enquanto criminosos violentos tentam realizar um misterioso assalto dentro do prédio.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]El Camino: Um Filme de Breaking Bad[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vsPv2bRSubtojpYqldxXpKELv3HZe3YP/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bzJNKVRLOR4cxuirVZTCrb3EQwH.jpg</fanart>
+<info>Na esteira de sua fuga dramática do cativeiro, Jesse Pinkman deve aceitar o passado para criar algum tipo de futuro.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Maggie[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qJKbRsqD1V5fbMRTZPvxG19lgE7za5vk/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ycQ4zbc0S9Xby1OrYJAKnM7Lkh5.jpg</fanart>
+<info>Há uma epidemia de zumbis mortal ameaçando a humanidade, mas Wade, um agricultor de cidade pequena e homem de família, se recusa a aceitar a derrota, mesmo quando sua filha Maggie é infectada. À medida que a condição de Maggie piora e as autoridades tentam erradicar as pessoas com o vírus, Wade é levado ao limite em um esforço para protegê-la. Joely Richardson é co-estrela deste thriller pós-apocalíptico.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Sem Limites[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yknP75IhiTxn8SQUGQ9Tbcz-zYqFCm3K/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjcwN2RhYWYtOWY1NC00M2JkLTllYWItYzZhOTg4NjZmMDcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mSIwogX33Hp09JEnahn5IbAODG.jpg</fanart>
+<info>Corky, uma ex-mulher durona e sua amante Violet, inventa um esquema para roubar milhões de dinheiro da máfia e atribuir a culpa ao desonesto namorado de Violet, César.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Sniper Americano[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zu7viyS3JjYKjTTPv1VVbQNtmjDrAjlr/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1U46OwMc6vlm7OoSUKfqUH615e.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ejppjyIQjI7sajxUkize7GFgREV.jpg</fanart>
+<info>US Navy SEAL Chris Kyle leva sua única missão - proteger seus camaradas - a sério e se torna um dos atiradores mais letais da história americana. Sua precisão não só salva inúmeras vidas, mas também faz dele um alvo principal dos insurgentes. Apesar do grave perigo e de sua luta para ser um bom marido e pai de sua família nos Estados Unidos, Kyle cumpre quatro missões no Iraque. No entanto, quando ele finalmente volta para casa, ele descobre que não pode deixar a guerra para trás.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Wonder - Encantador[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LVms3gBtB2ucftACcDcyJ8tAKcrlom0c/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGoTUHAcma2sY0rQ7iQiFZoPF1R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/b7xQ5fuyVO4c24igizCfPgF6n7q.jpg</fanart>
+<info>Baseado no best-seller do New York Times, WONDER conta a inspiradora e emocionante história de August Pullman, um menino com diferenças faciais que entra para a quinta classe na escola primária pela primeira vez.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Tracers: Nos Limites[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GpbMR6QWCcjmQhLCRCMuDxTgqDJotyMm/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHg1JMq3W3cK7NjLKHRPCz2BQWD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mCtcj983zvP5cUpMd3IjHOEMJjT.jpg</fanart>
+<info>Procurado pela máfia, um mensageiro de bicicleta de Nova York escapa para o mundo do parkour depois de conhecer um belo estranho.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Hachiko - Amigo para Sempre[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OFbAaTRc8v21u7esnZGZ9_TbyihhCnV0/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gqxbhJT8THJX68ECwIhz4zyBUH5.jpg</fanart>
+<info>Um drama baseado na história real do vínculo de um professor universitário com o cachorro abandonado que ele leva para sua casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Fúria[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jQsB3lczZtCuUw_umoWWthvkXSOWhZZg/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg</fanart>
+<info>Nos últimos meses da Segunda Guerra Mundial, quando os Aliados avançam no teatro europeu, um sargento do Exército dos EUA chamado 'Wardaddy' comanda um tanque Sherman chamado 'Fury' e sua tripulação de cinco homens em uma missão mortal. atrás das linhas inimigas. Em menor número e em menor número, Wardaddy e seus homens enfrentam enormes probabilidades em suas heróicas tentativas de atacar o coração da Alemanha nazista.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Howard e o Destino do Mundo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BazczpP0EeSbNwLenVppFaO_T9Lkk4FP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebTUL3IarxjufSqNm5XsVAkd7d0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gdkjHuMPwsdE3mw5dchAeRI1Wl2.jpg</fanart>
+<info>Um pato com características de ser humano que vive em um outro planeta, é atingido por um raio laser disparado por uma máquina experimental da Terra. Assim, totalmente por acaso, ele é trazido pelo raio até o planeta dos homens, só que junto com ele também vem um alienígena que quer dominar o mundo. Ele então conhece uma menina chamada Beverly Switzler (Lea Thompson) que vira sua única amiga, e que depois terá um envolvimento romântico com o pato. Mesmo com um pouco de confusão, pessoas bondosas tentarão afastar ele de cientistas maldosos e oferecerão ajuda para ele voltar para o seu planeta.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Vigarista à Vista[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QlkcA-H8rVks9Kef_OORXB9cyJdPSb2y/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9W3rFnOFpeHaANqaIq9QNdaAF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2OhEBhgs7sojY89aND3iuNim2yy.jpg</fanart>
+<info>Quando um empresário educado descobre que sua identidade foi roubada, ele pega a estrada na tentativa de frustrar o ladrão - uma viagem que o coloca no caminho de uma mulher de aparência enganosamente inofensiva.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Até o Fim[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WMEgVZGFOBxInuDuOo79dm0R6ohJVbrI/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l7Nlu47q5HHWUcbIN0SiPinjcg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fqIhH1IbRp1qRECI8dJcmnxNnkY.jpg</fanart>
+<info>Um navegador experiente (Robert Redford) está viajando pelo Oceano Pacífico, quando uma colisão com um contâiner leva à destruição parcial do veleiro. Ele consegue remendar o casco, mas terá a difícil tarefa de resistir às tormentas e aos tubarões para sobreviver, além de contar apenas com mapas e com as correntes marítimas para chegar ao seu destino.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Coração de Dragão 3: A Maldição do Feiticeiro[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18mPQW2gLCQ0k9wnbcYc-fIPpIHOWVH-U/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTUzMjkxNzk3NF5BMl5BanBnXkFtZTgwOTE1MzYyNDE@._V1_SY1000_CR0,0,716,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYzZkMWRjMzEtZmRlMy00M2NlLTg2MjYtOWE5Mjk0YWJkMzIwXkEyXkFqcGdeQXVyNzExOTY5MzU@._V1_.jpg</fanart>
+<info>Quando o aspirante a cavaleiro Gareth procura um cometa caído que contém rumores de ouro, ele fica chocado ao encontrar o dragão Drago. Depois que Drago salva a vida de Gareth, os dois se tornam intrinsecamente ligados e devem trabalhar juntos para derrotar um feiticeiro maligno e impedir seu reinado de terror. Ao longo do caminho, Gareth aprende o verdadeiro significado de ser um cavaleiro nesta fantasia de ação e aventura para as idades.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Sem Tempo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CQB2OgTCgkcjjS17SrOXfMu3I8DYkK56/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/kx2YVkcsnTnmF9XGTAj2NqEcHFG.jpg</fanart>
+<info>Em um futuro não muito distante, o gene do envelhecimento foi desativado. Para evitar a superpopulação, o tempo se tornou a moeda e a maneira como as pessoas pagam pelos luxos e necessidades. Os ricos podem viver para sempre, enquanto os demais tentam negociar sua imortalidade. Um jovem pobre que ganha uma fortuna, embora seja tarde demais para ajudar a mãe a morrer. Ele acaba fugindo de uma força policial corrupta conhecida como "guardiões do tempo".</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Velozes Como um Raio... Que os Parta![/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t4atFzTSzLuzPS4QPeEKI9M36inz47i9/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjM3MjQxNjkxM15BMl5BanBnXkFtZTgwMDIyMTA0NDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/pwqfrqNkE4UJQqGdBc5qFUC6w9V.jpg</fanart>
+<info>O policial disfarçado Lucas White se junta à quadrilha de corredores de rua ilegais de Vin Serento. Eles são rápidos, furiosos e planejam dobrar o chefão do crime de Los Angeles, Juan Carlos de la Sol, que esconde seu dinheiro em um Taco Bell no centro. O plano ultrajante da quadrilha é tão ousado quanto ridículo e os verá rebocando todo o maldito restaurante, a velocidades loucas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Resgate do Soldado Ryan[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ejmLpVxIXwFrovSCAAnRHw4yVKseBNtc/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMzk0MDYzYmUtM2FkYy00YTc3LWFhYjUtNTQzODMyYjE4YzQ4XkEyXkFqcGdeQXVyNjQ2NDA2ODM@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<info>Enquanto tropas americanas invadem as praias da Normandia, três irmãos estão mortos no campo de batalha, com um quarto preso atrás das linhas inimigas. O capitão da guarda florestal John Miller e sete homens têm a tarefa de penetrar em território controlado pelos alemães e levar o menino para casa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Tyler Rake: Operação de Resgate[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tbTsqUWn8D7xAavCiGucZvemaaipQ8NG/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxahunlqvMPWzUBd1XSRsGawdS9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg</fanart>
+<info>Tyler Rake, um destemido mercenário que oferece seus serviços no mercado negro, embarca em uma missão perigosa quando é contratado para resgatar o filho sequestrado de um criminoso de Mumbai…</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Capitão América: O Soldado do Inverno[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/148_sb-lhZ5ufGlPZ5pPriIlbxe7bH87V/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hhwfBpzSDEiSFfCx6sr9zK4hPNw.jpg</fanart>
+<info>Após os eventos cataclísmicos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, vive em silêncio em Washington, DC, e tenta se adaptar ao mundo moderno. Mas quando um colega da SHIELD é atacado, Steve se envolve em uma rede de intrigas que ameaça colocar o mundo em risco. Juntando forças com a Viúva Negra, o Capitão América luta para expor a conspiração cada vez maior enquanto luta contra assassinos profissionais enviados para silenciá-lo a cada momento. Quando todo o escopo da trama vilã é revelado, o Capitão América e a Viúva Negra recrutam a ajuda de um novo aliado, o Falcão. No entanto, eles logo se vêem contra um inimigo inesperado e formidável - o Soldado Invernal.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Captain Marvel (Capitão Marvel)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y-KUTdyUHqRE1us9x6BwFkOOAtrJKY6-/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nBS1vONGYrsL2C68C2oDQ3eKJR1.jpg</fanart>
+<info>A história segue Carol Danvers quando ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, o Capitão Marvel é uma aventura totalmente nova de um período inédito na história do Universo Cinematográfico da Marvel.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Christopher Robin[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U0GvKUysrzvnTc320mXurvO2DHGLMRvV/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTlGXx2A1JwdaLvLQXmb0lYBdDt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yZZQL8Jy6IYvJjJ5uc8ugR3kbjB.jpg</fanart>
+<info>Christopher Robin, o garoto que teve inúmeras aventuras no Bosque dos Cem Acres, cresceu e se perdeu. Agora cabe a seus animais empalhados e adoráveis, Winnie The Pooh, Tigger, Piglet e o resto da turma, reacender a amizade deles e lembrá-lo de dias intermináveis ??de maravilhas e fingimentos infantis, quando não fazer nada era o mesmo melhor alguma coisa.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Bairro 13[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xTtc5UGpHN57OD7KDrvKVhrbcKPCyquW/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTI0ODQ2MzY5NF5BMl5BanBnXkFtZTgwNTcxNzQxMTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8CtTl3cN5oF4mONXWCCP0LgcHQr.jpg</fanart>
+<info>Em Detroit distópica, grandes casas que antes abrigavam os ricos agora são o lar dos criminosos mais perigosos da cidade. Ao redor da área há uma parede gigante para manter o resto de Detroit seguro. Para o policial disfarçado Damien Collier, todos os dias é uma batalha contra a corrupção, enquanto ele luta para levar o assassino de seu pai, Tremaine, à justiça. Enquanto isso, Damien e um ex-presidiário chamado Lino trabalham juntos para salvar a cidade de um plano para destruí-la.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Candy[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qQxgEXGMVHiHSvw8a_IeB9VMzwdt8Yop/view?usp=drivesdk</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTgwNzliODYtOWI2Yy00OTFhLWExZjgtNTdjNjMzOTAyN2JmXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w220_and_h330_face/8XfecYYO6acqQ2Eu6Awd3I5eV6h.jpg</fanart>
+<info>Um poeta se apaixona por um estudante de arte que gravita seu estilo de vida boêmio - e seu amor à heroína. Apegados um ao outro quanto à droga, seu relacionamento alterna entre estados de esquecimento, autodestruição e desespero.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Chappie[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BNd3Owlw46YELhqGCsDzBUXXyTyAMZ4K/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/18IydtBgq8aJZpbP6NxCAGjHhae.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6qjK7kJBodduKkuSP9AU8OiEzNS.jpg</fanart>
+<info>Toda criança vem ao mundo cheia de promessas, e nada mais que Chappie: ela é talentosa, especial, um prodígio. Como qualquer criança, Chappie ficará sob a influência de seu entorno - alguns bons, outros ruins - e ele confiará em seu coração e alma para encontrar seu caminho no mundo e se tornar seu próprio homem. Mas há uma coisa que torna Chappie diferente de qualquer outra pessoa: ele é um robô.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Vingadores: Guerra do Infinito[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zorUoIzTDqWvGxH4eBdYJKy1dzztlSEJ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg</fanart>
+<info>Enquanto os Vingadores e seus aliados continuam protegendo o mundo de ameaças grandes demais para qualquer herói, um novo perigo surgiu das sombras cósmicas: Thanos. Déspota da infâmia intergaláctica, seu objetivo é coletar todas as seis Pedras do Infinito, artefatos de poder inimaginável, e usá-las para infligir sua vontade distorcida a toda a realidade. Tudo o que os Vingadores lutaram levou até esse momento - o destino da Terra e da própria existência nunca foi tão incerto.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Sobrevivente[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pcvr6vXO1KKGf-SqhWokp8vTlssZVrnO/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtUUGoGDpiYtZdqpINVqHNO3hR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/yzBEwLL9lxV2b4SNiXcfBy43EMc.jpg</fanart>
+<info>Uma oficial de serviços estrangeiros em Londres tenta impedir um ataque terrorista que deve atingir Nova York, mas é forçada a fugir quando é acusada de crimes que não cometeu.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ne gledaj mi u pijat[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r_hbYgboyeUf6VV3sV0IDnh3CXuqb5HQ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H5GCLtuAhgpptAV0djAwGcEEDt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1nMces6XTSqlwTmj6kusgZtMv4Q.jpg</fanart>
+<info>A vida de Marijana gira em torno da família, queira ela ou não. Eles vivem um em cima do outro em um apartamento minúsculo, enlouquecendo um ao outro. Então, seu pai controlador tem um derrame e fica completamente acamado, e Marijana toma seu lugar como chefe do clã. Logo, ela está trabalhando em dois empregos para manter tudo à tona, enquanto sua mãe e seu irmão deficiente fazem o possível para afundar o navio. Levada ao limite, Marijana encontra conforto no sexo deprimente com estranhos aleatórios; e esse gosto de liberdade a deixa querendo mais. Mas agora que ela finalmente encontrou a liberdade, o que ela pretende fazer com isso?</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]O Céu Existe Mesmo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IJZgyXUkyCdtJ4NTpBZ6sFPdGeO8UUy6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/63EnKIUOWnBIR9Ox2WPW22TQ0Kn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/11eRKCIIkRnGseeIlWlAqkbiHKl.jpg</fanart>
+<info>A história verdadeira do filho de 4 anos de um pastor de uma cidade pequena que, durante uma cirurgia de emergência, foge da consciência e entra no céu. Quando ele acorda, ele conta suas experiências do outro lado.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Insurgente[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MxX_RwEW7sNsQG7L2g3V71r5HQSPHcK6/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0n5HFYFcmzy97uiyNDfE9hwEIZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg</fanart>
+<info>Beatrice Prior deve enfrentar seus demônios interiores e continuar sua luta contra uma aliança poderosa que ameaça destruir sua sociedade.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Coração Valente[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tADcprzyyupVfmhxNUG_JFRJcaKUDY8W/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or1gBugydmjToAEq7OZY0owwFk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xRooZvuQPIc1zdIZqJM1oYT67HD.jpg</fanart>
+<info>Enfurecido com o massacre de Murron, sua nova noiva e amor de infância, o guerreiro escocês William Wallace mata um pelotão dos soldados locais do senhor inglês. Isso leva a aldeia a se revoltar e, eventualmente, o país inteiro se insurgir contra o domínio inglês.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Projecto Almanaque[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bs1MuDe0Gj0ZxxQHaTsW39FMu7CuDB18/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PeICmYcwEr2qrXROKCclGsdGXh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9WO1YGgDrKamuEmurOfrqZhZYrc.jpg</fanart>
+<info>Um grupo de adolescentes descobre planos secretos de uma máquina do tempo e constrói um. No entanto, as coisas começam a ficar fora de controle.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Insidious: Capítulo 3[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1818f3I1SlDnKQaoX73i8oXwzqxBUTE1T/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNV6qiQ34ymS9M4kTCilu0K0HKX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/r5cMwEIkkGs0jeNDAZCu9kClxMq.jpg</fanart>
+<info>Em eventos anteriores aos apresentados, Sean Brenner e a filha, Quinn, são aterrorizados por entidades misteriosas. A especialista em fenómenos paranormais Elise Rainier envolve-se no caso e procura uma forma de livrar a família da entidade que os assombra.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Insidious - Insidioso[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xaPP9fUOAqIceMIB0u1kh6rnV7e3Bbil/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F1lDYKeMJLVZF5aOEdg73xLxlg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bylGn5OC2h3BWfGLYFtIcxlYxLy.jpg</fanart>
+<info>A família Lambert, formada por Josh, Renai e os filhos, Dalton e Foster, acaba de se mudar para uma nova casa. Logo, uma das crianças entra em coma de forma inexplicável, o que faz os pais pensarem que a casa abriga algum tipo de espírito do mal. Mas logo descobrem que o problema não está na casa e sim no filho.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Blindado[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aE8KVsQdER8Kee6mSVwPS1egqBiwAfaQ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQrAXGkBy84FyGpWrY71ptqs7zD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/c8tpPQkwOncUgVdJt7lDLUID5ZU.jpg</fanart>
+<info>Uma equipe de oficiais de uma empresa de segurança de transporte blindada arrisca suas vidas quando embarca no último assalto contra sua própria empresa. Munidos de um plano aparentemente infalível, os homens planejam fugir com uma fortuna sem prejudicar ninguém. Mas quando uma testemunha inesperada interfere, o plano rapidamente se desfaz e todas as apostas são canceladas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Fragmentado[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Rm5t2yjO1GvY5-dxZ2mu-j-4z6Ziy9se/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztYvYWpSpFtzM2w5MwsmNzzQbJg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7fgF90gGZq3JyfwEdodBBa8tsDL.jpg</fanart>
+<info>"Fragmentado" (Split), acompanha Kevin, interpretado por James McAvoy, alguém diagnosticado com esquizofrenia e obrigado a lidar com 23 diferentes personalidades diferentes. Pior ainda, uma 24ª luta por emergir e promete ser a mais terrível de todas. A doença leva Kevin a raptar três raparigas adolescentes e a aprisioná-las na cave. Para conseguirem escapar, as jovens terão de o manipular. Mas, a qual das personalidades?</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]A Tempo e Horas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TNX_eiz6TAPbkelMTR1gkgEe_zYhATJ8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/87k5VNkBPaJlsmywTHnided5A0O.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m3aLhwjD4DkUYPR7eZ3tw0BBVah.jpg</fanart>
+<info>Downey é Peter Highman, um feliz (mas ansioso) homem que irá ser pai pela primeira vez, dentro de alguns dias. No entanto, nem tudo corre bem: Peter não consegue apanhar o vôo que parte de Atlanta, pelo que se vê obrigado a fazer a viagem de regresso a casa com um aspirante a actor, Ethan Tremblay. Contudo, aquilo que seria uma simples viagem de carro, torna-se numa sucessão de surpreendentes acontecimentos...</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Apocalypse Now[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GKPapFZSa_3epwRDaEkIhU_nf6Se9PXE/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qiHLbusfxv205yjRFxS1beYhiT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8viWxsL4lwmQZB8QHOCHwMvBGXd.jpg</fanart>
+<info>O capitão Willard tem como missão ir até ao Cambodja e assassinar o Coronel Kurtz que parece ter enlouquecido e criou o seu próprio exército na selva.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Abandoned[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xeHMtIxbg6Wu8wi59uLBT3z8Xpm2qGsP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3PbmDTWBkJaObIujMpbMw5KcaQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aRSk4nWAlSuabUTqtMO5tPpgYoD.jpg</fanart>
+<info>Em 1989, o trimarã Rose Noelle zarpou de Picton, na Nova Zelândia, com destino a Tonga com quatro tripulantes. Depois que uma onda estranha virou o iate, eles flutuaram por 119 dias antes de pousar na Ilha da Grande Barreira.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Mulan[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LjWsqDGPQa49MxcUFIhlYih2YipheyjA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/72I82eKXCadZWEYygV9GkJOQNEq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zzWGRw277MNoCs3zhyG3YmYQsXv.jpg</fanart>
+<info>Quando o imperador da China emite um decreto de que um homem por família deve servir no Exército Imperial para defender o país dos invasores do norte, Hua Mulan, a filha mais velha de um honrado guerreiro, intervém para tomar o lugar de seu pai doente. Disfarçada como um homem, Hua Jun, ela está sempre a ser testada e deve tirar partido da sua força interior e abraçar o seu verdadeiro potencial. É uma jornada épica que irá transformá-la numa guerreira honrada e ganhar o respeito de uma nação agradecida... e um pai orgulhoso.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Penance Lane[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q2bp-giUEiNlKgId_Y6BMQ0d3FdzYffR/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qibpxhEf3VetPJqJbyTirYoJ1A.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bxKzLK4xHBVk3a8mwtlGFkWaQbc.jpg</fanart>
+<info>Um criminoso endurecido recém-saído da junta consegue um emprego como faz-tudo em uma casa dilapidada; mas os horrores retorcidos que ele encontra dentro são suficientes para mandar qualquer um correndo. Então, por que ele fica? E por que tantas pessoas são atraídas para Penance Lane?</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Pound of Flesh[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jRDwzjN_tQfzVg2yU8bAgwN2jD5rEu5t/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb5NWDhW3dhw5AAK4djY2id7To9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dZQuv6J1NtT9rUo7TuHHQJrGxQY.jpg</fanart>
+<info>“Tentativa heróica de um homem (Jean Claude Van Damme) de ajudar uma mulher em perigo, acaba com ele acordando no dia seguinte sem um rim e tramando sua vingança.” Bem, bandidos não deveriam ter levado seu rim: ele vai vingar-se e aposto que terão uma morte horrível! Não mexam com Van Damme!</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Procurado[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Fpje1y_S7EaKhfhD2Guezk_ZiFt5gkij/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/333wOuNUXcxIFDGZogj8nuyXoBH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fd4myHO09mPyLIJsILFbuMW5zTV.jpg</fanart>
+<info>Wesley Gibson tinha uma vida medíocre: um trabalho aborrecido, uma chefe prepotente, um apartamento medonho, uma namorada infiel, um melhor amigo hipócrita... até se cruzar com uma bela e mortífera mulher que lhe diz que o seu verdadeiro pai era um infalível assassino que fora morto recentemente, à traição. Agora, a Fraternidade espera que Wesley se junte a ela e receba treino intensivo. Só assim se poderá tornar num assassino, seguir as pisadas do seu pai e vingar a sua morte. Enquanto hesita entre um heroísmo recém-descoberto e a sede de vingança, Wesley vai aprender algo que ninguém lhe podia ensinar: só ele controla o seu destino.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Embriagado de Amor[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oMuL8ZBhQ-jJHoBFoUIRXc6Eg3ZT8ntM/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4e9YSr2L662t2y3feEAEKjpIzo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zJtHWpyuLFHbmB98aSM5AwFhZey.jpg</fanart>
+<info>Barry Egan (Adam Sandler) é um pequeno empresário que passa por dificuldades financeiras. Tendo sido criado ao lado de 7 irmãs, a infância de Barry foi difícil e repleta de abusos, deixando-o com medo de amar. Até que entra em sua vida Lena Leonard (Emily Watson), uma misteriosa mulher por quem Barry se apaixona. Mas para ficar ao lado de sua amada Barry precisará viajar para o Havaí e enfrentar uma quadrilha de mafiosos.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Ted 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZwJPo4-OtVtcHEtwIf-_D4EI6rGCoMp5/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kblxjPVIXaIQ7iHo5b2LaBOEllD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/blBOGMKU4cJDBllETLcWxz5xHog.jpg</fanart>
+<info>Casado recentemente com Tami-Lynn, Ted quer constituir família e ter filhos. O problema será provar em tribunal que é qualificado para ser pai. Mais que isso: que é mesmo uma pessoa e não um mero urso de peluche.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Insidious: Capítulo 2[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GhYvethfypl2_V2BqHnRVVQ1J0phaW9s/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/97wRCvUzhug7re8XUB7aTOrcGPD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uwivrZ7vIeP0HNkE5gKavzhZNpG.jpg</fanart>
+<info>A família Lambert volta a lidar com uma série de problemas sobrenaturais e precisa de enfrentar as consequências dos eventos do primeiro filme. Enquanto a polícia investiga a residência, eles são abrigados por Lorraine Lambert, mas até no novo lar Josh tem um comportamento irreconhecível e Renai é assombrada por uma estranha figura feminina.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Pequena Grande Vida[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bX8a-tM9_OwvoxkRdWVOzkE_HjmjR-Cr/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8P3Z0UEvx03Iqh8yHD54Tr16Dcv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5RzW9i3vFsXCPLqYwgNJV1QuSgk.jpg</fanart>
+<info>Um grupo de cientistas noruegueses descobre uma forma de encolher seres humanos e assim perspetivar uma mudança global em 200 anos que poria fim à ameaça de extinção de recursos. É assim que Paul Safranek e a sua esposa Audrey decidem abandonar as suas vidas stressantes, em Omaha, para se tornarem mais pequenos e mudarem para uma comunidade encolhida – uma escolha que irá mudar as suas vidas.</info>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
