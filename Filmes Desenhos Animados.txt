@@ -5,7 +5,7 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nQlPyena5pSZrrbfBhkpdNrTpvXYd9we/view$$lsname=[COLOR orange]A Idade do Gelo 3: Despertar dos Dinossauros[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10ysKgIRpvgZC58TwDffertfvY_m2AD75/view$$lsname=[COLOR orange]A Idade do Gelo 4: Deriva Continental[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y3Dex32fU0Jy0s1VbOBB2ljT3as1X5Bk/view$$lsname=[COLOR orange]A Idade do Gelo 5: O Big Bang[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nfnULfT45cj3UobWms6ZSV-pwuEEEu62/view$$lsname=[COLOR orange]A Idade Do Gelo A Grande CaÁa Ao Ovo[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nfnULfT45cj3UobWms6ZSV-pwuEEEu62/view$$lsname=[COLOR orange]A Idade Do Gelo A Grande Ca√ßa Ao Ovo[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLfFpUgyjpYLx5gRIHuQMwjfBm6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cC3nr0KkXHPChZnFMBvFPdAYNyV.jpg</fanart>
 <info>Aqui Dentro Tens Os Filmes Todos</info>
@@ -21,11 +21,11 @@
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Lenda dos Guardiıes[/COLOR]</title>
+<title>[COLOR lime]Lenda dos Guardi√µes[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i2yKHB2Tj_B87NllDIdpfDzsQ4ilxTt7/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nCCqgCHdxuptVlFWbQbIJey6ro.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qV8qsAYLt2XFggOK98Da0NfuQUo.jpg</fanart>
-<info>Soren, uma jovem coruja de celeiro, È sequestrada por corujas de St. Aggie, ostensivamente um orfanato, onde as corujas s„o submetidas a uma lavagem cerebral para se tornarem soldados. Ele e seus novos amigos escapam para a ilha de Ga'Hoole, para ajudar suas nobres e s·bias corujas que combatem o exÈrcito que est· sendo criado pelos governantes perversos de St. Aggie. O filme È baseado nos trÍs primeiros livros da sÈrie.</info>
+<info>Soren, uma jovem coruja de celeiro, √© sequestrada por corujas de St. Aggie, ostensivamente um orfanato, onde as corujas s√£o submetidas a uma lavagem cerebral para se tornarem soldados. Ele e seus novos amigos escapam para a ilha de Ga'Hoole, para ajudar suas nobres e s√°bias corujas que combatem o ex√©rcito que est√° sendo criado pelos governantes perversos de St. Aggie. O filme √© baseado nos tr√™s primeiros livros da s√©rie.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -33,7 +33,7 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vWTimDuaBqXPtj5CiwTN64658rsgHY_K/view?usp=sharing?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDkT7l3Q50KTwhdKB8urNFJqAbP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDkT7l3Q50KTwhdKB8urNFJqAbP.jpg</fanart>
-<info>TrÍs meninos visitam um museu e descobrem uma tigela de ouro - parte de um lend·rio tesouro asteca. Enquanto olham para o tesouro, eles revelam o segredo de viajar no tempo antes que percebam que est„o a bordo de um navio pirata no sÈculo XVIII. Eles conhecem a bela pirata Anne Bonnie e a malvada e cruel pirata do Capit„o do Caribe, Barba Negra. Eles devem ajudar Anne Bonnie, manter Tortuga livre e das garras do Capit„o Barba Negra, salvar a ilha, Bonnie, e encontrar o caminho de volta para casa.</info>
+<info>Tr√™s meninos visitam um museu e descobrem uma tigela de ouro - parte de um lend√°rio tesouro asteca. Enquanto olham para o tesouro, eles revelam o segredo de viajar no tempo antes que percebam que est√£o a bordo de um navio pirata no s√©culo XVIII. Eles conhecem a bela pirata Anne Bonnie e a malvada e cruel pirata do Capit√£o do Caribe, Barba Negra. Eles devem ajudar Anne Bonnie, manter Tortuga livre e das garras do Capit√£o Barba Negra, salvar a ilha, Bonnie, e encontrar o caminho de volta para casa.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -41,7 +41,7 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lu6ml3B1DUafz3pw9WrOCnOT2KDhDG3K/view?usp=sharing?usp=sharing?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDkT7l3Q50KTwhdKB8urNFJqAbP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aiRESjcG3Vi3W9WAGgMJSjGX1HQ.jpg</fanart>
-<info>Um rapaz de 12 anos acredita que h· algo de estranho na casa de um velho e rabugento vizinho. Na vÈspera do Dia das Bruxas, ele e um amigo decidem investigar e tirar a limpo todas as suas suspeitas.</info>
+<info>Um rapaz de 12 anos acredita que h√° algo de estranho na casa de um velho e rabugento vizinho. Na v√©spera do Dia das Bruxas, ele e um amigo decidem investigar e tirar a limpo todas as suas suspeitas.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -49,92 +49,92 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HQfZwhL0rHG1-O3CO13iAuaF9oAloaSP/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BBhQumi9j9TngO9wxy9SJa3iUW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jTiAkStJlMhxv7OdcIMLIywoyWg.jpg</fanart>
-<info>A Dama e o Vagabundo (Lady and the Tramp) È um filme de romance americano, dirigido por Charlie Bean, a partir de um roteiro de Andrew Bujalski e Kari Granlund. O filme È uma adaptaÁ„o em live-action do filme de animaÁ„o de Walt Disney, de 1955, baseado na histÛria da revista Cosmopolitan de "Happy Dan, The Cynical Dog", de Ward Greene. O romance conta a histÛria de um cocker spaniel americano de classe mÈdia alta, chamado Dama, (Tessa Thompson), que conhece um Schnauzer vira-lata do centro da cidade chamado Vagabundo, (Justin Theroux), e os dois embarcam em muitos encontros rom‚nticos e aventuras, incluindo aquela cena icÛnica de beijo de esparguete.</info>
+<info>A Dama e o Vagabundo (Lady and the Tramp) √© um filme de romance americano, dirigido por Charlie Bean, a partir de um roteiro de Andrew Bujalski e Kari Granlund. O filme √© uma adapta√ß√£o em live-action do filme de anima√ß√£o de Walt Disney, de 1955, baseado na hist√≥ria da revista Cosmopolitan de "Happy Dan, The Cynical Dog", de Ward Greene. O romance conta a hist√≥ria de um cocker spaniel americano de classe m√©dia alta, chamado Dama, (Tessa Thompson), que conhece um Schnauzer vira-lata do centro da cidade chamado Vagabundo, (Justin Theroux), e os dois embarcam em muitos encontros rom√¢nticos e aventuras, incluindo aquela cena ic√≥nica de beijo de esparguete.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]A Estrela de Laura[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZTN5zs058OBxGOoldWaQpOkAy-lJH1Pp/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex8Kp4NuMpxwcu73Mdi8VedXc0k.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rZv3hjYs9ATI1LM4FDM1th5vKEz.jpg</fanart>
-<info>Laura vÍ uma estrela cadente caindo no ch„o e a encontra em um parque, caÌda no ch„o e com uma ponta quebrada. A estrela È um ser vivo e Laura a leva para casa para recolocar sua ponta com um curativo. A pequena estrela tem poderes especiais e pode fazer as pessoas voar ou dar vida a objetos inanimados. Mas quanto mais ela fica na Terra, mais fraca ela se torna e suas cores desaparecem e seus poderes comeÁam a falhar. Laura deve encontrar uma maneira de enviar a pequena estrela de volta ao espaÁo sideral.</info>
+<info>Laura v√™ uma estrela cadente caindo no ch√£o e a encontra em um parque, ca√≠da no ch√£o e com uma ponta quebrada. A estrela √© um ser vivo e Laura a leva para casa para recolocar sua ponta com um curativo. A pequena estrela tem poderes especiais e pode fazer as pessoas voar ou dar vida a objetos inanimados. Mas quanto mais ela fica na Terra, mais fraca ela se torna e suas cores desaparecem e seus poderes come√ßam a falhar. Laura deve encontrar uma maneira de enviar a pequena estrela de volta ao espa√ßo sideral.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]A Fuga das Galinhas[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h36_4iLqjUi7yQe6Bnz5xV0NJStXdUSW/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5coQXIl5NnJznMXcmrqgyxPO5Qn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gywyBYFCDYhmwDh4n1B0WCaEh23.jpg</fanart>
-<info>Na quinta de criaÁ„o de galinhas do casal Tweedy, situada algures em Inglaterra, a corajosa e persistente galinha Ginger procura conduzir as restantes companheiras de cativeiro a uma fuga organizada. Todavia, as tentativas de evas„o resultam sempre em fracasso atÈ surgir na quinta um galo americano e bem-falante chamado Rocky.</info>
+<info>Na quinta de cria√ß√£o de galinhas do casal Tweedy, situada algures em Inglaterra, a corajosa e persistente galinha Ginger procura conduzir as restantes companheiras de cativeiro a uma fuga organizada. Todavia, as tentativas de evas√£o resultam sempre em fracasso at√© surgir na quinta um galo americano e bem-falante chamado Rocky.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]A HistÛria de uma Abelha[/COLOR]</title>
+<title>[COLOR lime]A Hist√≥ria de uma Abelha[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SGAoLEsspGK_IYTUmWDHEep6X1KpPVUk/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC0f3uld9Ea51QzlLleSFxWy2Hw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/psAQQBTJvSs4kaShupcn9IoHXc0.jpg</fanart>
-<info>Barry B. Benson (Jerry Seinfeld) formou-se recentemente e sonha com um emprego na Honex, onde poder· produzir mel. Desta forma ele se aventura fora da colmÈia, onde descobre um mundo atÈ ent„o inteiramente desconhecido. … quando conhece Vanessa Bloome (RenÈe Zellweger), uma alegre florista de Manhattan com quem quebra as regras das abelhas e passa a conversar regularmente. Logo eles se tornam amigos, o que faz com que Barry conheÁa melhor os humanos. PorÈm Barry descobre que qualquer pessoa pode comprar mel nos supermercados, o que o deixa profundamente irritado por considerar que est„o roubando a produÁ„o das abelhas. … quando ele decide processar os humanos, na intenÁ„o de corrigir esta injustiÁa.</info>
+<info>Barry B. Benson (Jerry Seinfeld) formou-se recentemente e sonha com um emprego na Honex, onde poder√° produzir mel. Desta forma ele se aventura fora da colm√©ia, onde descobre um mundo at√© ent√£o inteiramente desconhecido. √â quando conhece Vanessa Bloome (Ren√©e Zellweger), uma alegre florista de Manhattan com quem quebra as regras das abelhas e passa a conversar regularmente. Logo eles se tornam amigos, o que faz com que Barry conhe√ßa melhor os humanos. Por√©m Barry descobre que qualquer pessoa pode comprar mel nos supermercados, o que o deixa profundamente irritado por considerar que est√£o roubando a produ√ß√£o das abelhas. √â quando ele decide processar os humanos, na inten√ß√£o de corrigir esta injusti√ßa.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]A Ilha do Impy[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Qj9A_dQSrGUBmRDxF7aFcX2BMLunpGN/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCQC4HiVJwatq3JGFPm9NQK3yWX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5qDWPNID03PTMxmot2QcEivDB0j.jpg</fanart>
-<info>Em uma pequena ilha dos mares do Sul, um grupo de animais ñ um ping¸im, um lagarto, um p·ssaro e um elefante marinho ñ tem suas vidas idÌlicas interrompidas por Impy, um safado e am·vel bebÍ-dinossauro</info>
+<info>Em uma pequena ilha dos mares do Sul, um grupo de animais ¬ñ um ping√ºim, um lagarto, um p√°ssaro e um elefante marinho ¬ñ tem suas vidas id√≠licas interrompidas por Impy, um safado e am√°vel beb√™-dinossauro</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]The Larva Island Movie[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tYRCDM51OHbHLc692JmohLIFM-z8nqg3/view?usp=sharing?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hR2Hes7Y75iFpUxIFfloDf21Kyr.jpg</fanart>
-<info>De volta a casa, Chuck relata as travessuras de seus amigos larvas Red e Yellow a um repÛrter cÈtico nesta sequÍncia do filme de sucesso.</info>
+<info>De volta a casa, Chuck relata as travessuras de seus amigos larvas Red e Yellow a um rep√≥rter c√©tico nesta sequ√™ncia do filme de sucesso.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]A Lenda de Despereaux[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T9DrZ6Sxxe6axGi1vZmLgTmbJ392uVpn/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bneO9Ar9ZgWm5kRbqjsuR2GuxMg.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sKEp4GBfG13YCMDtf2Q4JgTF7az.jpg</fanart>
-<info>Um filme de Natal para toda a famÌlia. A histÛria de Despereaux, um pequeno rato apaixonado por m˙sica, histÛrias e uma Princesa chamada Pea.</info>
+<info>Um filme de Natal para toda a fam√≠lia. A hist√≥ria de Despereaux, um pequeno rato apaixonado por m√∫sica, hist√≥rias e uma Princesa chamada Pea.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Wallace & Gromit: A MaldiÁ„o do Coelhomem[/COLOR]</title>
+<title>[COLOR lime]Wallace & Gromit: A Maldi√ß√£o do Coelhomem[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-9ic2VGi1DKrbxZIIWJsPAPQ8Aw-5Zrr/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o06EMgTpbObtQabzKCHwU1QS0Y6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vOfQUcVF87V2fI84QjDSnye7FaW.jpg</fanart>
-<info>O bairro onde mora o inventor Wallace e o seu fiel c„o Gromit est· em polvorosa com a proximidade do concurso anual de legumes gigantes, organizado pela bela Lady Tottington. Para proteger as plantas, Wallace inventa um equipamento que captura coelhos. Mas quando surge uma misteriosa fera vegetariana que destrÛi as plantaÁıes ‡ noite, a honra de Wallace passa a estar em jogo.</info>
+<info>O bairro onde mora o inventor Wallace e o seu fiel c√£o Gromit est√° em polvorosa com a proximidade do concurso anual de legumes gigantes, organizado pela bela Lady Tottington. Para proteger as plantas, Wallace inventa um equipamento que captura coelhos. Mas quando surge uma misteriosa fera vegetariana que destr√≥i as planta√ß√µes √† noite, a honra de Wallace passa a estar em jogo.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]A Origem dos Guardiıes[/COLOR]</title>
+<title>[COLOR lime]A Origem dos Guardi√µes[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1isx5ImDaWGK9j8bHaZVP4fTEWVTePmL-/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLiI13YstciHqiuHCkD786wpIYn.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/puFbbiJxY0rjJtcvsTeSCQHNchR.jpg</fanart>
-<info>Uma aventura Èpica que conta a histÛria de um grupo de herÛis, cada um com habilidades extraordin·rias. Quando um terrÌvel espÌrito conhecido como Pitch, tenta deitar as garras ao nosso mundo, os imortais guardiıes tÍm de unir forÁas pela primeira vez para proteger os desejos, as crenÁas e a imaginaÁ„o das crianÁas de todo o planeta.</info>
+<info>Uma aventura √©pica que conta a hist√≥ria de um grupo de her√≥is, cada um com habilidades extraordin√°rias. Quando um terr√≠vel esp√≠rito conhecido como Pitch, tenta deitar as garras ao nosso mundo, os imortais guardi√µes t√™m de unir for√ßas pela primeira vez para proteger os desejos, as cren√ßas e a imagina√ß√£o das crian√ßas de todo o planeta.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]A Ovelha ChonÈ - O Filme[/COLOR]</title>
+<title>[COLOR lime]A Ovelha Chon√© - O Filme[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hf12qNmXTqu0FNKNSPZh0mY--ZT6Is-W/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/I7LCUjD6X7ijWwIsIOjgdIMtoF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8wYtRmPKCtY5hg2isGcrkABWeQP.jpg</fanart>
-<info>ChonÈ, uma ovelha esperta e matreira, vive com o seu rebanho na quinta Vale Verdejante sob a supervis„o do Agricultor e de Bitzer, um c„o pastor. Apesar dos esforÁos da Ovelha ChonÈ, a vida na quinta caiu numa rotina enfadonha e ela conjura um plano para conseguir um dia de folga. Mas o plano descontrola-se e faz com que o Agricultor acabe longe da quinta. Com a ajuda do rebanho, ChonÈ tem de deixar a quinta pela primeira vez e ir atÈ ‡ Grande Cidade, para salvar o AgricultorÖ e falhar n„o È uma opÁ„o.</info>
+<info>Chon√©, uma ovelha esperta e matreira, vive com o seu rebanho na quinta Vale Verdejante sob a supervis√£o do Agricultor e de Bitzer, um c√£o pastor. Apesar dos esfor√ßos da Ovelha Chon√©, a vida na quinta caiu numa rotina enfadonha e ela conjura um plano para conseguir um dia de folga. Mas o plano descontrola-se e faz com que o Agricultor acabe longe da quinta. Com a ajuda do rebanho, Chon√© tem de deixar a quinta pela primeira vez e ir at√© √† Grande Cidade, para salvar o Agricultor¬Ö e falhar n√£o √© uma op√ß√£o.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]¿ Procura de Nemo[/COLOR]</title>
+<title>[COLOR lime]√Ä Procura de Nemo[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hMZqjXfRp51zOHzzuDppby2Geq5hF5ou/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/djbivExXSZb0sTO8uYaaQC5vMRM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jpnwNUmph2nFzLYXhD91Xe8DYhd.jpg</fanart>
-<info>Nemo, um jovem aventureiro peixe-palhaÁo, È inesperadamente levado de sua casa na Grande Barreira de Corais para o aqu·rio de um dentista. Depende do pai preocupante Marlin e de um peixe amig·vel, mas esquecido, Dory para levar Nemo para casa - conhecendo tubarıes vegetarianos, tartarugas surfistas, ·gua-viva hipnÛtica, gaivotas famintas e muito mais pelo caminho.</info>
+<info>Nemo, um jovem aventureiro peixe-palha√ßo, √© inesperadamente levado de sua casa na Grande Barreira de Corais para o aqu√°rio de um dentista. Depende do pai preocupante Marlin e de um peixe amig√°vel, mas esquecido, Dory para levar Nemo para casa - conhecendo tubar√µes vegetarianos, tartarugas surfistas, √°gua-viva hipn√≥tica, gaivotas famintas e muito mais pelo caminho.</info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]A Princesa e o Drag„o[/COLOR]</title>
+<title>[COLOR lime]A Princesa e o Drag√£o[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E9TUZCHOJSGxm6yzexxaPnwjZNlfH84K/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgxCWbhjld2NC3ojXSt1ZsnhOp7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nx2ZfF5y42cnxuNBDaO2nL2uKpX.jpg</fanart>
-<info>Em seu 7∫ anivers·rio, a princesa B·rbara descobre um livro m·gico que a transporta para o PaÌs das Maravilhas, um lugar encantado repleto de dragıes e criaturas fant·sticas.</info>
+<info>Em seu 7¬∫ anivers√°rio, a princesa B√°rbara descobre um livro m√°gico que a transporta para o Pa√≠s das Maravilhas, um lugar encantado repleto de drag√µes e criaturas fant√°sticas.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]A Princesa e o Sapo[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12sSqNRLrmbAc0A4Zco87qkHjVR0pfDcO/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6sBKORoLi26V5aQCdGQB33LVnC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg</fanart>
-<info>"A Princesa e o Sapo" È uma mutaÁ„o moderna de um conto cl·ssico, que conta com uma linda rapariga chamada Tiana (Anika Noni Rose), um prÌncipe sapo que tenta desesperadamente voltar a ser humano e um beijo fatÌdico que os levar· numa hilariante aventura atravÈs dos fascinantes riachos do Louisiana.</info>
+<info>"A Princesa e o Sapo" √© uma muta√ß√£o moderna de um conto cl√°ssico, que conta com uma linda rapariga chamada Tiana (Anika Noni Rose), um pr√≠ncipe sapo que tenta desesperadamente voltar a ser humano e um beijo fat√≠dico que os levar√° numa hilariante aventura atrav√©s dos fascinantes riachos do Louisiana.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]A Rainha Das Andorinhas[/COLOR]</title>
@@ -144,7 +144,7 @@
 <info></info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]A Revolta dos P·ssaros[/COLOR]</title>
+<title>[COLOR lime]A Revolta dos P√°ssaros[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18Z-N_RKen1c2eg7ahfB-iJ15ZDDIuKBf/view?usp=drivesdk</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjM1ODk1NzE4Ml5BMl5BanBnXkFtZTgwMjc0NTAzMTE@._V1_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BZThlOWNmOWMtNDQzMS00MTBjLWFlMmMtOWJjMmU3NmNiNmVmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg</fanart>
@@ -155,17 +155,17 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qnS-vOwUp8mRas2yKZhyR2IKAOEC5JMK/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LKNQf1JhFqo6owBFHOuhCjO0I.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7zdUMCOlxPiOT8kOcCgr40jXlLI.jpg</fanart>
-<info>Numa antiquada quinta familiar, um bando gigante de perus vive uma vida calma, complacente e repleta de milho. SÛ se preocupam com a hora de serem alimentados e em descansarem ao Sol com o agricultor, que juram que os levar· para o "ParaÌso do perus". Todos, menos Reggie (Pedro Borges), um peru particularmente esperto, mas rejeitado pelo bando devido ‡ sua opini„o negativa sobre o agricultor e desinteresse pela existÍncia mundana e anafada dos perus.</info>
+<info>Numa antiquada quinta familiar, um bando gigante de perus vive uma vida calma, complacente e repleta de milho. S√≥ se preocupam com a hora de serem alimentados e em descansarem ao Sol com o agricultor, que juram que os levar√° para o "Para√≠so do perus". Todos, menos Reggie (Pedro Borges), um peru particularmente esperto, mas rejeitado pelo bando devido √† sua opini√£o negativa sobre o agricultor e desinteresse pela exist√™ncia mundana e anafada dos perus.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Abomin·vel[/COLOR]</title>
+<title>[COLOR lime]Abomin√°vel[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18VBRXLajw6EnFmRkswZ6cjr5C8VCWg7b/view?usp=sharing?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/arZe9Vz0tMRnOL4xx5WkyVIlPmi.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iSrw6tCzdsM8sNvSAqG3RrjcRKe.jpg</fanart>
-<info>Quando a pequena Yi encontra Yeti, o cÈlebre Abomin·vel Homem das Neves, no terraÁo do prÈdio de Shangai onde vive, ela e as suas amigas Jin e Peng apelidam-no de Evereste e iniciam uma odisseia para devolver a criatura ‡s suas origens no ponto mais elevado da Terra. Mas nada ser· f·cil, desde logo pelos inimigos que tÍm de enfrentar para cumprirem a sua nobre miss„o.</info>
+<info>Quando a pequena Yi encontra Yeti, o c√©lebre Abomin√°vel Homem das Neves, no terra√ßo do pr√©dio de Shangai onde vive, ela e as suas amigas Jin e Peng apelidam-no de Evereste e iniciam uma odisseia para devolver a criatura √†s suas origens no ponto mais elevado da Terra. Mas nada ser√° f√°cil, desde logo pelos inimigos que t√™m de enfrentar para cumprirem a sua nobre miss√£o.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]Ahmed, o PrÌncipe de Alhambra[/COLOR]</title>
+<title>[COLOR lime]Ahmed, o Pr√≠ncipe de Alhambra[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17n4A7B9f0Zh0qfo8U1_jskq990ccJU4c/view?usp=drivesdk</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzAzZjhkMWMtMjBiNi00N2Q4LWIzMmMtOTM3NTY4YzFkNzVhXkEyXkFqcGdeQXVyNjU3ODUxMTc@._V1_SY1000_CR0,0,702,1000_AL_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BYzAzZjhkMWMtMjBiNi00N2Q4LWIzMmMtOTM3NTY4YzFkNzVhXkEyXkFqcGdeQXVyNjU3ODUxMTc@._V1_SY1000_CR0,0,702,1000_AL_.jpg</fanart>
@@ -176,40 +176,208 @@
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FQLdXD-ET7SLHkA_Fh_FN2Crs4PEP3iK/view?usp=drivesdk</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTJmODM0MDQtMTRjYy00YWZjLThjODItMzQ5N2I2NDBjYzA1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX750_AL_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BYzJkOGY0YTItOWI4OS00ZTNiLTlmNzMtYjg1ZmQ2MDI5NDk2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</fanart>
-<info>Scooby e sua turma enfrentam seu mistÈrio mais desafiador: uma trama para libertar o c„o fantasma Cerberus sobre o mundo. Enquanto eles correm para impedir esse dogpocalypse, a gangue descobre que Scooby tem um destino Èpico maior do que qualquer um poderia imaginar.</info>
+<info>Scooby e sua turma enfrentam seu mist√©rio mais desafiador: uma trama para libertar o c√£o fantasma Cerberus sobre o mundo. Enquanto eles correm para impedir esse dogpocalypse, a gangue descobre que Scooby tem um destino √©pico maior do que qualquer um poderia imaginar.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]O ParaÌso da Barafunda[/COLOR]</title>
+<title>[COLOR lime]O Para√≠so da Barafunda[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WKhKC-jEW8JnMEY8KTjEYCLZjA35PeEy/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Sm61aFV7UVFMHWrzrSRRjVhiD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rQKlcMY8i3elENXEHlkAbQr3xiG.jpg</fanart>
-<info>A fazenda Caminho do ParaÌso est· em p‚nico, pois uma aÁ„o de despejo ameaÁa acabar com o local. Temendo ir para o matadouro, os animais da fazenda decidem ajudar a dona a conseguir a quantia necess·ria para pagar a hipoteca. O alvo escolhido pelo grupo È o perigoso bandido Alameda Slim, que tem uma grande recompensa reservada para quem captur·-lo.</info>
+<info>A fazenda Caminho do Para√≠so est√° em p√¢nico, pois uma a√ß√£o de despejo amea√ßa acabar com o local. Temendo ir para o matadouro, os animais da fazenda decidem ajudar a dona a conseguir a quantia necess√°ria para pagar a hipoteca. O alvo escolhido pelo grupo √© o perigoso bandido Alameda Slim, que tem uma grande recompensa reservada para quem captur√°-lo.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]Fuga do Planeta Terra[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zvsuCDMF3OnJgLQEtfy-IUdPzsZROfx9/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0bYdXu4L9hdKpU6NzBWeVpSXKQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dlReM2zDrOfkvrJj9R96XmhNdS4.jpg</fanart>
-<info>Scorch Supernova (Brendan Fraser) È um herÛi interplanet·rio bastante conhecido, j· que seus feitos costumam ser televisionados para todo o planeta Babum. Isto faz com que ele se torne uma lenda para as crianÁas, graÁas tambÈm ‡ ajuda de Gary (Rob Corddry), o diretor da Miss„o BASA Control e seu irm„o. Namorando a bela repÛrter Gabby Tagarela (Sofia Vergara) e tendo o sobrinho Kip (Jonathan Morgan Heit) como f„ n˙mero um, Scorch tem sua vida alterada aoser enviado em uma miss„o no planeta proibido, tambÈm conhecido como Terra. O problema È que nenhum astronauta retornou de l· e, por causa disto, Gary n„o quer que o irm„o embarque nesta aventura. Scorch nem se importa com os alertas e viaja assim mesmo, n„o sem antes desfazer a parceria com Gary. PorÈm, quando Scorch È capturado pelos terr·queos em meio a uma transmiss„o ao vivo pela TV, Gary n„o vÍ outra alternativa a n„o ser tambÈm viajar ‡ Terra para salv·-lo.</info>
+<info>Scorch Supernova (Brendan Fraser) √© um her√≥i interplanet√°rio bastante conhecido, j√° que seus feitos costumam ser televisionados para todo o planeta Babum. Isto faz com que ele se torne uma lenda para as crian√ßas, gra√ßas tamb√©m √† ajuda de Gary (Rob Corddry), o diretor da Miss√£o BASA Control e seu irm√£o. Namorando a bela rep√≥rter Gabby Tagarela (Sofia Vergara) e tendo o sobrinho Kip (Jonathan Morgan Heit) como f√£ n√∫mero um, Scorch tem sua vida alterada aoser enviado em uma miss√£o no planeta proibido, tamb√©m conhecido como Terra. O problema √© que nenhum astronauta retornou de l√° e, por causa disto, Gary n√£o quer que o irm√£o embarque nesta aventura. Scorch nem se importa com os alertas e viaja assim mesmo, n√£o sem antes desfazer a parceria com Gary. Por√©m, quando Scorch √© capturado pelos terr√°queos em meio a uma transmiss√£o ao vivo pela TV, Gary n√£o v√™ outra alternativa a n√£o ser tamb√©m viajar √† Terra para salv√°-lo.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]Chicken Little[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d2OzqFE5lfrdjXmXDN206slem7JvDURs/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZFL0w2qnkTAbGwS59QAF3WXRiq.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/x7gFWu9CxTxw7VmkdQAtKocZJtI.jpg</fanart>
-<info>Chicken Little (Zach Braff) È um galo cheio de imaginaÁ„o, que vive aprontando as maiores confusıes. Um dia ele provoca p‚nico generalizado na cidade onde vive, ao confundir a queda de uma avel„ com um pedaÁo do cÈu que esteja caindo. ApÛs a verdade vir ‡ tona, Chicken Little perde todo o crÈdito junto aos habitantes, que n„o acreditam mais no que ele diz. PorÈm, quando um pedaÁo do cÈu realmente cai em sua cabeÁa, ele precisa encontrar um jeito de salvar a cidade sem fazer com que todos entrem em p‚nico mais uma vez.</info>
+<info>Chicken Little (Zach Braff) √© um galo cheio de imagina√ß√£o, que vive aprontando as maiores confus√µes. Um dia ele provoca p√¢nico generalizado na cidade onde vive, ao confundir a queda de uma avel√£ com um peda√ßo do c√©u que esteja caindo. Ap√≥s a verdade vir √† tona, Chicken Little perde todo o cr√©dito junto aos habitantes, que n√£o acreditam mais no que ele diz. Por√©m, quando um peda√ßo do c√©u realmente cai em sua cabe√ßa, ele precisa encontrar um jeito de salvar a cidade sem fazer com que todos entrem em p√¢nico mais uma vez.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]Fearless[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LeaEyKYdrxZLucnGiE1DFodspNJc6w_d/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDpwXzUz9eqd04X1pnrdflm6xwH.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8vaNiHJr9iZfiWKgnqgWR0a53oM.jpg</fanart>
-<info>Um adolescente que adora videojogos È forÁado a ganhar uns nÌveis em 'babysitter' quando o seu jogo favorito deixa trÍs bebÈs espaciais superpoderosos ao seu cuidado.</info>
+<info>Um adolescente que adora videojogos √© for√ßado a ganhar uns n√≠veis em 'babysitter' quando o seu jogo favorito deixa tr√™s beb√©s espaciais superpoderosos ao seu cuidado.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR lime]Float[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fxlvjGV2QiExIN-d4msyIz_xHBY421b5/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uo0XfFnovYeQ27YyW6ayK5SM6w5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5eaSJT365mGmUqli9O2khkE9fab.jpg</fanart>
-<info>Um pai descobre que seu filho flutua, o que o torna diferente das outras crianÁas. Para mantÍ-los protegidos do julgamento do mundo, papai o esconde, cobre e o protege. Mas quando a habilidade de seu filho se torna p˙blica, papai precisa decidir se foge e se esconde ou se aceita seu filho como ele È.</info>
+<info>Um pai descobre que seu filho flutua, o que o torna diferente das outras crian√ßas. Para mant√™-los protegidos do julgamento do mundo, papai o esconde, cobre e o protege. Mas quando a habilidade de seu filho se torna p√∫blica, papai precisa decidir se foge e se esconde ou se aceita seu filho como ele √©.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Um Conto Americano 2 - Fievel no Faroeste[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19a0-OxvQxzgfrRPPnevI3ueiNjWD1MXI/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cImuS7FE9MHT5vnwIHGx1Ryh0K1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6scIG1WRoUwwOOqJnuNFLmy5bui.jpg</fanart>
+<info>Algum tempo depois de os Mousekewitz se estabelecerem na Am√©rica, eles descobrem que ainda est√£o tendo problemas com a amea√ßa dos gatos. Isso os deixa ansiosos para tentar outra casa no oeste, onde lhes foi prometido que ratos e gatos viveriam em paz. Infelizmente, quem est√° fazendo essa afirma√ß√£o √© um vigarista oleoso chamado Cat R. Waul, que est√° concentrado em seu pr√≥prio plano sinistro.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Up: Altamente![/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i02lFqXfMeSwwU192tZvRJk3xdP76XBi/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kms7XVDS6v7ic2jEw6N4DslQrWx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cyVZKnP64VTrnRPXduFwmCZkxLi.jpg</fanart>
+<info>Carl Fredricksen √© um idoso que sempre viveu na mesma casa e mant√©m viva a mem√≥ria da falecida mulher, Ellie. Mas o terreno da casa √© cobi√ßado pelas imobili√°rias e, ap√≥s um mal-entendido, ele √© for√ßado a ir para um asilo e vender a casa. Para o evitar, decide cumprir um sonho nunca realizado: viajar at√© √†s Cataratas do Para√≠so, nas selvas da Am√©rica do Sul... e vai levar tudo, incluindo a sua casa e Russell, um prest√°vel mas indesejado escuteiro que s√≥ quer ganhar uma medalha por ajudar idosos.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]Vaiana[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1beQdZA4OckX6laXJ4BFMHtoiHndSKIn2/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFBJkT3EGnTuN11sYvgCIRX8UqJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qLVNZFHYUR6Li64He67SWl6BHQe.jpg</fanart>
+<info>H√° 2000 anos atr√°s, no Pac√≠fico Sul e Oceania, vivia Vaiana Waialik, uma jovem navegadora, filha √∫nica de um chefe de uma longa linhagem de navegadores chamados Tui. Certo dia, quando a sua fam√≠lia precisa de ajuda, Vaiana decide aventurar-se pelos mares, √† procura de uma ilha lend√°ria. Juntamente com o lend√°rio semideus Maui, Vaiana vai explorar oceanos, encontrando pelo caminho enormes criaturas do mar profundo e submundos de cortar a respira√ß√£o.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Spycies: Agentes Especiais[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1laPVqhWJf-NiX2l57uVVD1y4sNmo4NOn/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/agmecdTjKctaFWc6LHLVIr5P3TP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/p9tdFuUe1Xc9YYMmPcqMczttnvG.jpg</fanart>
+<info>Vladimir e Hector, dois agentes secretos opostos em todos os sentidos, est√£o a tentar recuperar um material extremamente secreto que foi roubado por intrusos desconhecidos.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Sininho: Fadas e Piratas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WZmJQZBCLEi8hBH3XmiQ2Bn9P7iYc47n/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wnJj5SPmR70o6YK3m31SnOT33.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iSTeUQ2NbVypZHdR18AXCgAqiPA.jpg</fanart>
+<info>Quando uma fada incompreendida chamada Zarina rouba o important√≠ssimo p√≥ m√°gico azul e voa para longe a fim unir for√ßas com os piratas da Pedra da Caveira, Tinker Bell e suas amigas fadas devem embarcar em uma aventura para devolv√™-lo ao seu devido lugar. No entanto, em meio √† busca por Zarina, o mundo de Tink √© virado do avesso. Ela e suas amigas descobrem que seus respectivos talentos foram trocados e precisam correr contra o tempo para recuperar o p√≥ azul, voltar para casa e salvar o Ref√∫gio das Fadas.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Sininho[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-S37esBTL9SdaVBmr3c968hR9Mr1Hrbc/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/azgjMUMoUJB2yheVcN1Ae8lFNeD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uMDrlSv4QFsRhb3K5VWHWP7ykZO.jpg</fanart>
+<info>Trocar as cores das folhas, criar raios de sol que derretem a neve do Inverno e acordam os animais, s√£o coisas da especialidade das fadas. Sininho acha que o seu dom de fada n√£o √© nada especial, comparando como os dons das outras fadas... Mas quando a pequena fada tenta mudar a sua maneira de ser, acaba criando um desastre. Com a ajuda das suas amigas Rosetta, Silvermist e Iridessa, Sininho aprende como √© importante o seu dom e descobre que s√≥ sendo fiel a si pr√≥pria √© que as coisas m√°gicas podem acontecer.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Sininho: E o Segredo das Fadas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YtkvGnDjBBKk9be3ndN3SDdInGK298mK/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4XtmRHjpcN8r4ZUn7g3kGEE3F4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5Cw7pZPaO6cBogVLmEGTHqGZ8yg.jpg</fanart>
+<info>Tinker Bell, tamb√©m conhecida como Sininho, √© uma fada do ver√£o que habita o Vale das Fadas. Curiosa e arteira, ela decide quebrar uma importante regra e vai parar no Bosque do Inverno. L√°, ela n√£o pode voar porque est√° agasalhada e quando buscava entender a raz√£o de suas asas terem um brilho especial, acaba conhecendo uma fada do inverno que tem o mesmo "poder". Com a ajuda do Guardi√£o, um s√°bio local, elas descobrir√£o um importante segredo que mudar√° para sempre as suas vidas, mas tamb√©m colocar√£o em risco o dia a dia de outros seres de toda a regi√£o.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Sininho: Salva as Fadas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JnxcbokI18VGGfnseYgRr1D-UGxRBuUM/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwxzkqyha2iEjo6fUTXOZm84i2S.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/smsR5emwZfwdhmoD7XPPJMOpN3r.jpg</fanart>
+<info>O que voc√™ faria se conhecesse uma fada? Seja testemunha de um momento hist√≥rico quando Tinker Bell se encontra pela primeira vez com um humano.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Sininho: E o Tesouro Perdido[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18UsrQxyQM5-lSkDJUoPAYTlInGv-NL7j/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKTfGR1ksZGusE1fsqr7WqzUGuw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/igHPYHUDVNQKfixdrUiu1Jgk2Ko.jpg</fanart>
+<info>Neste ano, o outono promete ser ainda mais especial, a grande lua azul da colheita ir√° brilhar, permitindo que as fadas utilizem a Pedra da Lua para restaurar a √°rvore do pozinho m√°gico, a fonte de todas as magias. Mas quando Tinker Bell acidentalmente coloca todo o Ref√∫gio das Fadas em perigo, ela precisa se aventurar do outro lado do oceano numa busca secreta para corrigir seus erros.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Sininho e a Lenda do Monstro da Terra do Nunca[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IAAFzn9u_aWP2H4zVvZ32sIn0VxtmsGh/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwv9AdjVlr0LBsNAPpk2LllJqAd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gzCE4KyiypSNRhvng6TiF9fblxR.jpg</fanart>
+<info>A fada Fawn sempre teve um bom cora√ß√£o e se recusou a ver maldade nas pessoas. Por isso, ela torna-se amiga de um gigantesco monstro. Sininho e suas amigas temem que essa rela√ß√£o possa ser nociva para todas as moradoras da cidade, e decidem combater o vil√£o antes que seja tarde.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Sininho - Os Jogos do Vale das Fadas[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YjgYDKfp81-W5EC29irwnVKvLIW8bo-b/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KJXHHYrBSPFfkBA5EyY9zGUH3O.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iIH0VQjjrIM4zGuQC0HbpYnXRG.jpg</fanart>
+<info>Chloe, Sininho e as restantes fadas assistem aos lend√°rios Jogos do Vale das Fadas, um evento desportivo cheio de estilo. A rec√©m-chegada, Chloe, est√° determinada em quebrar a tradi√ß√£o e treinar bastante para vencer esta lend√°ria competi√ß√£o mas, para sua grande dece√ß√£o, todas as restantes fadas parecem ter j√° aceitado a derrota. Com o seu esp√≠rito positivo e motivador, Chloe consegue convencer as suas amigas fadas que podem vencer o torneio.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Phineas and Ferb The Movie: Candace Against the Universe[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YFx3FW2vAQ9Tx-iE0Zk68hTX0Nal0GFS/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNYCXgfBZiFdPcSY5h1AGxly7W8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/adg3lLfK5ApddEf1P6NJYV9QiGu.jpg</fanart>
+<info>Depois de Candace ser abduzida por alien√≠genas, Phineas e Ferb embarcam numa jornada para resgat√°-la.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Para Al√©m da Lua[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12pqrbQDEpVKu-DCeIGl2Gu0iODHCUhwQ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jalZ1oVkuuVXek0B2BKrFWMUv9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vwYI3vWEwFs40HfmSQzPcGMVYfD.jpg</fanart>
+<info>Uma garota constr√≥i um foguete para viajar at√© a lua na esperan√ßa de encontrar a lend√°ria Deusa da Lua.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Mosley e a Cidade Secreta[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UgRGTDNQPfWEe65Wb64jflN1AmyNI2FJ/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWDliPINkVz5IRl4mCbJFCsQf4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yvucColaE4yrjrf6mZFrDSy1xUA.jpg</fanart>
+<info>Mosley e a sua fam√≠lia de Torifantes de quatro patas vivem numa quinta isolada que pertence a Simon, um campon√™s sombrio e mesquinho. Uma noite, ap√≥s passar o dia inteiro a lavrar, Mosley √© surpreendido pelo filho Rue que lhe diz que descobriu algo m√°gico na floresta pr√≥xima da quinta. Bera, a esposa gr√°vida de Mosley, encoraja-o a ir com o filho. Embora cansado, Mosley segue o filho floresta adentro e descobre o motivo do entusiasmo de Rue: uma gruta com gravuras ancestrais nas paredes. S√£o Torifantes, semelhantes a Mosley e Rue, mas que andam em duas patas, com as Costas Direitas! Seriam assim os Torifantes do passado? O que teria acontecido para se tornarem criaturas sem m√£os e de costas arqueadas? √â isto que Mosley ir√° tentar descobrir, partindo numa aventura incr√≠vel para tentar libertar a sua fam√≠lia.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Khumba[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QfVd3CVsLJDHrUK38fhDQXjr8lBl3IWb/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQfFslEZlouRR5tlwzeO8XAjgtb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/81ZIjRvgr99Tsi7Kleu9XK93Dyg.jpg</fanart>
+<info>Khumba, uma zebra com apenas metade das riscas, aventura-se numa viagem inici√°tica para conquistar as riscas que lhe faltam, quando a sua 'tribo' o culpa pela falta de chuva. Na busca da lend√°ria fonte onde as primeiras zebras obtiveram as riscas, Khumba cruza-se com um estranho naipe de personagens e alia-se a um duo improv√°vel: uma gnu super-protectora e um avestruz auto-obcecado. Mas antes de poder reintegrar a 'tribo', Khumba ter√° de defrontar o feroz leopardo que controla a fonte e aterroriza os demais animais. Nem tudo √© preto e branco nesta colorida e diferente aventura!</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Jesus e os Milagres[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IlZddQUNT5kk05urqRyhONxKa_Y92SxO/view?usp=drivesdk</link>
+<thumbnail>https://i.pinimg.com/564x/1c/34/e0/1c34e02b64197fd6871ea6142fe9c69f.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OVR1lociODc/hqdefault.jpg</fanart>
+<info>Jesus andava por lugares e aonde ele passava fazia milagres.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Heidi Na Cidade O Filme 1979[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iVbMq57-U97nQAY6NCB96AnljM_EAv9r/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJDwKm9lrlFYJlE8dPcv4z2PT0U.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dtS3UF8PU1a6KlDYkA1sELIOaWa.jpg</fanart>
+<info></info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Por √Ågua Abaixo[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yZ75j7e_9ifDnySouHyRKwc6oMh4DKO4/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS6qEY1QDRVmjjG5MV0v1PU0loX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y3fm1HSjJoVMi4Cw4DFwMRZRdaa.jpg</fanart>
+<info>Roddy √©, decididamente, um rato de alta-roda, que vive uma vida de animal de estima√ß√£o mimado num apartamento chique em Kensington, equipado com dois hamsters-mordomos, Gilbert e Sullivan. No entanto, quando um vulgar rato de esgoto chamado Sid sai em jorro do lavat√≥rio, congratulando-se por ter ganho o jackpot, Roddy concebe mil e um esquemas elaborados para se libertar da peste, nomeadamente atraindo-o ao "jacuzzi"‚Ä¶</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Branca de Neve e os Sete An√µes[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sKVq7Lz-EPXmVDwxA8I_7iRDxXPShngl/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pmZiChyJs5Y0tz7sMAiZNNIo9z4.jpg</fanart>
+<info>Uma angelical princesa √© alvo dos ci√∫mes da rainha, que a quer morta. Ela foge e passa a viver com sete engra√ßados an√µes que moram na floresta. Mas a rainha, que possui poderes m√°gicos, n√£o se d√° por satisfeita.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Dois Irm√£os - Uma Jornada Fant√°stica[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1imULe3ChDv_geq_5Z_9Tl0YLsU3orBx-/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg</fanart>
+<info>Num mundo de fantasia urbano, dois irm√£os elfos adolescentes, Ian e Barley Lightfoot, embarcam numa aventura para descobrir se ainda resta um pouco de magia para passar um √∫ltimo dia com o pai que morreu quando eles eram muito novos.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Divertida-Mente[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vL1TowZnZje8BtOIfh7DEo9S82z3Uu9g/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg</fanart>
+<info>Riley √© uma menina de 11 anos que ter√° que dizer adeus a uma vida feliz no estado americano do Minnesota e come√ßar uma nova vida, bastante do seu desagrado, em S√£o Francisco. Numa viagem ao interior do seu c√©rebro, percebe-se como se formam as mem√≥rias e como da a√ß√£o conjunta de cinco emo√ß√µes ‚Äì alegria, nojo, raiva, tristeza e medo ‚Äì se definem experi√™ncias fundamentais, como fazer novos amigos.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Brave - Indom√°vel[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b6jbdQOCePUopHk24isp0fJhlPKP05Gq/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYbCpjAsyJ0uO0rKcvJ295INZZp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg</fanart>
+<info>Merida √© uma habilidosa arqueira e a impetuosa filha do Rei Fergus e da Rainha Elinor. Determinada a trilhar o seu pr√≥prio destino, desafia um costume ancestral, sagrado para os poderosos senhores da terra: o casamento por conveni√™ncia com um dos filhos dos chefes tribais: o intenso Lorde MacGuffin, o arrogante Lorde Macintosh e o irritante Lorde Dingwall. Mas as ac√ß√µes de Merida lan√ßam, inadvertidamente, o caos e a f√∫ria no reino e, quando ela recorre a uma velha bruxa, a ajuda vem em forma de maldi√ß√£o.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Big Hero 6 - Os Novos Her√≥is[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hdjez1M6PiaZkQYqQ9MxBP8L4qGI4sSA/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EodFesjReSDlX1c0I5ANZijBFy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xA3Eoha7oI0F1GmsKTVsUKuecZz.jpg</fanart>
+<info>Com√©dia de aventura repleta de a√ß√£o sobre o prod√≠gio da rob√≥tica Hiro Hamada, que aprende a tirar partido do seu g√©nio - gra√ßas ao seu brilhante irm√£o Tadashi e aos seus amigos: a viciada em adrenalina Go Go Tamago, o obcecado pela organiza√ß√£o Wasabi No-Ginger, a g√©nio da qu√≠mica Honey Lemon e o fanboy Fred. Quando uma inesperada mudan√ßa de acontecimentos os catapulta para o centro de uma trama perigosa que se desenrola nas ruas de San Fransokyo, Hiro torna-se, para o seu companheiro mais pr√≥ximo, um robot chamado Baymax e transforma o grupo em her√≥is de alta tecnologia, determinados a resolver o mist√©rio.</info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+item>
+<title>[COLOR lime]Ferdinando[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1raSepLkeytw8QJra3rf_qmWcGChR8xuq/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z4SysiS73JvRAiVYy7gZW5JbpQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tirtMoebpAPrkHovuB4dnA4Y8do.jpg</fanart>
+<info>A hist√≥ria de um touro gigante com um cora√ß√£o enorme, que ao ser confundido com um animal perigoso, √© capturado e arrancado de sua casa. Determinado a voltar para a sua fam√≠lia, ele re√∫ne uma equipa totalmente desajustada para esta fant√°stica aventura. Passado em Espanha, Ferdinando prova que n√£o devemos julgar ningu√©m pelas apar√™ncias.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
